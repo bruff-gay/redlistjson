@@ -2037,6 +2037,7 @@
 {"name": "a2acommerce", "subscribers": 0, "nsfw": false}
 {"name": "a2b2", "subscribers": 498, "nsfw": false}
 {"name": "a2b2dotorg", "subscribers": 81, "nsfw": false}
+{"name": "a2c_circlejerk", "subscribers": 0, "nsfw": false}
 {"name": "a2cportalastrology", "subscribers": 22, "nsfw": false}
 {"name": "a2ochannel", "subscribers": 24, "nsfw": false}
 {"name": "a2tabletop", "subscribers": 74, "nsfw": false}
@@ -10716,6 +10717,7 @@
 {"name": "appleandonion", "subscribers": 683, "nsfw": false}
 {"name": "applearcade", "subscribers": 0, "nsfw": false}
 {"name": "applebad", "subscribers": 52, "nsfw": false}
+{"name": "applebandmarket", "subscribers": 0, "nsfw": false}
 {"name": "applebees", "subscribers": 4338, "nsfw": false}
 {"name": "applebloom", "subscribers": 287, "nsfw": false}
 {"name": "applebonetea", "subscribers": 11, "nsfw": false}
@@ -10814,10 +10816,12 @@
 {"name": "appleweather", "subscribers": 56, "nsfw": false}
 {"name": "applewhatshouldibuy", "subscribers": 6382, "nsfw": false}
 {"name": "appliance", "subscribers": 390, "nsfw": false}
+{"name": "applianceadvice", "subscribers": 0, "nsfw": false}
 {"name": "appliancepros", "subscribers": 83, "nsfw": false}
 {"name": "appliancerepair", "subscribers": 82925, "nsfw": false}
 {"name": "appliancerepairfixit", "subscribers": 1, "nsfw": false}
 {"name": "appliances", "subscribers": 0, "nsfw": false}
+{"name": "appliancetechtalk", "subscribers": 0, "nsfw": false}
 {"name": "appliedartsegy", "subscribers": 21, "nsfw": false}
 {"name": "appliedbuddhism", "subscribers": 0, "nsfw": false}
 {"name": "appliedscience", "subscribers": 387, "nsfw": false}
@@ -10825,6 +10829,7 @@
 {"name": "appliedtocollege", "subscribers": 649, "nsfw": false}
 {"name": "appligame_jp", "subscribers": 0, "nsfw": false}
 {"name": "applycoldwatertoburn", "subscribers": 26, "nsfw": false}
+{"name": "applying", "subscribers": 0, "nsfw": false}
 {"name": "applyinghypsm", "subscribers": 339, "nsfw": false}
 {"name": "applyingivyleague", "subscribers": 15715, "nsfw": false}
 {"name": "applyingtocollege", "subscribers": 1255941, "nsfw": false}
@@ -10851,6 +10856,7 @@
 {"name": "approvalcalifornia", "subscribers": 372, "nsfw": false}
 {"name": "apps", "subscribers": 71806, "nsfw": false}
 {"name": "appsandroid", "subscribers": 319, "nsfw": false}
+{"name": "appsgoneforfree", "subscribers": 0, "nsfw": false}
 {"name": "appsheet", "subscribers": 3024, "nsfw": false}
 {"name": "appstate", "subscribers": 10394, "nsfw": false}
 {"name": "appstateevertsposting", "subscribers": 85, "nsfw": false}
@@ -11158,6 +11164,7 @@
 {"name": "arcbrowserlegacy", "subscribers": 19, "nsfw": false}
 {"name": "arcdyer", "subscribers": 147, "nsfw": false}
 {"name": "arcea", "subscribers": 13, "nsfw": false}
+{"name": "arcelik", "subscribers": 0, "nsfw": false}
 {"name": "arcflowcodex", "subscribers": 51, "nsfw": false}
 {"name": "arcfurnace", "subscribers": 186, "nsfw": false}
 {"name": "arcgis", "subscribers": 16822, "nsfw": false}
@@ -13298,6 +13305,7 @@
 {"name": "assempire", "subscribers": 258, "nsfw": false}
 {"name": "assenzioitalia", "subscribers": 18, "nsfw": false}
 {"name": "assertiveprotesting", "subscribers": 0, "nsfw": false}
+{"name": "assessments", "subscribers": 0, "nsfw": false}
 {"name": "asset_hodler", "subscribers": 29, "nsfw": false}
 {"name": "assetmanagement", "subscribers": 2284, "nsfw": false}
 {"name": "assetmantle", "subscribers": 577, "nsfw": false}
@@ -18548,6 +18556,7 @@
 {"name": "bekaloo", "subscribers": 68, "nsfw": false}
 {"name": "bekasi", "subscribers": 66, "nsfw": false}
 {"name": "bekescsaba", "subscribers": 609, "nsfw": false}
+{"name": "beko", "subscribers": 0, "nsfw": false}
 {"name": "bekyamon", "subscribers": 14, "nsfw": false}
 {"name": "bel__lopes", "subscribers": 14, "nsfw": false}
 {"name": "belabourlaw", "subscribers": 289, "nsfw": false}
@@ -21655,6 +21664,7 @@
 {"name": "blatantmisogyny", "subscribers": 57456, "nsfw": false}
 {"name": "blaugust", "subscribers": 19, "nsfw": false}
 {"name": "blaulicht", "subscribers": 44319, "nsfw": false}
+{"name": "blaupunkt", "subscribers": 0, "nsfw": false}
 {"name": "blauwestad", "subscribers": 12, "nsfw": false}
 {"name": "blavingad", "subscribers": 746, "nsfw": false}
 {"name": "blazblue", "subscribers": 38941, "nsfw": false}
@@ -23475,6 +23485,7 @@
 {"name": "boscaceoil", "subscribers": 419, "nsfw": false}
 {"name": "bosch_ebike_riders", "subscribers": 359, "nsfw": false}
 {"name": "boscha_cult", "subscribers": 34, "nsfw": false}
+{"name": "boschappliances", "subscribers": 0, "nsfw": false}
 {"name": "boschlow", "subscribers": 1172, "nsfw": false}
 {"name": "boschsmartsystem", "subscribers": 371, "nsfw": false}
 {"name": "bose", "subscribers": 63642, "nsfw": false}
@@ -28244,6 +28255,7 @@
 {"name": "carltonblues", "subscribers": 14205, "nsfw": false}
 {"name": "carlysimon", "subscribers": 57, "nsfw": false}
 {"name": "carmageddon", "subscribers": 1301, "nsfw": false}
+{"name": "carmalfunctions", "subscribers": 0, "nsfw": false}
 {"name": "carmax", "subscribers": 18598, "nsfw": false}
 {"name": "carmaxlla", "subscribers": 10833, "nsfw": false}
 {"name": "carmaxunion", "subscribers": 33, "nsfw": false}
@@ -37050,6 +37062,7 @@
 {"name": "coronaviruswaself", "subscribers": 292, "nsfw": false}
 {"name": "coronaviruswv", "subscribers": 927, "nsfw": false}
 {"name": "coronistan", "subscribers": 18, "nsfw": false}
+{"name": "coros", "subscribers": 0, "nsfw": false}
 {"name": "corosdura", "subscribers": 137, "nsfw": false}
 {"name": "corot", "subscribers": 302, "nsfw": false}
 {"name": "corpfree", "subscribers": 6890, "nsfw": false}
@@ -38093,6 +38106,7 @@
 {"name": "creamy_pussys", "subscribers": 92675, "nsfw": true}
 {"name": "creamycami8407", "subscribers": 433, "nsfw": false}
 {"name": "creamychoco", "subscribers": 35, "nsfw": false}
+{"name": "creappraisers", "subscribers": 0, "nsfw": false}
 {"name": "crearedisnowaword", "subscribers": 28, "nsfw": false}
 {"name": "creasee3d", "subscribers": 57, "nsfw": false}
 {"name": "createaab", "subscribers": 105, "nsfw": false}
@@ -51173,6 +51187,7 @@
 {"name": "electronicarts", "subscribers": 0, "nsfw": false}
 {"name": "electronicband", "subscribers": 122, "nsfw": false}
 {"name": "electronicdancemusic", "subscribers": 4083, "nsfw": false}
+{"name": "electronicdevices", "subscribers": 0, "nsfw": false}
 {"name": "electronicheads", "subscribers": 41, "nsfw": false}
 {"name": "electronichouse", "subscribers": 66, "nsfw": false}
 {"name": "electronicmusic", "subscribers": 2630047, "nsfw": false}
@@ -75612,6 +75627,7 @@
 {"name": "hotpiewinsthethrone", "subscribers": 1136, "nsfw": false}
 {"name": "hotpocket", "subscribers": 38, "nsfw": false}
 {"name": "hotpockets", "subscribers": 2188, "nsfw": false}
+{"name": "hotpoint", "subscribers": 0, "nsfw": false}
 {"name": "hotpopulargirlsss", "subscribers": 295, "nsfw": false}
 {"name": "hotpursuit", "subscribers": 247, "nsfw": false}
 {"name": "hotreelsparty", "subscribers": 50, "nsfw": false}
@@ -81543,6 +81559,7 @@
 {"name": "ios18beta", "subscribers": 10242, "nsfw": false}
 {"name": "ios18homescreen", "subscribers": 42, "nsfw": false}
 {"name": "ios19beta", "subscribers": 137, "nsfw": false}
+{"name": "ios26", "subscribers": 0, "nsfw": false}
 {"name": "ios26beta", "subscribers": 0, "nsfw": false}
 {"name": "ios27", "subscribers": 0, "nsfw": false}
 {"name": "ios_bug", "subscribers": 34, "nsfw": false}
@@ -82880,6 +82897,7 @@
 {"name": "itumemes", "subscribers": 89, "nsfw": false}
 {"name": "itunes", "subscribers": 12997, "nsfw": false}
 {"name": "itunesdeals", "subscribers": 4677, "nsfw": false}
+{"name": "itunesmoviedeals", "subscribers": 0, "nsfw": false}
 {"name": "itupsychologyclub", "subscribers": 22, "nsfw": false}
 {"name": "itutor", "subscribers": 693, "nsfw": false}
 {"name": "itwarbazar", "subscribers": 60, "nsfw": false}
@@ -93777,6 +93795,7 @@
 {"name": "lidr_stock", "subscribers": 513, "nsfw": false}
 {"name": "lie", "subscribers": 156, "nsfw": false}
 {"name": "liebefuervermieter", "subscribers": 293, "nsfw": false}
+{"name": "liebherr", "subscribers": 0, "nsfw": false}
 {"name": "liebigschulegoogly", "subscribers": 26, "nsfw": false}
 {"name": "liechtenstein", "subscribers": 4585, "nsfw": false}
 {"name": "liefound", "subscribers": 14, "nsfw": false}
@@ -95622,6 +95641,7 @@
 {"name": "lonelyfellas", "subscribers": 40, "nsfw": false}
 {"name": "lonelygeese", "subscribers": 34, "nsfw": false}
 {"name": "lonelygo", "subscribers": 45, "nsfw": false}
+{"name": "lonelyheartbeats", "subscribers": 0, "nsfw": false}
 {"name": "lonelyhusbands", "subscribers": 56, "nsfw": false}
 {"name": "lonelymalenerds", "subscribers": 57, "nsfw": false}
 {"name": "lonelymeyerspod", "subscribers": 5066, "nsfw": false}
@@ -103760,6 +103780,7 @@
 {"name": "microwavegang", "subscribers": 1575, "nsfw": false}
 {"name": "microwavelore", "subscribers": 63, "nsfw": false}
 {"name": "microwavememes", "subscribers": 110, "nsfw": false}
+{"name": "microwaverepair", "subscribers": 0, "nsfw": false}
 {"name": "microwaves", "subscribers": 309, "nsfw": false}
 {"name": "microwavesandtoasters", "subscribers": 112, "nsfw": false}
 {"name": "microwavesintering", "subscribers": 46, "nsfw": false}
@@ -108010,6 +108031,7 @@
 {"name": "movierewrites", "subscribers": 74, "nsfw": false}
 {"name": "movies", "subscribers": 37387921, "nsfw": false}
 {"name": "moviesandsoundtracks", "subscribers": 43, "nsfw": false}
+{"name": "moviesanywhere", "subscribers": 0, "nsfw": false}
 {"name": "moviesbestof", "subscribers": 2, "nsfw": false}
 {"name": "moviesbyminutes", "subscribers": 44, "nsfw": false}
 {"name": "moviescene", "subscribers": 42, "nsfw": false}
@@ -109213,6 +109235,7 @@
 {"name": "musicreviews", "subscribers": 963, "nsfw": false}
 {"name": "musicsamplespacks", "subscribers": 3268, "nsfw": false}
 {"name": "musicschildren", "subscribers": 89, "nsfw": false}
+{"name": "musicschool", "subscribers": 0, "nsfw": false}
 {"name": "musicsearch", "subscribers": 197, "nsfw": false}
 {"name": "musicsemiotics", "subscribers": 257, "nsfw": false}
 {"name": "musicspain", "subscribers": 225, "nsfw": false}
@@ -128131,6 +128154,7 @@
 {"name": "ponylang", "subscribers": 674, "nsfw": false}
 {"name": "ponymotes", "subscribers": 319, "nsfw": false}
 {"name": "ponyo", "subscribers": 1021, "nsfw": false}
+{"name": "ponyshipping", "subscribers": 0, "nsfw": false}
 {"name": "ponzamtg", "subscribers": 2436, "nsfw": false}
 {"name": "ponzischemeavenger", "subscribers": 23, "nsfw": false}
 {"name": "poodawg3", "subscribers": 12, "nsfw": false}
@@ -151039,6 +151063,7 @@
 {"name": "southlaketexas", "subscribers": 995, "nsfw": false}
 {"name": "southlouisiana", "subscribers": 314, "nsfw": false}
 {"name": "southmetrofirerescue", "subscribers": 48, "nsfw": false}
+{"name": "southmetromn", "subscribers": 0, "nsfw": false}
 {"name": "southmoor", "subscribers": 14, "nsfw": false}
 {"name": "southmoraviatrade", "subscribers": 42, "nsfw": false}
 {"name": "southofbostonhousing", "subscribers": 74, "nsfw": false}
@@ -160189,6 +160214,7 @@
 {"name": "teethhurtingjuice", "subscribers": 40, "nsfw": false}
 {"name": "teethshouldntbethere", "subscribers": 27, "nsfw": false}
 {"name": "teezotouchdown", "subscribers": 3502, "nsfw": false}
+{"name": "tefal", "subscribers": 0, "nsfw": false}
 {"name": "tefcanada", "subscribers": 115, "nsfw": false}
 {"name": "tefl", "subscribers": 86611, "nsfw": false}
 {"name": "teflon", "subscribers": 0, "nsfw": false}
@@ -161275,6 +161301,7 @@
 {"name": "thankspatriarchy", "subscribers": 1156, "nsfw": false}
 {"name": "thanksputin", "subscribers": 347, "nsfw": false}
 {"name": "thanksthankscyno", "subscribers": 35, "nsfw": false}
+{"name": "thankstipscomplaints", "subscribers": 0, "nsfw": false}
 {"name": "thanksyoutoo", "subscribers": 118, "nsfw": false}
 {"name": "thankthebusdriver", "subscribers": 121, "nsfw": false}
 {"name": "thankthecameraman", "subscribers": 879, "nsfw": false}
@@ -171111,6 +171138,7 @@
 {"name": "tvr", "subscribers": 1026, "nsfw": false}
 {"name": "tvreactiongifs", "subscribers": 19, "nsfw": false}
 {"name": "tvreddit", "subscribers": 0, "nsfw": false}
+{"name": "tvrepair", "subscribers": 0, "nsfw": false}
 {"name": "tvrepairhelp", "subscribers": 2636, "nsfw": false}
 {"name": "tvrp", "subscribers": 34, "nsfw": false}
 {"name": "tvseriesbuffs", "subscribers": 537, "nsfw": false}
@@ -171661,6 +171689,7 @@
 {"name": "u_ankit_gupta66", "subscribers": 0, "nsfw": false}
 {"name": "u_annuit333", "subscribers": 0, "nsfw": false}
 {"name": "u_anyrole6400", "subscribers": 0, "nsfw": false}
+{"name": "u_appledevelopper", "subscribers": 0, "nsfw": false}
 {"name": "u_apprehensiveice2728", "subscribers": 0, "nsfw": false}
 {"name": "u_asdeespadas2025", "subscribers": 0, "nsfw": false}
 {"name": "u_ashleywalkerreports", "subscribers": 0, "nsfw": false}
@@ -171778,6 +171807,7 @@
 {"name": "u_lgx_nicky", "subscribers": 0, "nsfw": false}
 {"name": "u_lizzy42450", "subscribers": 0, "nsfw": false}
 {"name": "u_long_scene_4046", "subscribers": 0, "nsfw": false}
+{"name": "u_looplineworld", "subscribers": 0, "nsfw": false}
 {"name": "u_low_librarian2825", "subscribers": 0, "nsfw": false}
 {"name": "u_lptexasofficial", "subscribers": 0, "nsfw": false}
 {"name": "u_lss_bvt_and_16", "subscribers": 0, "nsfw": false}
@@ -171811,6 +171841,7 @@
 {"name": "u_nineminds_ai", "subscribers": 0, "nsfw": false}
 {"name": "u_nitrogenwealth", "subscribers": 0, "nsfw": false}
 {"name": "u_no_dress1642", "subscribers": 0, "nsfw": false}
+{"name": "u_north_distance8022", "subscribers": 0, "nsfw": false}
 {"name": "u_northern_charger", "subscribers": 0, "nsfw": false}
 {"name": "u_noterro", "subscribers": 0, "nsfw": false}
 {"name": "u_numerous_catch_2117", "subscribers": 0, "nsfw": false}
@@ -172772,6 +172803,7 @@
 {"name": "umfcd", "subscribers": 59, "nsfw": false}
 {"name": "umgc", "subscribers": 5606, "nsfw": false}
 {"name": "umi", "subscribers": 23, "nsfw": false}
+{"name": "umiami", "subscribers": 0, "nsfw": false}
 {"name": "umin", "subscribers": 83, "nsfw": false}
 {"name": "umineko_wada", "subscribers": 31, "nsfw": false}
 {"name": "uminekoesp", "subscribers": 45, "nsfw": false}
@@ -176905,6 +176937,7 @@
 {"name": "viennafilmfriends", "subscribers": 66, "nsfw": false}
 {"name": "viennasecession", "subscribers": 286, "nsfw": false}
 {"name": "viernheim", "subscribers": 16, "nsfw": false}
+{"name": "viessmann", "subscribers": 0, "nsfw": false}
 {"name": "vietbodyandswim", "subscribers": 248, "nsfw": false}
 {"name": "vietjokes", "subscribers": 55, "nsfw": false}
 {"name": "vietkhmerish", "subscribers": 42, "nsfw": false}
@@ -186605,6 +186638,7 @@
 {"name": "zanoricette", "subscribers": 47, "nsfw": false}
 {"name": "zanpakuto_ocs", "subscribers": 342, "nsfw": false}
 {"name": "zante", "subscribers": 225, "nsfw": false}
+{"name": "zanussi", "subscribers": 0, "nsfw": false}
 {"name": "zanzibar", "subscribers": 0, "nsfw": false}
 {"name": "zanzlanz", "subscribers": 24, "nsfw": false}
 {"name": "zaperoco", "subscribers": 15, "nsfw": false}
