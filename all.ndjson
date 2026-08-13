@@ -2065,6 +2065,7 @@
 {"name": "aaasconference", "subscribers": 25, "nsfw": false}
 {"name": "aabaseball", "subscribers": 1655, "nsfw": false}
 {"name": "aabbg", "subscribers": 908, "nsfw": false}
+{"name": "aac", "subscribers": 0, "nsfw": false}
 {"name": "aac_clydespace", "subscribers": 28, "nsfw": false}
 {"name": "aaca_archpracticeexam", "subscribers": 95, "nsfw": false}
 {"name": "aachen", "subscribers": 45968, "nsfw": false}
@@ -7505,6 +7506,8 @@
 {"name": "amc_free", "subscribers": 32, "nsfw": false}
 {"name": "amc_place", "subscribers": 170, "nsfw": false}
 {"name": "amcalist", "subscribers": 211, "nsfw": false}
+{"name": "amcbulls", "subscribers": 0, "nsfw": false}
+{"name": "amcentertainmentstock", "subscribers": 0, "nsfw": false}
 {"name": "amcexamforimgs", "subscribers": 6464, "nsfw": false}
 {"name": "amcfordrs", "subscribers": 2159, "nsfw": false}
 {"name": "amchigelli_social", "subscribers": 154, "nsfw": false}
@@ -17425,6 +17428,7 @@
 {"name": "bbsimonbrand", "subscribers": 64, "nsfw": false}
 {"name": "bbstrategy", "subscribers": 633, "nsfw": false}
 {"name": "bbtheads", "subscribers": 492, "nsfw": false}
+{"name": "bbtheatres", "subscribers": 0, "nsfw": false}
 {"name": "bbts", "subscribers": 415, "nsfw": false}
 {"name": "bburago", "subscribers": 666, "nsfw": false}
 {"name": "bbvalhalla", "subscribers": 29, "nsfw": false}
@@ -21589,6 +21593,7 @@
 {"name": "blockheaddaw", "subscribers": 95, "nsfw": false}
 {"name": "blockheads", "subscribers": 4961, "nsfw": false}
 {"name": "blockheadsrealm", "subscribers": 11, "nsfw": false}
+{"name": "blockisland", "subscribers": 0, "nsfw": false}
 {"name": "blockjam3d", "subscribers": 137, "nsfw": false}
 {"name": "blocklogic", "subscribers": 23, "nsfw": false}
 {"name": "blocklords", "subscribers": 37, "nsfw": false}
@@ -23483,6 +23488,7 @@
 {"name": "bowserjr", "subscribers": 290, "nsfw": false}
 {"name": "bowsermains", "subscribers": 2550, "nsfw": false}
 {"name": "bowsettes_castle", "subscribers": 113, "nsfw": false}
+{"name": "bowtiecinemas", "subscribers": 0, "nsfw": false}
 {"name": "bowties", "subscribers": 445, "nsfw": false}
 {"name": "bowvalley", "subscribers": 0, "nsfw": false}
 {"name": "box2d", "subscribers": 598, "nsfw": false}
@@ -27948,6 +27954,7 @@
 {"name": "carmensandiego", "subscribers": 0, "nsfw": false}
 {"name": "carmensandiegomemes", "subscribers": 53, "nsfw": false}
 {"name": "carmenslair", "subscribers": 27, "nsfw": false}
+{"name": "carmikecinemas", "subscribers": 0, "nsfw": false}
 {"name": "carmiribettk", "subscribers": 81, "nsfw": false}
 {"name": "carmodification", "subscribers": 34759, "nsfw": false}
 {"name": "carnagemarvel", "subscribers": 28, "nsfw": false}
@@ -32580,6 +32587,7 @@
 {"name": "cinemaofcruelty", "subscribers": 104, "nsfw": false}
 {"name": "cinemaretrospective", "subscribers": 8207, "nsfw": false}
 {"name": "cinemark", "subscribers": 13663, "nsfw": false}
+{"name": "cinemarktheatres", "subscribers": 0, "nsfw": false}
 {"name": "cinemarules", "subscribers": 385, "nsfw": false}
 {"name": "cinemashers", "subscribers": 25, "nsfw": false}
 {"name": "cinemashots", "subscribers": 54, "nsfw": false}
@@ -32597,6 +32605,7 @@
 {"name": "cinephobe", "subscribers": 3320, "nsfw": false}
 {"name": "cinepi", "subscribers": 29, "nsfw": false}
 {"name": "cineplex", "subscribers": 12400, "nsfw": false}
+{"name": "cineplextheatres", "subscribers": 0, "nsfw": false}
 {"name": "cinepulse", "subscribers": 413, "nsfw": false}
 {"name": "cinescenes", "subscribers": 77975, "nsfw": false}
 {"name": "cineseries", "subscribers": 141991, "nsfw": false}
@@ -34055,6 +34064,7 @@
 {"name": "cobbcountyga", "subscribers": 712, "nsfw": false}
 {"name": "cobblemon", "subscribers": 35652, "nsfw": false}
 {"name": "cobblersbeach", "subscribers": 2640, "nsfw": false}
+{"name": "cobbtheatres", "subscribers": 0, "nsfw": false}
 {"name": "cobbtuning", "subscribers": 144, "nsfw": false}
 {"name": "cobeer", "subscribers": 6310, "nsfw": false}
 {"name": "cobiblocks", "subscribers": 8126, "nsfw": false}
@@ -35556,6 +35566,7 @@
 {"name": "computergaming", "subscribers": 299, "nsfw": false}
 {"name": "computergraphics", "subscribers": 62316, "nsfw": false}
 {"name": "computerhacks", "subscribers": 451, "nsfw": false}
+{"name": "computerhardware", "subscribers": 0, "nsfw": false}
 {"name": "computerhelp", "subscribers": 56832, "nsfw": false}
 {"name": "computerhistoryvideos", "subscribers": 41, "nsfw": false}
 {"name": "computermarket", "subscribers": 64, "nsfw": false}
@@ -53518,6 +53529,7 @@
 {"name": "evenmorecursedcomment", "subscribers": 51, "nsfw": false}
 {"name": "evenrealities", "subscribers": 4610, "nsfw": false}
 {"name": "eventchain", "subscribers": 726, "nsfw": false}
+{"name": "eventcinemas", "subscribers": 0, "nsfw": false}
 {"name": "eventhorizon", "subscribers": 1544, "nsfw": false}
 {"name": "eventhorizonthegame", "subscribers": 1155, "nsfw": false}
 {"name": "eventi_e_associazioni", "subscribers": 18, "nsfw": false}
@@ -54504,6 +54516,7 @@
 {"name": "extremeweatherevents", "subscribers": 516, "nsfw": false}
 {"name": "extremisultimis", "subscribers": 1649, "nsfw": false}
 {"name": "extremium", "subscribers": 21, "nsfw": false}
+{"name": "extremsport", "subscribers": 0, "nsfw": false}
 {"name": "extrovertmemes", "subscribers": 443, "nsfw": false}
 {"name": "extroverts", "subscribers": 11735, "nsfw": false}
 {"name": "extrusion", "subscribers": 252, "nsfw": false}
@@ -63279,6 +63292,7 @@
 {"name": "galaxytab", "subscribers": 92451, "nsfw": false}
 {"name": "galaxytabs7plus", "subscribers": 1273, "nsfw": false}
 {"name": "galaxytabs9plus", "subscribers": 323, "nsfw": false}
+{"name": "galaxytheatres", "subscribers": 0, "nsfw": false}
 {"name": "galaxyunknown", "subscribers": 14, "nsfw": false}
 {"name": "galaxywatch", "subscribers": 216066, "nsfw": false}
 {"name": "galaxywatch3", "subscribers": 2008, "nsfw": false}
@@ -65347,6 +65361,7 @@
 {"name": "getalfi", "subscribers": 51, "nsfw": false}
 {"name": "getalife", "subscribers": 102, "nsfw": false}
 {"name": "getalifetvshow", "subscribers": 167, "nsfw": false}
+{"name": "getashelf", "subscribers": 0, "nsfw": false}
 {"name": "getbabes", "subscribers": 149, "nsfw": false}
 {"name": "getcabbage426famback", "subscribers": 288, "nsfw": false}
 {"name": "getcameracrew", "subscribers": 63, "nsfw": false}
@@ -69711,6 +69726,7 @@
 {"name": "gummishipcreations", "subscribers": 2895, "nsfw": false}
 {"name": "gummybearsyoutube", "subscribers": 40, "nsfw": false}
 {"name": "gummyissues", "subscribers": 101, "nsfw": false}
+{"name": "gumshoepcmysteries", "subscribers": 0, "nsfw": false}
 {"name": "gumshoerpg", "subscribers": 2417, "nsfw": false}
 {"name": "gumshoesanddragons", "subscribers": 143, "nsfw": false}
 {"name": "gumslinger", "subscribers": 145, "nsfw": false}
@@ -74102,12 +74118,14 @@
 {"name": "hololiveaiternative", "subscribers": 442, "nsfw": false}
 {"name": "hololivecosplay", "subscribers": 0, "nsfw": false}
 {"name": "hololivefancomics", "subscribers": 24, "nsfw": false}
+{"name": "hololivefans", "subscribers": 0, "nsfw": false}
 {"name": "hololivejp", "subscribers": 38, "nsfw": false}
 {"name": "hololiveocg", "subscribers": 340, "nsfw": false}
 {"name": "hololivepolitics", "subscribers": 1439, "nsfw": false}
 {"name": "hololivetr", "subscribers": 191, "nsfw": false}
 {"name": "hololiveyuri", "subscribers": 53835, "nsfw": false}
 {"name": "holomento", "subscribers": 2089, "nsfw": false}
+{"name": "holomyth", "subscribers": 0, "nsfw": false}
 {"name": "holonews", "subscribers": 6384, "nsfw": false}
 {"name": "holopilots", "subscribers": 22, "nsfw": false}
 {"name": "holostars", "subscribers": 29792, "nsfw": false}
@@ -75459,6 +75477,7 @@
 {"name": "hoyoversefanfiction", "subscribers": 24, "nsfw": false}
 {"name": "hoyoverseteaparty", "subscribers": 55, "nsfw": false}
 {"name": "hoyskolenkristiania", "subscribers": 25, "nsfw": false}
+{"name": "hoytscinemas", "subscribers": 0, "nsfw": false}
 {"name": "hozier", "subscribers": 88388, "nsfw": false}
 {"name": "hozierisjustaman", "subscribers": 1669, "nsfw": false}
 {"name": "hp_casting", "subscribers": 301, "nsfw": false}
@@ -81076,6 +81095,7 @@
 {"name": "iphonexwallpapers", "subscribers": 77002, "nsfw": false}
 {"name": "iphotoshopped", "subscribers": 381, "nsfw": false}
 {"name": "ipics", "subscribers": 33, "nsfw": false}
+{"name": "ipictheaters", "subscribers": 0, "nsfw": false}
 {"name": "ipinfringersandtrolls", "subscribers": 39, "nsfw": false}
 {"name": "ipissedonmyhand", "subscribers": 105, "nsfw": false}
 {"name": "ipix", "subscribers": 529, "nsfw": false}
@@ -89876,6 +89896,7 @@
 {"name": "lacrimosa", "subscribers": 98, "nsfw": false}
 {"name": "lacroix", "subscribers": 4398, "nsfw": false}
 {"name": "lacrosse", "subscribers": 74290, "nsfw": false}
+{"name": "lacrosse_de", "subscribers": 0, "nsfw": false}
 {"name": "lacrossegoalie", "subscribers": 265, "nsfw": false}
 {"name": "lacrossethesport", "subscribers": 187, "nsfw": false}
 {"name": "lacrossewicolleges", "subscribers": 67, "nsfw": false}
@@ -98799,6 +98820,7 @@
 {"name": "marcusaurelius", "subscribers": 7569, "nsfw": false}
 {"name": "marcusinvest", "subscribers": 1998, "nsfw": false}
 {"name": "marcuspork", "subscribers": 283, "nsfw": false}
+{"name": "marcustheatres", "subscribers": 0, "nsfw": false}
 {"name": "marcuswormfanclub", "subscribers": 368, "nsfw": false}
 {"name": "marcwebbmemes", "subscribers": 79, "nsfw": false}
 {"name": "marcworld", "subscribers": 30, "nsfw": false}
@@ -99981,6 +100003,7 @@
 {"name": "maudesbookclub", "subscribers": 16, "nsfw": false}
 {"name": "mauditcommentaire", "subscribers": 41, "nsfw": false}
 {"name": "maudpie", "subscribers": 334, "nsfw": false}
+{"name": "mauerstrassenwetten", "subscribers": 0, "nsfw": false}
 {"name": "maui", "subscribers": 51555, "nsfw": false}
 {"name": "maui_search_group", "subscribers": 25, "nsfw": false}
 {"name": "mauifoodies", "subscribers": 78, "nsfw": false}
@@ -109860,6 +109883,7 @@
 {"name": "naslsoccer", "subscribers": 3913, "nsfw": false}
 {"name": "nassaubahamas", "subscribers": 0, "nsfw": false}
 {"name": "nassaucounty", "subscribers": 1077, "nsfw": false}
+{"name": "nassaucountyyoungdems", "subscribers": 0, "nsfw": false}
 {"name": "nassaupd", "subscribers": 1173, "nsfw": false}
 {"name": "nassfestival", "subscribers": 178, "nsfw": false}
 {"name": "nastasiastill", "subscribers": 9756, "nsfw": false}
@@ -121230,6 +121254,7 @@
 {"name": "parasocialgorls", "subscribers": 41, "nsfw": false}
 {"name": "parasomnia", "subscribers": 1330, "nsfw": false}
 {"name": "paraspacegame", "subscribers": 52, "nsfw": false}
+{"name": "parasport", "subscribers": 0, "nsfw": false}
 {"name": "parastateofficial", "subscribers": 102, "nsfw": false}
 {"name": "parasytebr", "subscribers": 23, "nsfw": false}
 {"name": "paratodostodo", "subscribers": 308, "nsfw": false}
@@ -122461,6 +122486,7 @@
 {"name": "penelope_menchaca_arc", "subscribers": 5497, "nsfw": false}
 {"name": "penelope_skies", "subscribers": 1605, "nsfw": false}
 {"name": "penelopecruz", "subscribers": 13017, "nsfw": false}
+{"name": "penelopependrick", "subscribers": 0, "nsfw": false}
 {"name": "penfieldswimming", "subscribers": 17, "nsfw": false}
 {"name": "peng_gang", "subscribers": 90, "nsfw": false}
 {"name": "pengamelore", "subscribers": 25, "nsfw": false}
@@ -133878,6 +133904,7 @@
 {"name": "realturkishbeauty", "subscribers": 3953, "nsfw": false}
 {"name": "realtwitteraccounts", "subscribers": 110349, "nsfw": false}
 {"name": "realuae", "subscribers": 139, "nsfw": false}
+{"name": "realunpopularopinion", "subscribers": 0, "nsfw": false}
 {"name": "realunpopularopinions", "subscribers": 84, "nsfw": false}
 {"name": "realuptowntreesh", "subscribers": 370, "nsfw": false}
 {"name": "realverge3d", "subscribers": 91, "nsfw": false}
@@ -135043,6 +135070,7 @@
 {"name": "refused", "subscribers": 59, "nsfw": false}
 {"name": "refusingtohidepaint", "subscribers": 11, "nsfw": false}
 {"name": "refvidsforartists", "subscribers": 15, "nsfw": false}
+{"name": "regalcinemas", "subscribers": 0, "nsfw": false}
 {"name": "regaliaoftheunderdog", "subscribers": 13, "nsfw": false}
 {"name": "regalunlimited", "subscribers": 35552, "nsfw": false}
 {"name": "reganaliyah", "subscribers": 52, "nsfw": false}
@@ -146871,6 +146899,7 @@
 {"name": "skatespots", "subscribers": 226, "nsfw": false}
 {"name": "skatethedot", "subscribers": 131, "nsfw": false}
 {"name": "skatewear", "subscribers": 240, "nsfw": false}
+{"name": "skating_de", "subscribers": 0, "nsfw": false}
 {"name": "skatingadvice", "subscribers": 2450, "nsfw": false}
 {"name": "skatingover30", "subscribers": 34, "nsfw": false}
 {"name": "skatingpools", "subscribers": 792, "nsfw": false}
@@ -159519,6 +159548,7 @@
 {"name": "tennesseeunemployment", "subscribers": 28, "nsfw": false}
 {"name": "tennesseeunity", "subscribers": 0, "nsfw": false}
 {"name": "tennis", "subscribers": 2019874, "nsfw": false}
+{"name": "tennis_de", "subscribers": 0, "nsfw": false}
 {"name": "tennis_discussion", "subscribers": 64, "nsfw": false}
 {"name": "tennis_world", "subscribers": 27, "nsfw": false}
 {"name": "tennisace", "subscribers": 262, "nsfw": false}
@@ -169899,6 +169929,7 @@
 {"name": "turnbasedtactical", "subscribers": 7556, "nsfw": false}
 {"name": "turndotme", "subscribers": 963, "nsfw": false}
 {"name": "turnedcriticaltheory", "subscribers": 44, "nsfw": false}
+{"name": "turnen", "subscribers": 0, "nsfw": false}
 {"name": "turnerclassicmovies", "subscribers": 16864, "nsfw": false}
 {"name": "turnerhoochtv", "subscribers": 27, "nsfw": false}
 {"name": "turnia", "subscribers": 943, "nsfw": false}
@@ -178029,6 +178060,7 @@
 {"name": "wasps", "subscribers": 3476, "nsfw": false}
 {"name": "waspscripts", "subscribers": 48, "nsfw": false}
 {"name": "wassergate", "subscribers": 11, "nsfw": false}
+{"name": "wassersport", "subscribers": 0, "nsfw": false}
 {"name": "wasserstoff", "subscribers": 0, "nsfw": false}
 {"name": "wassie", "subscribers": 65, "nsfw": false}
 {"name": "wassup", "subscribers": 121, "nsfw": false}
