@@ -3875,6 +3875,7 @@
 {"name": "advancedtracking", "subscribers": 119, "nsfw": false}
 {"name": "advancedvelo", "subscribers": 12, "nsfw": false}
 {"name": "advanceofzetagunpla", "subscribers": 98, "nsfw": false}
+{"name": "advancereadercopy", "subscribers": 0, "nsfw": false}
 {"name": "advantageplay", "subscribers": 192, "nsfw": false}
 {"name": "advantistoken", "subscribers": 32, "nsfw": false}
 {"name": "advarprotocol", "subscribers": 33, "nsfw": false}
@@ -9008,6 +9009,7 @@
 {"name": "animalrestaurant", "subscribers": 36247, "nsfw": false}
 {"name": "animalrevenge", "subscribers": 66, "nsfw": false}
 {"name": "animalrights", "subscribers": 27095, "nsfw": false}
+{"name": "animalrightsactivism", "subscribers": 0, "nsfw": false}
 {"name": "animalroyale", "subscribers": 8195, "nsfw": false}
 {"name": "animals", "subscribers": 141528, "nsfw": false}
 {"name": "animalsareawesome", "subscribers": 67, "nsfw": false}
@@ -11193,6 +11195,7 @@
 {"name": "arcfurnace", "subscribers": 186, "nsfw": false}
 {"name": "arcgis", "subscribers": 16822, "nsfw": false}
 {"name": "arcgisonline", "subscribers": 455, "nsfw": false}
+{"name": "arcgisprotutor", "subscribers": 0, "nsfw": false}
 {"name": "arch", "subscribers": 37704, "nsfw": false}
 {"name": "archaeoastronomy", "subscribers": 365, "nsfw": false}
 {"name": "archaeogenetics", "subscribers": 1397, "nsfw": false}
@@ -11211,8 +11214,10 @@
 {"name": "archeage", "subscribers": 41101, "nsfw": false}
 {"name": "archeage2", "subscribers": 743, "nsfw": false}
 {"name": "archeagechronicles", "subscribers": 37, "nsfw": false}
+{"name": "archeageclassic", "subscribers": 0, "nsfw": false}
 {"name": "archeblade", "subscribers": 150, "nsfw": false}
 {"name": "archeland", "subscribers": 78, "nsfw": false}
+{"name": "archeland_global", "subscribers": 0, "nsfw": false}
 {"name": "archenemy", "subscribers": 0, "nsfw": false}
 {"name": "archeologiapl", "subscribers": 92, "nsfw": false}
 {"name": "archeology", "subscribers": 556666, "nsfw": false}
@@ -11236,6 +11241,7 @@
 {"name": "archeseeb", "subscribers": 27, "nsfw": false}
 {"name": "archetypeos_hub", "subscribers": 17, "nsfw": false}
 {"name": "archetypesunite", "subscribers": 133, "nsfw": false}
+{"name": "archeworld", "subscribers": 0, "nsfw": false}
 {"name": "archeximus", "subscribers": 24, "nsfw": false}
 {"name": "archicad", "subscribers": 8186, "nsfw": false}
 {"name": "archieandfriends", "subscribers": 852, "nsfw": false}
@@ -11260,6 +11266,7 @@
 {"name": "architectureph", "subscribers": 23506, "nsfw": false}
 {"name": "architectureporn", "subscribers": 2268118, "nsfw": false}
 {"name": "architectureportfolio", "subscribers": 9944, "nsfw": false}
+{"name": "architecturestudent", "subscribers": 0, "nsfw": false}
 {"name": "archive81", "subscribers": 9495, "nsfw": false}
 {"name": "archiveclothing", "subscribers": 21, "nsfw": false}
 {"name": "archivedotorg", "subscribers": 2200, "nsfw": false}
@@ -23800,6 +23807,7 @@
 {"name": "bowelsofreddit", "subscribers": 122, "nsfw": false}
 {"name": "bowenisland", "subscribers": 429, "nsfw": false}
 {"name": "bowerswilkins", "subscribers": 8754, "nsfw": false}
+{"name": "bowfishing", "subscribers": 0, "nsfw": false}
 {"name": "bowflex", "subscribers": 3945, "nsfw": false}
 {"name": "bowfromshera", "subscribers": 264, "nsfw": false}
 {"name": "bowhothoof", "subscribers": 27, "nsfw": false}
@@ -23822,6 +23830,7 @@
 {"name": "bowtiecinemas", "subscribers": 0, "nsfw": false}
 {"name": "bowties", "subscribers": 445, "nsfw": false}
 {"name": "bowvalley", "subscribers": 0, "nsfw": false}
+{"name": "bowyer", "subscribers": 0, "nsfw": false}
 {"name": "box2d", "subscribers": 598, "nsfw": false}
 {"name": "boxabls", "subscribers": 222, "nsfw": false}
 {"name": "boxboxdungeons", "subscribers": 275, "nsfw": false}
@@ -32931,6 +32940,7 @@
 {"name": "cindae", "subscribers": 25, "nsfw": false}
 {"name": "cinderblock", "subscribers": 54227, "nsfw": false}
 {"name": "cindercity", "subscribers": 29, "nsfw": false}
+{"name": "cinderdidnothingwrong", "subscribers": 0, "nsfw": false}
 {"name": "cinderella", "subscribers": 1767, "nsfw": false}
 {"name": "cinderellanikke", "subscribers": 618, "nsfw": false}
 {"name": "cinderellanine", "subscribers": 84, "nsfw": false}
@@ -35920,6 +35930,7 @@
 {"name": "compositionchallenge", "subscribers": 107, "nsfw": false}
 {"name": "compost_tea", "subscribers": 258, "nsfw": false}
 {"name": "composting", "subscribers": 246903, "nsfw": false}
+{"name": "compoundbow", "subscribers": 0, "nsfw": false}
 {"name": "compoundedglp1drugs", "subscribers": 3556, "nsfw": false}
 {"name": "compoundedtirzepatide", "subscribers": 22066, "nsfw": false}
 {"name": "compounding_pharmacy", "subscribers": 372, "nsfw": false}
@@ -39738,6 +39749,7 @@
 {"name": "culfofmana", "subscribers": 45, "nsfw": false}
 {"name": "culinariabr", "subscribers": 586, "nsfw": false}
 {"name": "culinary", "subscribers": 0, "nsfw": false}
+{"name": "culinaryhistory", "subscribers": 0, "nsfw": false}
 {"name": "culinaryinstitute", "subscribers": 892, "nsfw": false}
 {"name": "culinaryplating", "subscribers": 10000, "nsfw": false}
 {"name": "culinaryporn", "subscribers": 0, "nsfw": false}
@@ -40929,6 +40941,7 @@
 {"name": "daca", "subscribers": 55505, "nsfw": false}
 {"name": "dacamented", "subscribers": 82, "nsfw": false}
 {"name": "dach", "subscribers": 3498, "nsfw": false}
+{"name": "dach_ancestry", "subscribers": 0, "nsfw": false}
 {"name": "dachsador", "subscribers": 169, "nsfw": false}
 {"name": "dachshund", "subscribers": 848994, "nsfw": false}
 {"name": "dachshunds", "subscribers": 54807, "nsfw": false}
@@ -59800,6 +59813,7 @@
 {"name": "foodhaikus", "subscribers": 20884, "nsfw": false}
 {"name": "foodhealmentalhealth", "subscribers": 44, "nsfw": false}
 {"name": "foodherocan", "subscribers": 58, "nsfw": false}
+{"name": "foodhistory", "subscribers": 0, "nsfw": false}
 {"name": "foodies_sydney", "subscribers": 36779, "nsfw": false}
 {"name": "foodiesandcooks", "subscribers": 180, "nsfw": false}
 {"name": "foodiesushiqueensnark", "subscribers": 19, "nsfw": false}
@@ -63125,6 +63139,7 @@
 {"name": "funnywildlife", "subscribers": 44, "nsfw": false}
 {"name": "funnyworkstories", "subscribers": 129, "nsfw": false}
 {"name": "funnyyahooanswers", "subscribers": 239, "nsfw": false}
+{"name": "funorb", "subscribers": 0, "nsfw": false}
 {"name": "funpiece", "subscribers": 371408, "nsfw": true}
 {"name": "funplayfeet", "subscribers": 100, "nsfw": false}
 {"name": "funpopularopinion", "subscribers": 47, "nsfw": false}
@@ -65637,6 +65652,7 @@
 {"name": "geocashing", "subscribers": 246, "nsfw": false}
 {"name": "geochallenges", "subscribers": 6315, "nsfw": false}
 {"name": "geodesicdomes", "subscribers": 5543, "nsfw": false}
+{"name": "geodev", "subscribers": 0, "nsfw": false}
 {"name": "geodnet", "subscribers": 897, "nsfw": false}
 {"name": "geoducksforsanders", "subscribers": 0, "nsfw": false}
 {"name": "geodutchpuzzle", "subscribers": 16, "nsfw": false}
@@ -67380,6 +67396,7 @@
 {"name": "gobattle_io", "subscribers": 69, "nsfw": false}
 {"name": "gobbyhaters", "subscribers": 12, "nsfw": false}
 {"name": "gobbys", "subscribers": 44, "nsfw": false}
+{"name": "gobeklitepe", "subscribers": 0, "nsfw": false}
 {"name": "gobij", "subscribers": 19, "nsfw": false}
 {"name": "gobildalove", "subscribers": 45, "nsfw": false}
 {"name": "goblin_ffxiv", "subscribers": 386, "nsfw": false}
@@ -75353,6 +75370,7 @@
 {"name": "hormigas", "subscribers": 379, "nsfw": false}
 {"name": "hormo", "subscribers": 224, "nsfw": false}
 {"name": "horn", "subscribers": 9062, "nsfw": false}
+{"name": "hornafricanancestry", "subscribers": 0, "nsfw": false}
 {"name": "hornblower", "subscribers": 2267, "nsfw": false}
 {"name": "hornchurch", "subscribers": 102, "nsfw": false}
 {"name": "hornedserpent", "subscribers": 208, "nsfw": false}
@@ -93808,6 +93826,7 @@
 {"name": "librerias_cursosprod", "subscribers": 60, "nsfw": false}
 {"name": "librestudio", "subscribers": 915, "nsfw": false}
 {"name": "librevault", "subscribers": 12, "nsfw": false}
+{"name": "librewolf", "subscribers": 0, "nsfw": false}
 {"name": "librightbookclub", "subscribers": 74, "nsfw": false}
 {"name": "librizzi", "subscribers": 67, "nsfw": false}
 {"name": "libros", "subscribers": 560984, "nsfw": false}
@@ -121657,6 +121676,7 @@
 {"name": "paloaltoschools", "subscribers": 104, "nsfw": false}
 {"name": "palolo", "subscribers": 53, "nsfw": false}
 {"name": "paloma_chain", "subscribers": 1175, "nsfw": false}
+{"name": "palomastetouan", "subscribers": 0, "nsfw": false}
 {"name": "palpatinecandonowrong", "subscribers": 97, "nsfw": false}
 {"name": "palpatines_gamble", "subscribers": 636, "nsfw": false}
 {"name": "palpatinesadvice", "subscribers": 119, "nsfw": false}
@@ -139074,6 +139094,7 @@
 {"name": "romanatwood", "subscribers": 2634, "nsfw": false}
 {"name": "romance_for_men", "subscribers": 10820, "nsfw": false}
 {"name": "romanceanime", "subscribers": 12186, "nsfw": false}
+{"name": "romancearcs", "subscribers": 0, "nsfw": false}
 {"name": "romanceauthors", "subscribers": 20079, "nsfw": false}
 {"name": "romancebooks", "subscribers": 433788, "nsfw": false}
 {"name": "romanceclub", "subscribers": 49403, "nsfw": false}
@@ -139135,6 +139156,7 @@
 {"name": "romanspacetelescope", "subscribers": 59, "nsfw": false}
 {"name": "romanstudies", "subscribers": 281, "nsfw": false}
 {"name": "romantasy", "subscribers": 32684, "nsfw": false}
+{"name": "romantasyauthors", "subscribers": 0, "nsfw": false}
 {"name": "romantic_stories_bn", "subscribers": 29, "nsfw": false}
 {"name": "romanticadvice", "subscribers": 6554, "nsfw": false}
 {"name": "romanticart", "subscribers": 494, "nsfw": false}
@@ -165456,6 +165478,7 @@
 {"name": "theworldnews", "subscribers": 56601, "nsfw": false}
 {"name": "theworldofniftycraft", "subscribers": 30, "nsfw": false}
 {"name": "theworldofrepsneakers", "subscribers": 26203, "nsfw": false}
+{"name": "theworldstory", "subscribers": 0, "nsfw": false}
 {"name": "theworldviewer", "subscribers": 0, "nsfw": false}
 {"name": "theworldwewrite", "subscribers": 117, "nsfw": false}
 {"name": "thewormhouse", "subscribers": 139, "nsfw": false}
@@ -168769,6 +168792,7 @@
 {"name": "tradionalbeauty", "subscribers": 72, "nsfw": false}
 {"name": "traditional_liberals", "subscribers": 51, "nsfw": false}
 {"name": "traditionalanimation", "subscribers": 496, "nsfw": false}
+{"name": "traditionalarchery", "subscribers": 0, "nsfw": false}
 {"name": "traditionalastrology", "subscribers": 3842, "nsfw": false}
 {"name": "traditionalbluegrass", "subscribers": 97, "nsfw": false}
 {"name": "traditionalbowhunting", "subscribers": 375, "nsfw": false}
@@ -171792,6 +171816,7 @@
 {"name": "u_anyrole6400", "subscribers": 0, "nsfw": false}
 {"name": "u_appledevelopper", "subscribers": 0, "nsfw": false}
 {"name": "u_apprehensiveice2728", "subscribers": 0, "nsfw": false}
+{"name": "u_arcdyer", "subscribers": 0, "nsfw": false}
 {"name": "u_asdeespadas2025", "subscribers": 0, "nsfw": false}
 {"name": "u_ashleywalkerreports", "subscribers": 0, "nsfw": false}
 {"name": "u_aurexoncompany", "subscribers": 0, "nsfw": false}
@@ -171805,6 +171830,7 @@
 {"name": "u_beccasfarm", "subscribers": 0, "nsfw": false}
 {"name": "u_becomelucid", "subscribers": 0, "nsfw": false}
 {"name": "u_bedizzzz", "subscribers": 0, "nsfw": false}
+{"name": "u_beforeorion", "subscribers": 0, "nsfw": false}
 {"name": "u_bentincreativeways", "subscribers": 0, "nsfw": false}
 {"name": "u_berzerk2025", "subscribers": 0, "nsfw": false}
 {"name": "u_bestwestern", "subscribers": 0, "nsfw": false}
@@ -171992,6 +172018,7 @@
 {"name": "u_revenuecat", "subscribers": 0, "nsfw": false}
 {"name": "u_richworker3141", "subscribers": 0, "nsfw": false}
 {"name": "u_ridheehee", "subscribers": 0, "nsfw": false}
+{"name": "u_rightascension12", "subscribers": 0, "nsfw": false}
 {"name": "u_risikoruk3678", "subscribers": 0, "nsfw": false}
 {"name": "u_sad_cream7303", "subscribers": 0, "nsfw": false}
 {"name": "u_safetyculture_hq", "subscribers": 0, "nsfw": false}
