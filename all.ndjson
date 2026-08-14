@@ -13854,6 +13854,7 @@
 {"name": "atalanta", "subscribers": 2129, "nsfw": false}
 {"name": "ataleinthedesert", "subscribers": 0, "nsfw": false}
 {"name": "atapow", "subscribers": 37, "nsfw": false}
+{"name": "atar", "subscribers": 0, "nsfw": false}
 {"name": "atarayo", "subscribers": 29, "nsfw": false}
 {"name": "atari", "subscribers": 16749, "nsfw": false}
 {"name": "atari2600", "subscribers": 15289, "nsfw": false}
@@ -14591,6 +14592,7 @@
 {"name": "ausmetal", "subscribers": 759, "nsfw": false}
 {"name": "ausmining", "subscribers": 6391, "nsfw": false}
 {"name": "ausmotorcycles", "subscribers": 35, "nsfw": false}
+{"name": "ausmusic", "subscribers": 0, "nsfw": false}
 {"name": "ausnews", "subscribers": 11782, "nsfw": false}
 {"name": "ausnewsnow", "subscribers": 0, "nsfw": false}
 {"name": "ausparents", "subscribers": 820, "nsfw": false}
@@ -14635,7 +14637,9 @@
 {"name": "aussiegoldhunters", "subscribers": 217, "nsfw": false}
 {"name": "aussiegrind", "subscribers": 27, "nsfw": false}
 {"name": "aussiehiphop", "subscribers": 13027, "nsfw": false}
+{"name": "aussiemakeupexchange", "subscribers": 0, "nsfw": false}
 {"name": "aussiemakeuptrade", "subscribers": 10287, "nsfw": false}
+{"name": "aussiemaps", "subscribers": 0, "nsfw": false}
 {"name": "aussiementalhealth", "subscribers": 1081, "nsfw": false}
 {"name": "aussiemotors", "subscribers": 23, "nsfw": false}
 {"name": "aussiemurdersunsolved", "subscribers": 170, "nsfw": false}
@@ -14657,6 +14661,7 @@
 {"name": "aussietiktokfaves", "subscribers": 943, "nsfw": false}
 {"name": "aussietiktokmums", "subscribers": 51, "nsfw": false}
 {"name": "aussietiktoksnark", "subscribers": 37259, "nsfw": false}
+{"name": "aussievapers", "subscribers": 0, "nsfw": false}
 {"name": "aussievegans", "subscribers": 2389, "nsfw": false}
 {"name": "aussimcampaigning", "subscribers": 199, "nsfw": false}
 {"name": "aussimecpublic", "subscribers": 78, "nsfw": false}
@@ -14716,7 +14721,9 @@
 {"name": "australia", "subscribers": 2832998, "nsfw": false}
 {"name": "australia_govt_rebate", "subscribers": 50, "nsfw": false}
 {"name": "australiafair", "subscribers": 288, "nsfw": false}
+{"name": "australiaimgs", "subscribers": 0, "nsfw": false}
 {"name": "australiainfluencers", "subscribers": 821, "nsfw": false}
+{"name": "australiait", "subscribers": 0, "nsfw": false}
 {"name": "australialeftpolitics", "subscribers": 7884, "nsfw": false}
 {"name": "australiamethspeed", "subscribers": 17, "nsfw": false}
 {"name": "australian", "subscribers": 148651, "nsfw": false}
@@ -14806,6 +14813,7 @@
 {"name": "austrosoftheisle", "subscribers": 37, "nsfw": false}
 {"name": "austrotai", "subscribers": 18, "nsfw": false}
 {"name": "austrt", "subscribers": 1726, "nsfw": false}
+{"name": "ausuni", "subscribers": 0, "nsfw": false}
 {"name": "ausunions", "subscribers": 3285, "nsfw": false}
 {"name": "ausvisa", "subscribers": 60157, "nsfw": false}
 {"name": "aut", "subscribers": 4254, "nsfw": false}
@@ -25509,6 +25517,7 @@
 {"name": "brothersandsisters", "subscribers": 573, "nsfw": false}
 {"name": "brothersgrimmseedbank", "subscribers": 2677, "nsfw": false}
 {"name": "brothersingains", "subscribers": 325, "nsfw": false}
+{"name": "brothersinmind", "subscribers": 0, "nsfw": false}
 {"name": "brotherssection", "subscribers": 824, "nsfw": false}
 {"name": "brothrewinafunfact", "subscribers": 0, "nsfw": false}
 {"name": "brotzeit", "subscribers": 274, "nsfw": false}
@@ -27958,6 +27967,7 @@
 {"name": "canicule", "subscribers": 13, "nsfw": false}
 {"name": "canidriveonthis", "subscribers": 151, "nsfw": false}
 {"name": "canieatthis", "subscribers": 421, "nsfw": false}
+{"name": "canigetaloan", "subscribers": 0, "nsfw": false}
 {"name": "canigetin", "subscribers": 0, "nsfw": false}
 {"name": "canijuana", "subscribers": 370, "nsfw": false}
 {"name": "canik", "subscribers": 38684, "nsfw": false}
@@ -38868,6 +38878,7 @@
 {"name": "cricketaus", "subscribers": 28742, "nsfw": false}
 {"name": "cricketbanter", "subscribers": 517, "nsfw": false}
 {"name": "cricketbetting", "subscribers": 800, "nsfw": false}
+{"name": "cricketbriefing", "subscribers": 0, "nsfw": false}
 {"name": "cricketbuddies", "subscribers": 27616, "nsfw": false}
 {"name": "cricketcaptain", "subscribers": 2857, "nsfw": false}
 {"name": "cricketcards", "subscribers": 11, "nsfw": false}
@@ -44488,6 +44499,7 @@
 {"name": "dentistjokes", "subscribers": 1364, "nsfw": false}
 {"name": "dentistph", "subscribers": 29957, "nsfw": false}
 {"name": "dentistry", "subscribers": 150851, "nsfw": false}
+{"name": "dentistryindia", "subscribers": 0, "nsfw": false}
 {"name": "dentists", "subscribers": 0, "nsfw": false}
 {"name": "dentizzy", "subscribers": 2313, "nsfw": false}
 {"name": "denton", "subscribers": 111989, "nsfw": false}
@@ -63315,6 +63327,7 @@
 {"name": "fucknintendo", "subscribers": 0, "nsfw": false}
 {"name": "fuckoffmate", "subscribers": 12, "nsfw": false}
 {"name": "fuckolly", "subscribers": 0, "nsfw": false}
+{"name": "fuckonenation", "subscribers": 0, "nsfw": false}
 {"name": "fuckoutdoors", "subscribers": 224494, "nsfw": true}
 {"name": "fuckpsychiatry", "subscribers": 0, "nsfw": false}
 {"name": "fuckramsay", "subscribers": 0, "nsfw": false}
@@ -65097,6 +65110,7 @@
 {"name": "gardeningire", "subscribers": 13522, "nsfw": false}
 {"name": "gardeningph", "subscribers": 62, "nsfw": false}
 {"name": "gardeningpnw", "subscribers": 3006, "nsfw": false}
+{"name": "gardeningsouth", "subscribers": 0, "nsfw": false}
 {"name": "gardeninguk", "subscribers": 210072, "nsfw": false}
 {"name": "gardeningvancouver", "subscribers": 321, "nsfw": false}
 {"name": "gardeningzone11b", "subscribers": 67, "nsfw": false}
@@ -69162,6 +69176,7 @@
 {"name": "gptv", "subscribers": 1824, "nsfw": false}
 {"name": "gptwrappers", "subscribers": 49, "nsfw": false}
 {"name": "gpu", "subscribers": 25255, "nsfw": false}
+{"name": "gpuk", "subscribers": 0, "nsfw": false}
 {"name": "gpumining", "subscribers": 94110, "nsfw": false}
 {"name": "gpuminingpostmerge", "subscribers": 48, "nsfw": false}
 {"name": "gputoolow", "subscribers": 17, "nsfw": false}
@@ -69820,6 +69835,7 @@
 {"name": "greenhouse", "subscribers": 0, "nsfw": false}
 {"name": "greenhouses", "subscribers": 120351, "nsfw": false}
 {"name": "greenhouseseed", "subscribers": 301, "nsfw": false}
+{"name": "greenhousevshuman", "subscribers": 0, "nsfw": false}
 {"name": "greenhub1620", "subscribers": 394, "nsfw": false}
 {"name": "greenhumor", "subscribers": 33, "nsfw": false}
 {"name": "greeninvestor", "subscribers": 0, "nsfw": false}
@@ -77339,6 +77355,7 @@
 {"name": "hunting", "subscribers": 255726, "nsfw": false}
 {"name": "hunting_and_fishing", "subscribers": 67, "nsfw": false}
 {"name": "hunting_fishing", "subscribers": 558, "nsfw": false}
+{"name": "huntingaustralia", "subscribers": 0, "nsfw": false}
 {"name": "huntingbattlegame", "subscribers": 171, "nsfw": false}
 {"name": "huntingdogs", "subscribers": 14114, "nsfw": false}
 {"name": "huntingdon", "subscribers": 217, "nsfw": false}
@@ -112069,6 +112086,7 @@
 {"name": "nbende_doethet", "subscribers": 18, "nsfw": false}
 {"name": "nbgmll", "subscribers": 63, "nsfw": false}
 {"name": "nbhl", "subscribers": 283, "nsfw": false}
+{"name": "nbl", "subscribers": 0, "nsfw": false}
 {"name": "nblcanada", "subscribers": 37, "nsfw": false}
 {"name": "nblcreative", "subscribers": 16, "nsfw": false}
 {"name": "nblnb", "subscribers": 68, "nsfw": false}
@@ -122117,6 +122135,8 @@
 {"name": "ozarkunitedfc", "subscribers": 186, "nsfw": false}
 {"name": "ozarkwriting", "subscribers": 75, "nsfw": false}
 {"name": "ozartrade", "subscribers": 23, "nsfw": false}
+{"name": "ozbargain", "subscribers": 0, "nsfw": false}
+{"name": "ozbargainnew", "subscribers": 0, "nsfw": false}
 {"name": "ozbooklovers", "subscribers": 57, "nsfw": false}
 {"name": "ozbooks", "subscribers": 48, "nsfw": false}
 {"name": "ozempic", "subscribers": 127516, "nsfw": false}
@@ -142817,6 +142837,7 @@
 {"name": "sanpedroaz", "subscribers": 264, "nsfw": false}
 {"name": "sanpedrocacs4sellers", "subscribers": 536, "nsfw": false}
 {"name": "sanpedrocactus", "subscribers": 88973, "nsfw": false}
+{"name": "sanpedrocactusaus", "subscribers": 0, "nsfw": false}
 {"name": "sanpedrocactusforsale", "subscribers": 29931, "nsfw": false}
 {"name": "sanpedrocactustrade", "subscribers": 4410, "nsfw": false}
 {"name": "sanpedroindoorgrow", "subscribers": 1100, "nsfw": false}
@@ -153357,6 +153378,7 @@
 {"name": "sporetalk", "subscribers": 355, "nsfw": false}
 {"name": "sporetrader_uk", "subscribers": 349, "nsfw": false}
 {"name": "sporetradersnz", "subscribers": 1504, "nsfw": false}
+{"name": "sporetradesaustralia", "subscribers": 0, "nsfw": false}
 {"name": "sporetradetunisia", "subscribers": 41, "nsfw": false}
 {"name": "sporetrading", "subscribers": 10350, "nsfw": false}
 {"name": "sporkicide", "subscribers": 24, "nsfw": false}
@@ -159024,6 +159046,7 @@
 {"name": "sydneylintandfriendz", "subscribers": 281, "nsfw": false}
 {"name": "sydneymelman", "subscribers": 16564, "nsfw": false}
 {"name": "sydneyminecraft", "subscribers": 59, "nsfw": false}
+{"name": "sydneymotorcycles", "subscribers": 0, "nsfw": false}
 {"name": "sydneyphotographer", "subscribers": 170, "nsfw": false}
 {"name": "sydneypics", "subscribers": 405, "nsfw": false}
 {"name": "sydneyquiseng", "subscribers": 1332, "nsfw": false}
@@ -177998,6 +178021,7 @@
 {"name": "vetements", "subscribers": 8839, "nsfw": false}
 {"name": "veteranamazonviners", "subscribers": 74, "nsfw": false}
 {"name": "veteranexpatriates", "subscribers": 115, "nsfw": false}
+{"name": "veterangaragesolution", "subscribers": 0, "nsfw": false}
 {"name": "veterangardeners", "subscribers": 34, "nsfw": false}
 {"name": "veteranhomeloans", "subscribers": 218, "nsfw": false}
 {"name": "veteranpacks", "subscribers": 14735, "nsfw": false}
