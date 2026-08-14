@@ -4083,6 +4083,7 @@
 {"name": "aerosolar", "subscribers": 49, "nsfw": false}
 {"name": "aerospace", "subscribers": 110029, "nsfw": false}
 {"name": "aerospaceengineering", "subscribers": 120078, "nsfw": false}
+{"name": "aerospaceengineers", "subscribers": 0, "nsfw": false}
 {"name": "aerospacephysiology", "subscribers": 80, "nsfw": false}
 {"name": "aerotrain", "subscribers": 23, "nsfw": false}
 {"name": "aeroweed", "subscribers": 1426, "nsfw": false}
@@ -10616,6 +10617,7 @@
 {"name": "aphumangeography", "subscribers": 3965, "nsfw": false}
 {"name": "api_connector", "subscribers": 736, "nsfw": false}
 {"name": "apicem", "subscribers": 0, "nsfw": false}
+{"name": "apicemlight", "subscribers": 0, "nsfw": false}
 {"name": "apico", "subscribers": 2205, "nsfw": false}
 {"name": "apiculture", "subscribers": 517, "nsfw": false}
 {"name": "apiculture_fr", "subscribers": 0, "nsfw": false}
@@ -11376,6 +11378,7 @@
 {"name": "arcueidbrunestud", "subscribers": 282, "nsfw": false}
 {"name": "arculus", "subscribers": 795, "nsfw": false}
 {"name": "arcusgrid", "subscribers": 105, "nsfw": false}
+{"name": "arcwalkerastrology", "subscribers": 0, "nsfw": false}
 {"name": "arcydrive", "subscribers": 101, "nsfw": false}
 {"name": "ardainiansoldieraltar", "subscribers": 17, "nsfw": false}
 {"name": "ardcoremeat", "subscribers": 19, "nsfw": false}
@@ -13123,6 +13126,7 @@
 {"name": "asknyc", "subscribers": 445761, "nsfw": false}
 {"name": "asknyc_coops", "subscribers": 621, "nsfw": false}
 {"name": "askoccult", "subscribers": 9562, "nsfw": false}
+{"name": "askoccultists", "subscribers": 0, "nsfw": false}
 {"name": "askoldpeople", "subscribers": 829066, "nsfw": false}
 {"name": "askoldpeopleadvice", "subscribers": 48973, "nsfw": false}
 {"name": "askonlywomenover30", "subscribers": 6875, "nsfw": false}
@@ -13670,6 +13674,7 @@
 {"name": "astridpaolatips", "subscribers": 572, "nsfw": false}
 {"name": "astrixwithnoi", "subscribers": 25, "nsfw": false}
 {"name": "astro_kpop", "subscribers": 5233, "nsfw": false}
+{"name": "astro_mobile", "subscribers": 0, "nsfw": false}
 {"name": "astro_renaissance", "subscribers": 39, "nsfw": false}
 {"name": "astrobaby", "subscribers": 529, "nsfw": false}
 {"name": "astrobiology", "subscribers": 29138, "nsfw": false}
@@ -13694,6 +13699,7 @@
 {"name": "astrology", "subscribers": 0, "nsfw": false}
 {"name": "astrology_vedic", "subscribers": 6323, "nsfw": false}
 {"name": "astrologybasics", "subscribers": 3670, "nsfw": false}
+{"name": "astrologyblogs", "subscribers": 0, "nsfw": false}
 {"name": "astrologycharts", "subscribers": 36055, "nsfw": false}
 {"name": "astrologychartshare", "subscribers": 30359, "nsfw": false}
 {"name": "astrologydiscovery", "subscribers": 1106, "nsfw": false}
@@ -13751,6 +13757,7 @@
 {"name": "astrophotography2", "subscribers": 327, "nsfw": false}
 {"name": "astrophotographycjerk", "subscribers": 40, "nsfw": false}
 {"name": "astrophotographydata", "subscribers": 508, "nsfw": false}
+{"name": "astrophys", "subscribers": 0, "nsfw": false}
 {"name": "astrophysics", "subscribers": 125431, "nsfw": false}
 {"name": "astrophysiks", "subscribers": 36, "nsfw": false}
 {"name": "astropup", "subscribers": 604, "nsfw": false}
@@ -13759,6 +13766,7 @@
 {"name": "astrosage", "subscribers": 85, "nsfw": false}
 {"name": "astroscheating", "subscribers": 2022, "nsfw": false}
 {"name": "astrosciences", "subscribers": 420, "nsfw": false}
+{"name": "astroscirclejerk", "subscribers": 0, "nsfw": false}
 {"name": "astrosgameday", "subscribers": 162, "nsfw": false}
 {"name": "astrosignature", "subscribers": 14299, "nsfw": false}
 {"name": "astroslide", "subscribers": 303, "nsfw": false}
@@ -14586,6 +14594,7 @@
 {"name": "aussimecpublic", "subscribers": 78, "nsfw": false}
 {"name": "ausskincare", "subscribers": 203588, "nsfw": false}
 {"name": "aussponsorship", "subscribers": 190, "nsfw": false}
+{"name": "aussportspunting", "subscribers": 0, "nsfw": false}
 {"name": "ausstocks", "subscribers": 82074, "nsfw": false}
 {"name": "aussuperannuation", "subscribers": 187, "nsfw": false}
 {"name": "austausch_neurodivers", "subscribers": 13, "nsfw": false}
@@ -21558,6 +21567,7 @@
 {"name": "blackholechan", "subscribers": 7078, "nsfw": true}
 {"name": "blackholedmemes", "subscribers": 26114, "nsfw": false}
 {"name": "blackholehigh", "subscribers": 11, "nsfw": false}
+{"name": "blackholes", "subscribers": 0, "nsfw": false}
 {"name": "blackhorror", "subscribers": 104, "nsfw": false}
 {"name": "blackhousewives", "subscribers": 955, "nsfw": false}
 {"name": "blackice", "subscribers": 188, "nsfw": false}
@@ -22596,6 +22606,7 @@
 {"name": "bluewaveresistance", "subscribers": 1414, "nsfw": false}
 {"name": "bluewestlomemes", "subscribers": 291, "nsfw": false}
 {"name": "bluewhales", "subscribers": 2095, "nsfw": false}
+{"name": "bluewire", "subscribers": 0, "nsfw": false}
 {"name": "bluey", "subscribers": 0, "nsfw": false}
 {"name": "blueyeti", "subscribers": 2779, "nsfw": false}
 {"name": "blueyfanfiction", "subscribers": 211, "nsfw": false}
@@ -23222,6 +23233,7 @@
 {"name": "bondub", "subscribers": 11, "nsfw": false}
 {"name": "bonduni", "subscribers": 0, "nsfw": false}
 {"name": "boneachingjuice", "subscribers": 95632, "nsfw": false}
+{"name": "boneandstone", "subscribers": 0, "nsfw": false}
 {"name": "boneappletea", "subscribers": 1292027, "nsfw": false}
 {"name": "boneappleteeth", "subscribers": 11688, "nsfw": false}
 {"name": "boneappletypo", "subscribers": 6094, "nsfw": false}
@@ -30977,6 +30989,7 @@
 {"name": "chaosmongerstudio", "subscribers": 25, "nsfw": false}
 {"name": "chaosqueen_08snark", "subscribers": 173, "nsfw": false}
 {"name": "chaosqueensnark", "subscribers": 485, "nsfw": false}
+{"name": "chaostheoryastrology", "subscribers": 0, "nsfw": false}
 {"name": "chaostheorynetflix", "subscribers": 3834, "nsfw": false}
 {"name": "chaoswithoutdangan", "subscribers": 129, "nsfw": false}
 {"name": "chaoswrestling", "subscribers": 12, "nsfw": false}
@@ -37527,6 +37540,7 @@
 {"name": "cosmicbooknews", "subscribers": 1101, "nsfw": false}
 {"name": "cosmicbreakuniversal", "subscribers": 230, "nsfw": false}
 {"name": "cosmiccatastrophe", "subscribers": 0, "nsfw": false}
+{"name": "cosmiccombustioncycle", "subscribers": 0, "nsfw": false}
 {"name": "cosmicconnections", "subscribers": 68, "nsfw": false}
 {"name": "cosmicconsciousess", "subscribers": 28, "nsfw": false}
 {"name": "cosmicde", "subscribers": 1449, "nsfw": false}
@@ -49779,6 +49793,7 @@
 {"name": "dwarfhamsters", "subscribers": 4597, "nsfw": false}
 {"name": "dwarfii_ideas", "subscribers": 101, "nsfw": false}
 {"name": "dwarfism", "subscribers": 3201, "nsfw": false}
+{"name": "dwarflab", "subscribers": 0, "nsfw": false}
 {"name": "dwarflabofficial", "subscribers": 201, "nsfw": false}
 {"name": "dwarfmaxxing", "subscribers": 4480, "nsfw": false}
 {"name": "dwarfmonitors", "subscribers": 855, "nsfw": false}
@@ -54000,6 +54015,7 @@
 {"name": "ethical_rat_owners", "subscribers": 30, "nsfw": false}
 {"name": "ethicalai", "subscribers": 657, "nsfw": false}
 {"name": "ethicalapplefarm", "subscribers": 116, "nsfw": false}
+{"name": "ethicalastrology", "subscribers": 0, "nsfw": false}
 {"name": "ethicalaww", "subscribers": 2763, "nsfw": false}
 {"name": "ethicaldiffusion", "subscribers": 810, "nsfw": false}
 {"name": "ethicalfashion", "subscribers": 106850, "nsfw": false}
@@ -62410,6 +62426,7 @@
 {"name": "freerangeamberverify", "subscribers": 40, "nsfw": false}
 {"name": "freerangeparenting", "subscribers": 43, "nsfw": false}
 {"name": "freercompliments", "subscribers": 3604, "nsfw": true}
+{"name": "freereadingmatrixtaro", "subscribers": 0, "nsfw": false}
 {"name": "freerealms", "subscribers": 4134, "nsfw": false}
 {"name": "freeredbox", "subscribers": 215, "nsfw": false}
 {"name": "freeredditnfts", "subscribers": 279, "nsfw": false}
@@ -81922,6 +81939,7 @@
 {"name": "intresseklubben", "subscribers": 193637, "nsfw": false}
 {"name": "intresting_ideas", "subscribers": 162, "nsfw": false}
 {"name": "intrestingaboutgames", "subscribers": 15, "nsfw": false}
+{"name": "intrestingasfuck", "subscribers": 0, "nsfw": false}
 {"name": "intrestingtoknow", "subscribers": 27221, "nsfw": false}
 {"name": "intriguedbyphotos", "subscribers": 18, "nsfw": false}
 {"name": "intrinsic_investments", "subscribers": 0, "nsfw": false}
@@ -86833,6 +86851,7 @@
 {"name": "jymbowslice", "subscribers": 108, "nsfw": false}
 {"name": "jynxzissg", "subscribers": 22805, "nsfw": false}
 {"name": "jyotikadilaik", "subscribers": 22, "nsfw": false}
+{"name": "jyotish_decoded", "subscribers": 0, "nsfw": false}
 {"name": "jyotishh", "subscribers": 3590, "nsfw": false}
 {"name": "jyotishparashari", "subscribers": 40, "nsfw": false}
 {"name": "jyotishya", "subscribers": 3366, "nsfw": false}
@@ -86880,6 +86899,7 @@
 {"name": "kabaddi", "subscribers": 3932, "nsfw": false}
 {"name": "kabannijuan", "subscribers": 5754, "nsfw": false}
 {"name": "kabatas", "subscribers": 33, "nsfw": false}
+{"name": "kabbalah", "subscribers": 0, "nsfw": false}
 {"name": "kabervasuki", "subscribers": 150, "nsfw": false}
 {"name": "kabistan", "subscribers": 17, "nsfw": false}
 {"name": "kabitph", "subscribers": 70, "nsfw": false}
@@ -90367,6 +90387,7 @@
 {"name": "kproject", "subscribers": 2529, "nsfw": false}
 {"name": "kpti", "subscribers": 576, "nsfw": false}
 {"name": "kpu", "subscribers": 764, "nsfw": false}
+{"name": "kpvichar", "subscribers": 0, "nsfw": false}
 {"name": "kpvpeptide", "subscribers": 37, "nsfw": false}
 {"name": "kqed", "subscribers": 116, "nsfw": false}
 {"name": "kqi2", "subscribers": 229, "nsfw": false}
@@ -93729,6 +93750,7 @@
 {"name": "letsdrownout", "subscribers": 0, "nsfw": false}
 {"name": "letseatgrandmamusic", "subscribers": 292, "nsfw": false}
 {"name": "letsfix", "subscribers": 16, "nsfw": false}
+{"name": "letsfuckwithastrology", "subscribers": 0, "nsfw": false}
 {"name": "letsgetdepressed", "subscribers": 21, "nsfw": false}
 {"name": "letsgetfit", "subscribers": 101, "nsfw": false}
 {"name": "letsgethaunted", "subscribers": 5017, "nsfw": false}
@@ -113287,6 +113309,7 @@
 {"name": "newsrebooted", "subscribers": 990, "nsfw": false}
 {"name": "newsreels", "subscribers": 0, "nsfw": false}
 {"name": "newsregardingamoebas", "subscribers": 15, "nsfw": false}
+{"name": "newssatire", "subscribers": 0, "nsfw": false}
 {"name": "newssokuf", "subscribers": 131, "nsfw": false}
 {"name": "newssource", "subscribers": 2541, "nsfw": false}
 {"name": "newstadium", "subscribers": 0, "nsfw": false}
@@ -122846,6 +122869,7 @@
 {"name": "paraview", "subscribers": 358, "nsfw": false}
 {"name": "paraworldunofficial", "subscribers": 203, "nsfw": false}
 {"name": "parayeet", "subscribers": 1918, "nsfw": false}
+{"name": "parcnatureldupilat", "subscribers": 0, "nsfw": false}
 {"name": "parcourssup", "subscribers": 536, "nsfw": false}
 {"name": "pardisintheusa", "subscribers": 154, "nsfw": false}
 {"name": "pardon_my_take", "subscribers": 205, "nsfw": false}
@@ -125542,6 +125566,7 @@
 {"name": "photographercove", "subscribers": 118, "nsfw": false}
 {"name": "photographermindset", "subscribers": 36, "nsfw": false}
 {"name": "photographersparadise", "subscribers": 0, "nsfw": false}
+{"name": "photographie", "subscribers": 0, "nsfw": false}
 {"name": "photographs", "subscribers": 330405, "nsfw": false}
 {"name": "photography", "subscribers": 5509939, "nsfw": false}
 {"name": "photography101", "subscribers": 41734, "nsfw": false}
@@ -129297,6 +129322,7 @@
 {"name": "portapottypoets", "subscribers": 1478, "nsfw": false}
 {"name": "portapps", "subscribers": 156, "nsfw": false}
 {"name": "portaransas", "subscribers": 1864, "nsfw": false}
+{"name": "portasar_science", "subscribers": 0, "nsfw": false}
 {"name": "portaventura", "subscribers": 220, "nsfw": false}
 {"name": "portcharlotte", "subscribers": 1164, "nsfw": false}
 {"name": "portchester", "subscribers": 169, "nsfw": false}
@@ -129533,6 +129559,7 @@
 {"name": "postcycletherapy", "subscribers": 84, "nsfw": false}
 {"name": "postdoc", "subscribers": 0, "nsfw": false}
 {"name": "postearth", "subscribers": 4661, "nsfw": false}
+{"name": "posterdesign", "subscribers": 0, "nsfw": false}
 {"name": "postermywall", "subscribers": 11, "nsfw": false}
 {"name": "posternews", "subscribers": 0, "nsfw": false}
 {"name": "posters", "subscribers": 15056, "nsfw": false}
@@ -161258,6 +161285,7 @@
 {"name": "teleprt", "subscribers": 789, "nsfw": false}
 {"name": "telesat", "subscribers": 0, "nsfw": false}
 {"name": "telescopefeed", "subscribers": 0, "nsfw": false}
+{"name": "telescopemaking", "subscribers": 0, "nsfw": false}
 {"name": "telescopes", "subscribers": 217767, "nsfw": false}
 {"name": "telescreens", "subscribers": 24, "nsfw": false}
 {"name": "telesport", "subscribers": 519, "nsfw": false}
@@ -172940,6 +172968,7 @@
 {"name": "u_psychologicaltop680", "subscribers": 0, "nsfw": false}
 {"name": "u_puzzleheadedfix6498", "subscribers": 0, "nsfw": false}
 {"name": "u_rabbitinahat88", "subscribers": 0, "nsfw": false}
+{"name": "u_randmrory", "subscribers": 0, "nsfw": false}
 {"name": "u_ray_hillo", "subscribers": 0, "nsfw": false}
 {"name": "u_resident_chip935", "subscribers": 0, "nsfw": false}
 {"name": "u_resultitchy1067", "subscribers": 0, "nsfw": false}
@@ -172975,8 +173004,10 @@
 {"name": "u_silver_molasses7771", "subscribers": 0, "nsfw": false}
 {"name": "u_simplycuriousone", "subscribers": 0, "nsfw": false}
 {"name": "u_smilling_shn", "subscribers": 0, "nsfw": false}
+{"name": "u_snowflake_skies", "subscribers": 0, "nsfw": false}
 {"name": "u_socoldsza", "subscribers": 0, "nsfw": false}
 {"name": "u_sofaframework", "subscribers": 0, "nsfw": false}
+{"name": "u_sofiaastromap", "subscribers": 0, "nsfw": false}
 {"name": "u_sofiathefirst01973", "subscribers": 0, "nsfw": false}
 {"name": "u_sourcegraph", "subscribers": 0, "nsfw": false}
 {"name": "u_spago2go", "subscribers": 0, "nsfw": false}
@@ -177062,13 +177093,17 @@
 {"name": "vedic", "subscribers": 14, "nsfw": false}
 {"name": "vedic_astro_questions", "subscribers": 2629, "nsfw": false}
 {"name": "vedic_astrology_free", "subscribers": 6594, "nsfw": false}
+{"name": "vedic_astrology_hub", "subscribers": 0, "nsfw": false}
 {"name": "vedic_diet", "subscribers": 116, "nsfw": false}
 {"name": "vedicastrology", "subscribers": 100360, "nsfw": false}
 {"name": "vedicastrology_india", "subscribers": 1318, "nsfw": false}
 {"name": "vedicastrologyamerica", "subscribers": 95, "nsfw": false}
 {"name": "vedicastrologyexperts", "subscribers": 1883, "nsfw": false}
+{"name": "vedicastrologyforu", "subscribers": 0, "nsfw": false}
 {"name": "vedicastrologyjyotish", "subscribers": 2507, "nsfw": false}
+{"name": "vedicastrologyreading", "subscribers": 0, "nsfw": false}
 {"name": "vedicastrologyreal", "subscribers": 376, "nsfw": false}
+{"name": "vedicastromedia", "subscribers": 0, "nsfw": false}
 {"name": "vedicastroquestions", "subscribers": 128, "nsfw": false}
 {"name": "vedicbuffastrology", "subscribers": 50, "nsfw": false}
 {"name": "vee", "subscribers": 64, "nsfw": false}
@@ -177765,6 +177800,7 @@
 {"name": "vibecodingisstupid", "subscribers": 162, "nsfw": false}
 {"name": "vibecodingmemes", "subscribers": 2421, "nsfw": false}
 {"name": "vibecolab", "subscribers": 29, "nsfw": false}
+{"name": "vibee_lang", "subscribers": 0, "nsfw": false}
 {"name": "vibehousee", "subscribers": 11, "nsfw": false}
 {"name": "vibepal", "subscribers": 16, "nsfw": false}
 {"name": "vibequerying", "subscribers": 30, "nsfw": false}
@@ -188289,6 +188325,7 @@
 {"name": "zockermaimais", "subscribers": 208, "nsfw": false}
 {"name": "zodiac", "subscribers": 0, "nsfw": false}
 {"name": "zodiacart", "subscribers": 13250, "nsfw": false}
+{"name": "zodiacbooks", "subscribers": 0, "nsfw": false}
 {"name": "zodiacbuzz", "subscribers": 74, "nsfw": false}
 {"name": "zodiacgonewild", "subscribers": 118, "nsfw": true}
 {"name": "zodiackiller", "subscribers": 82433, "nsfw": false}
