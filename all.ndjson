@@ -586,6 +586,7 @@
 {"name": "212thlegion", "subscribers": 61, "nsfw": false}
 {"name": "2137", "subscribers": 17154, "nsfw": false}
 {"name": "214420", "subscribers": 1, "nsfw": false}
+{"name": "2152", "subscribers": 0, "nsfw": false}
 {"name": "2162318", "subscribers": 19, "nsfw": false}
 {"name": "2187coconut", "subscribers": 15, "nsfw": false}
 {"name": "21_million_club", "subscribers": 46, "nsfw": false}
@@ -3973,6 +3974,7 @@
 {"name": "advice_animals", "subscribers": 205, "nsfw": false}
 {"name": "adviceanimals", "subscribers": 0, "nsfw": false}
 {"name": "adviceanswers", "subscribers": 34, "nsfw": false}
+{"name": "adviceatari", "subscribers": 0, "nsfw": false}
 {"name": "adviceatheists", "subscribers": 0, "nsfw": false}
 {"name": "adviceauthoritarians", "subscribers": 0, "nsfw": false}
 {"name": "advicecolumnists", "subscribers": 1002, "nsfw": false}
@@ -13842,8 +13844,12 @@
 {"name": "atarayo", "subscribers": 29, "nsfw": false}
 {"name": "atari", "subscribers": 16749, "nsfw": false}
 {"name": "atari2600", "subscribers": 15289, "nsfw": false}
+{"name": "atari5200", "subscribers": 0, "nsfw": false}
 {"name": "atari7800", "subscribers": 1405, "nsfw": false}
+{"name": "atari8bit", "subscribers": 0, "nsfw": false}
+{"name": "atariemulation", "subscribers": 0, "nsfw": false}
 {"name": "atarijaguar", "subscribers": 3271, "nsfw": false}
+{"name": "atarilynx", "subscribers": 0, "nsfw": false}
 {"name": "atariportfolio", "subscribers": 162, "nsfw": false}
 {"name": "atariprogramming", "subscribers": 75, "nsfw": false}
 {"name": "atarist", "subscribers": 4476, "nsfw": false}
@@ -13880,12 +13886,15 @@
 {"name": "ateistturk", "subscribers": 55892, "nsfw": false}
 {"name": "ateistzaza", "subscribers": 32, "nsfw": false}
 {"name": "atelier", "subscribers": 30271, "nsfw": false}
+{"name": "atelier_resleriana", "subscribers": 0, "nsfw": false}
 {"name": "ateliercafe", "subscribers": 74, "nsfw": false}
 {"name": "atelierrule34", "subscribers": 17508, "nsfw": true}
 {"name": "atempest", "subscribers": 24, "nsfw": false}
 {"name": "atencionalcliente", "subscribers": 0, "nsfw": false}
 {"name": "ateneodecagayan", "subscribers": 3197, "nsfw": false}
 {"name": "atentadosculinarios", "subscribers": 4906, "nsfw": false}
+{"name": "atentadosesteticos", "subscribers": 0, "nsfw": false}
+{"name": "ateosmexicanos", "subscribers": 0, "nsfw": false}
 {"name": "ateraan", "subscribers": 87, "nsfw": false}
 {"name": "aterian", "subscribers": 142, "nsfw": false}
 {"name": "aternos", "subscribers": 14272, "nsfw": false}
@@ -13913,9 +13922,11 @@
 {"name": "atheisminkerala", "subscribers": 7513, "nsfw": false}
 {"name": "atheismmemes", "subscribers": 349, "nsfw": false}
 {"name": "atheismodisha", "subscribers": 42, "nsfw": false}
+{"name": "atheismpics", "subscribers": 0, "nsfw": false}
 {"name": "atheismplus", "subscribers": 0, "nsfw": false}
 {"name": "atheismplusmemes", "subscribers": 0, "nsfw": false}
 {"name": "atheismrebooted", "subscribers": 0, "nsfw": false}
+{"name": "atheismus", "subscribers": 0, "nsfw": false}
 {"name": "atheistarticles", "subscribers": 145, "nsfw": false}
 {"name": "atheistbooks", "subscribers": 57, "nsfw": false}
 {"name": "atheistcheesecake", "subscribers": 49, "nsfw": false}
@@ -13924,6 +13935,7 @@
 {"name": "atheistdogs", "subscribers": 15, "nsfw": false}
 {"name": "atheistexperience", "subscribers": 4638, "nsfw": false}
 {"name": "atheisthavens", "subscribers": 0, "nsfw": false}
+{"name": "atheisticteens", "subscribers": 0, "nsfw": false}
 {"name": "atheistindenial", "subscribers": 31, "nsfw": false}
 {"name": "atheistleft", "subscribers": 363, "nsfw": false}
 {"name": "atheistlibertarians", "subscribers": 0, "nsfw": false}
@@ -13933,6 +13945,7 @@
 {"name": "atheistnonsense", "subscribers": 129, "nsfw": false}
 {"name": "atheistparents", "subscribers": 0, "nsfw": false}
 {"name": "atheistphilosophy", "subscribers": 364, "nsfw": false}
+{"name": "atheistpodcasts", "subscribers": 0, "nsfw": false}
 {"name": "atheistrepublican", "subscribers": 52, "nsfw": false}
 {"name": "atheistsexplainthis", "subscribers": 361, "nsfw": false}
 {"name": "atheistsofutah", "subscribers": 161, "nsfw": false}
@@ -23690,6 +23703,7 @@
 {"name": "boredandcompiling", "subscribers": 18, "nsfw": false}
 {"name": "boredapeyachtclub", "subscribers": 2688, "nsfw": false}
 {"name": "boreddegenerates", "subscribers": 2142, "nsfw": false}
+{"name": "boredinchurch", "subscribers": 0, "nsfw": false}
 {"name": "boredinclass", "subscribers": 73, "nsfw": false}
 {"name": "boredinmiami", "subscribers": 39, "nsfw": false}
 {"name": "boredkarmaclub", "subscribers": 168, "nsfw": false}
@@ -24753,6 +24767,7 @@
 {"name": "breakthecookie", "subscribers": 95, "nsfw": false}
 {"name": "breakthecycle", "subscribers": 206, "nsfw": false}
 {"name": "breaktheinternet", "subscribers": 48, "nsfw": false}
+{"name": "breakthesilence", "subscribers": 0, "nsfw": false}
 {"name": "breakthiscode", "subscribers": 71, "nsfw": false}
 {"name": "breakthroughparty", "subscribers": 198, "nsfw": false}
 {"name": "breakthrubev", "subscribers": 78, "nsfw": false}
@@ -35905,6 +35920,7 @@
 {"name": "comicwalls", "subscribers": 33180, "nsfw": false}
 {"name": "comicwriter", "subscribers": 67, "nsfw": false}
 {"name": "comicwriting", "subscribers": 17374, "nsfw": false}
+{"name": "comidaespanola", "subscribers": 0, "nsfw": false}
 {"name": "comidasbr", "subscribers": 1374, "nsfw": false}
 {"name": "comidasfeia", "subscribers": 136, "nsfw": false}
 {"name": "comidasfeias", "subscribers": 3018, "nsfw": false}
@@ -54832,6 +54848,7 @@
 {"name": "ex_artofliving", "subscribers": 441, "nsfw": false}
 {"name": "ex_foster", "subscribers": 5743, "nsfw": false}
 {"name": "ex_mormon", "subscribers": 295, "nsfw": false}
+{"name": "ex_protestant", "subscribers": 0, "nsfw": false}
 {"name": "ex_twitterentomology", "subscribers": 28, "nsfw": false}
 {"name": "exactlyhowgirlswork", "subscribers": 85, "nsfw": false}
 {"name": "exactlyhowouijaworks", "subscribers": 77, "nsfw": false}
@@ -54954,6 +54971,7 @@
 {"name": "exhibitionistsex", "subscribers": 462463, "nsfw": true}
 {"name": "exhibwear", "subscribers": 155, "nsfw": false}
 {"name": "exhijabis", "subscribers": 2900, "nsfw": false}
+{"name": "exhindu", "subscribers": 0, "nsfw": false}
 {"name": "exhinduhindi", "subscribers": 46, "nsfw": false}
 {"name": "exhinduofftopic", "subscribers": 77, "nsfw": false}
 {"name": "exhindutamil", "subscribers": 41, "nsfw": false}
@@ -58334,6 +58352,7 @@
 {"name": "filmyserialy", "subscribers": 29, "nsfw": false}
 {"name": "filoloji", "subscribers": 12144, "nsfw": false}
 {"name": "filosofia", "subscribers": 199372, "nsfw": false}
+{"name": "filosofia_en_espanol", "subscribers": 0, "nsfw": false}
 {"name": "filosofiabar", "subscribers": 67415, "nsfw": false}
 {"name": "filosofiabr", "subscribers": 532, "nsfw": false}
 {"name": "filosofiadelafisica", "subscribers": 23, "nsfw": false}
@@ -62728,6 +62747,7 @@
 {"name": "friendly_reminder", "subscribers": 67, "nsfw": false}
 {"name": "friendlyarchitecture", "subscribers": 23674, "nsfw": false}
 {"name": "friendlyasheville", "subscribers": 1779, "nsfw": false}
+{"name": "friendlyatheist", "subscribers": 0, "nsfw": false}
 {"name": "friendlydebates", "subscribers": 73, "nsfw": false}
 {"name": "friendlyfirecum", "subscribers": 104098, "nsfw": true}
 {"name": "friendlyfirecumshot", "subscribers": 17335, "nsfw": true}
@@ -105006,6 +105026,7 @@
 {"name": "militaryarclones", "subscribers": 26145, "nsfw": false}
 {"name": "militaryarmamentcorp", "subscribers": 198, "nsfw": false}
 {"name": "militaryart", "subscribers": 213, "nsfw": false}
+{"name": "militaryatheists", "subscribers": 0, "nsfw": false}
 {"name": "militaryaviation", "subscribers": 9652, "nsfw": false}
 {"name": "militarybrats", "subscribers": 1437, "nsfw": false}
 {"name": "militarybuttons", "subscribers": 70, "nsfw": false}
@@ -111432,6 +111453,7 @@
 {"name": "natasharussian", "subscribers": 79, "nsfw": false}
 {"name": "natashatherussianfans", "subscribers": 509, "nsfw": false}
 {"name": "natatorium", "subscribers": 35, "nsfw": false}
+{"name": "natca", "subscribers": 0, "nsfw": false}
 {"name": "natchats", "subscribers": 53, "nsfw": false}
 {"name": "natchezms", "subscribers": 144, "nsfw": false}
 {"name": "nate_sucks_at_gaming", "subscribers": 44, "nsfw": false}
@@ -113289,6 +113311,7 @@
 {"name": "newsmeme", "subscribers": 49, "nsfw": false}
 {"name": "newsml", "subscribers": 26, "nsfw": false}
 {"name": "newsmy", "subscribers": 346, "nsfw": false}
+{"name": "newsnerdsneed", "subscribers": 0, "nsfw": false}
 {"name": "newsnet", "subscribers": 20, "nsfw": false}
 {"name": "newsnetworkegypt", "subscribers": 123, "nsfw": false}
 {"name": "newsofthestupid", "subscribers": 341100, "nsfw": false}
@@ -127946,6 +127969,7 @@
 {"name": "pokefanart", "subscribers": 56, "nsfw": false}
 {"name": "pokefantasy", "subscribers": 216, "nsfw": false}
 {"name": "pokeferlaxmaid", "subscribers": 18, "nsfw": false}
+{"name": "pokefigure", "subscribers": 0, "nsfw": false}
 {"name": "pokefodder", "subscribers": 109, "nsfw": false}
 {"name": "pokeforce", "subscribers": 438, "nsfw": false}
 {"name": "pokefusion", "subscribers": 207, "nsfw": false}
@@ -137892,6 +137916,7 @@
 {"name": "retrogamedev", "subscribers": 9607, "nsfw": false}
 {"name": "retrogamejp", "subscribers": 0, "nsfw": false}
 {"name": "retrogameofthemonth", "subscribers": 0, "nsfw": false}
+{"name": "retrogames", "subscribers": 0, "nsfw": false}
 {"name": "retrogametime", "subscribers": 222, "nsfw": false}
 {"name": "retrogaming", "subscribers": 436198, "nsfw": false}
 {"name": "retrogamingads", "subscribers": 125, "nsfw": false}
@@ -157835,6 +157860,7 @@
 {"name": "suppressedvoices", "subscribers": 41, "nsfw": false}
 {"name": "suppressingfire", "subscribers": 339, "nsfw": false}
 {"name": "suppressors", "subscribers": 0, "nsfw": false}
+{"name": "supra", "subscribers": 0, "nsfw": false}
 {"name": "supraarchive", "subscribers": 40, "nsfw": false}
 {"name": "supraball", "subscribers": 904, "nsfw": false}
 {"name": "supramayro", "subscribers": 19, "nsfw": false}
@@ -160801,6 +160827,7 @@
 {"name": "techieacademy", "subscribers": 42, "nsfw": false}
 {"name": "techieleadership", "subscribers": 26, "nsfw": false}
 {"name": "techiequality", "subscribers": 30, "nsfw": false}
+{"name": "techindia", "subscribers": 0, "nsfw": false}
 {"name": "techjobs", "subscribers": 23733, "nsfw": false}
 {"name": "techla", "subscribers": 2850, "nsfw": false}
 {"name": "techleader", "subscribers": 1453, "nsfw": false}
@@ -162424,6 +162451,7 @@
 {"name": "thatsawoman", "subscribers": 28, "nsfw": false}
 {"name": "thatsbeenasub", "subscribers": 29, "nsfw": false}
 {"name": "thatscifinerdhate", "subscribers": 96, "nsfw": false}
+{"name": "thatsdefinitelyapenis", "subscribers": 0, "nsfw": false}
 {"name": "thatsentertainment", "subscribers": 19, "nsfw": false}
 {"name": "thatsfirechef", "subscribers": 1458, "nsfw": false}
 {"name": "thatsgettinghumped", "subscribers": 12, "nsfw": false}
@@ -166897,6 +166925,7 @@
 {"name": "thoughtcabinet", "subscribers": 22, "nsfw": false}
 {"name": "thoughtdaughter", "subscribers": 218, "nsfw": false}
 {"name": "thoughtexperiment", "subscribers": 372, "nsfw": false}
+{"name": "thoughtfulatheism", "subscribers": 0, "nsfw": false}
 {"name": "thoughtfullibertarian", "subscribers": 0, "nsfw": false}
 {"name": "thoughtleader", "subscribers": 0, "nsfw": false}
 {"name": "thoughtprovoking", "subscribers": 854, "nsfw": false}
@@ -176341,6 +176370,7 @@
 {"name": "uttarakhand", "subscribers": 121251, "nsfw": false}
 {"name": "uttarpradesh", "subscribers": 88944, "nsfw": false}
 {"name": "utterlyawfultruecrime", "subscribers": 1101, "nsfw": false}
+{"name": "utterlybizarre", "subscribers": 0, "nsfw": false}
 {"name": "utterlyinteresting", "subscribers": 109383, "nsfw": false}
 {"name": "utterlyuniquephotos", "subscribers": 287398, "nsfw": false}
 {"name": "utterpirates", "subscribers": 62, "nsfw": false}
@@ -185294,6 +185324,7 @@
 {"name": "wtfarmy", "subscribers": 608, "nsfw": false}
 {"name": "wtfart", "subscribers": 0, "nsfw": false}
 {"name": "wtfaucet", "subscribers": 60898, "nsfw": false}
+{"name": "wtfbible", "subscribers": 0, "nsfw": false}
 {"name": "wtfbuzzfeed", "subscribers": 84, "nsfw": false}
 {"name": "wtfcalifornia", "subscribers": 0, "nsfw": false}
 {"name": "wtfcoppa", "subscribers": 71, "nsfw": false}
@@ -188011,6 +188042,7 @@
 {"name": "zencastr", "subscribers": 351, "nsfw": false}
 {"name": "zenciadamlar", "subscribers": 13, "nsfw": false}
 {"name": "zencigotistan", "subscribers": 644, "nsfw": false}
+{"name": "zenciliberaller", "subscribers": 0, "nsfw": false}
 {"name": "zencoder", "subscribers": 118, "nsfw": false}
 {"name": "zenda_sexy", "subscribers": 79, "nsfw": false}
 {"name": "zendaya", "subscribers": 0, "nsfw": false}
