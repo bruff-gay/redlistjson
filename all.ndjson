@@ -1282,6 +1282,7 @@
 {"name": "40kexcerpts", "subscribers": 310, "nsfw": false}
 {"name": "40khobby", "subscribers": 79, "nsfw": false}
 {"name": "40kimperialknights", "subscribers": 8236, "nsfw": false}
+{"name": "40kinquisitor", "subscribers": 0, "nsfw": false}
 {"name": "40klore", "subscribers": 0, "nsfw": false}
 {"name": "40kloremods", "subscribers": 0, "nsfw": false}
 {"name": "40kmemes", "subscribers": 57662, "nsfw": false}
@@ -17939,13 +17940,18 @@
 {"name": "battlefield4", "subscribers": 0, "nsfw": false}
 {"name": "battlefield4_xbox", "subscribers": 691, "nsfw": false}
 {"name": "battlefield6", "subscribers": 92099, "nsfw": false}
+{"name": "battlefield6groupfind", "subscribers": 0, "nsfw": false}
+{"name": "battlefield6hardcore", "subscribers": 0, "nsfw": false}
 {"name": "battlefield_4", "subscribers": 170969, "nsfw": false}
+{"name": "battlefield_4_xbox360", "subscribers": 0, "nsfw": false}
 {"name": "battlefield_4_xboxone", "subscribers": 141, "nsfw": false}
 {"name": "battlefield_i", "subscribers": 102, "nsfw": false}
 {"name": "battlefield_india", "subscribers": 45, "nsfw": false}
 {"name": "battlefield_live", "subscribers": 9799, "nsfw": false}
+{"name": "battlefield_mobile", "subscribers": 0, "nsfw": false}
 {"name": "battlefield_one", "subscribers": 271928, "nsfw": false}
 {"name": "battlefield_platoons", "subscribers": 378, "nsfw": false}
+{"name": "battlefieldcosmetics", "subscribers": 0, "nsfw": false}
 {"name": "battlefieldeurope", "subscribers": 0, "nsfw": false}
 {"name": "battlefieldhardline", "subscribers": 779, "nsfw": false}
 {"name": "battlefieldhype", "subscribers": 44, "nsfw": false}
@@ -18006,6 +18012,7 @@
 {"name": "battlejojocats", "subscribers": 116, "nsfw": false}
 {"name": "battlejuicealchemist", "subscribers": 24, "nsfw": false}
 {"name": "battlelandsroyale", "subscribers": 0, "nsfw": false}
+{"name": "battlelandsroyaleopen", "subscribers": 0, "nsfw": false}
 {"name": "battleleague", "subscribers": 31, "nsfw": false}
 {"name": "battlelegion", "subscribers": 2002, "nsfw": false}
 {"name": "battlelords", "subscribers": 47, "nsfw": false}
@@ -18017,6 +18024,7 @@
 {"name": "battleofthebands", "subscribers": 18, "nsfw": false}
 {"name": "battleofthebets", "subscribers": 3607, "nsfw": false}
 {"name": "battleofthebrands", "subscribers": 3219, "nsfw": false}
+{"name": "battleofthehightower", "subscribers": 0, "nsfw": false}
 {"name": "battleofthejosh", "subscribers": 72, "nsfw": false}
 {"name": "battleoftheplanets_", "subscribers": 62, "nsfw": false}
 {"name": "battleofthesidecast", "subscribers": 14, "nsfw": false}
@@ -20183,10 +20191,13 @@
 {"name": "bf1_cte", "subscribers": 91, "nsfw": false}
 {"name": "bf1advancedtactics", "subscribers": 1991, "nsfw": false}
 {"name": "bf1nohud", "subscribers": 17, "nsfw": false}
+{"name": "bf1platoons", "subscribers": 0, "nsfw": false}
 {"name": "bf2142", "subscribers": 1003, "nsfw": false}
 {"name": "bf3pc", "subscribers": 587, "nsfw": false}
 {"name": "bf4_ps4", "subscribers": 73, "nsfw": false}
 {"name": "bf4_stats", "subscribers": 18, "nsfw": false}
+{"name": "bf4_x1", "subscribers": 0, "nsfw": false}
+{"name": "bf4emblems", "subscribers": 0, "nsfw": false}
 {"name": "bf4ps4", "subscribers": 165, "nsfw": false}
 {"name": "bf4server", "subscribers": 211, "nsfw": false}
 {"name": "bf5", "subscribers": 654, "nsfw": false}
@@ -20213,6 +20224,7 @@
 {"name": "bfdivoting", "subscribers": 678, "nsfw": false}
 {"name": "bfee", "subscribers": 23, "nsfw": false}
 {"name": "bffgw", "subscribers": 154, "nsfw": false}
+{"name": "bfgarmada", "subscribers": 0, "nsfw": false}
 {"name": "bfgenetics", "subscribers": 46, "nsfw": false}
 {"name": "bfleaks", "subscribers": 78, "nsfw": false}
 {"name": "bfme", "subscribers": 24105, "nsfw": false}
@@ -39293,6 +39305,7 @@
 {"name": "crimsondark", "subscribers": 24, "nsfw": false}
 {"name": "crimsondesert", "subscribers": 9059, "nsfw": false}
 {"name": "crimsonember", "subscribers": 230, "nsfw": false}
+{"name": "crimsonfists", "subscribers": 0, "nsfw": false}
 {"name": "crimsonsjournal", "subscribers": 21, "nsfw": false}
 {"name": "cring", "subscribers": 1434, "nsfw": false}
 {"name": "cringe", "subscribers": 0, "nsfw": false}
@@ -91662,6 +91675,7 @@
 {"name": "kuudere", "subscribers": 3357, "nsfw": false}
 {"name": "kuula_irl", "subscribers": 47, "nsfw": false}
 {"name": "kuutar_mains", "subscribers": 23, "nsfw": false}
+{"name": "kuvaclan", "subscribers": 0, "nsfw": false}
 {"name": "kuvalichnames", "subscribers": 180, "nsfw": false}
 {"name": "kuvaryum", "subscribers": 23, "nsfw": false}
 {"name": "kuwait", "subscribers": 88672, "nsfw": false}
@@ -98247,6 +98261,7 @@
 {"name": "lowsensitivity", "subscribers": 22, "nsfw": false}
 {"name": "lowsleepneedskids", "subscribers": 14, "nsfw": false}
 {"name": "lowsodium2042", "subscribers": 5172, "nsfw": false}
+{"name": "lowsodiumbattlefield", "subscribers": 0, "nsfw": false}
 {"name": "lowsodiumchelsea", "subscribers": 24, "nsfw": false}
 {"name": "lowsodiumcommunity", "subscribers": 306, "nsfw": false}
 {"name": "lowsodiumcyberpunk", "subscribers": 310030, "nsfw": false}
@@ -119235,6 +119250,7 @@
 {"name": "okbuddybard", "subscribers": 70, "nsfw": false}
 {"name": "okbuddybartholomew", "subscribers": 225, "nsfw": false}
 {"name": "okbuddybaskara", "subscribers": 16, "nsfw": false}
+{"name": "okbuddybattlecats", "subscribers": 0, "nsfw": false}
 {"name": "okbuddybaumer", "subscribers": 55, "nsfw": false}
 {"name": "okbuddybazaar", "subscribers": 31, "nsfw": false}
 {"name": "okbuddybeamng", "subscribers": 15250, "nsfw": false}
@@ -153384,6 +153400,7 @@
 {"name": "spaceharrier", "subscribers": 24, "nsfw": false}
 {"name": "spacehey", "subscribers": 6156, "nsfw": false}
 {"name": "spacehorror", "subscribers": 4230, "nsfw": false}
+{"name": "spacehulk", "subscribers": 0, "nsfw": false}
 {"name": "spacehuman", "subscribers": 39, "nsfw": false}
 {"name": "spaceice", "subscribers": 246, "nsfw": false}
 {"name": "spaceimpossible", "subscribers": 81, "nsfw": false}
@@ -157952,6 +157969,7 @@
 {"name": "suddenlybsd", "subscribers": 15, "nsfw": false}
 {"name": "suddenlybuddhist", "subscribers": 53, "nsfw": false}
 {"name": "suddenlybukkake", "subscribers": 190, "nsfw": false}
+{"name": "suddenlycaldruki", "subscribers": 0, "nsfw": false}
 {"name": "suddenlycanadian", "subscribers": 13, "nsfw": false}
 {"name": "suddenlycannibal", "subscribers": 2186, "nsfw": false}
 {"name": "suddenlycaparezza", "subscribers": 86, "nsfw": false}
@@ -186441,6 +186459,7 @@
 {"name": "wreathmaking", "subscribers": 1375, "nsfw": false}
 {"name": "wreckastow", "subscribers": 150, "nsfw": false}
 {"name": "wreckbeach", "subscribers": 1947, "nsfw": false}
+{"name": "wreckedrdt", "subscribers": 0, "nsfw": false}
 {"name": "wreckedtoilets", "subscribers": 39, "nsfw": false}
 {"name": "wreckem", "subscribers": 161, "nsfw": false}
 {"name": "wreckfest", "subscribers": 30928, "nsfw": false}
