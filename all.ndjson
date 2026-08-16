@@ -196,6 +196,7 @@
 {"name": "12tards", "subscribers": 0, "nsfw": false}
 {"name": "12teamstandard", "subscribers": 46, "nsfw": false}
 {"name": "12tester", "subscribers": 30, "nsfw": false}
+{"name": "12testerteam", "subscribers": 0, "nsfw": false}
 {"name": "12thcirclegaming", "subscribers": 23, "nsfw": false}
 {"name": "12thhouse", "subscribers": 9373, "nsfw": false}
 {"name": "12thman", "subscribers": 0, "nsfw": false}
@@ -4060,6 +4061,7 @@
 {"name": "advancedtopicsastro", "subscribers": 29, "nsfw": false}
 {"name": "advancedtracking", "subscribers": 119, "nsfw": false}
 {"name": "advancedvelo", "subscribers": 12, "nsfw": false}
+{"name": "advancedwarfare", "subscribers": 0, "nsfw": false}
 {"name": "advanceofzetagunpla", "subscribers": 98, "nsfw": false}
 {"name": "advancereadercopy", "subscribers": 0, "nsfw": false}
 {"name": "advantageplay", "subscribers": 192, "nsfw": false}
@@ -4715,6 +4717,7 @@
 {"name": "agenticalliance", "subscribers": 30, "nsfw": false}
 {"name": "agenticrag", "subscribers": 15, "nsfw": false}
 {"name": "agenticworkers", "subscribers": 168, "nsfw": false}
+{"name": "agentjobs", "subscribers": 0, "nsfw": false}
 {"name": "agentlame", "subscribers": 0, "nsfw": false}
 {"name": "agentmemoryprotocol", "subscribers": 0, "nsfw": false}
 {"name": "agentorange", "subscribers": 39, "nsfw": false}
@@ -8942,6 +8945,7 @@
 {"name": "androiddesktopmode", "subscribers": 80, "nsfw": false}
 {"name": "androiddev", "subscribers": 261194, "nsfw": false}
 {"name": "androiddevkit", "subscribers": 0, "nsfw": false}
+{"name": "androiddevlearn", "subscribers": 0, "nsfw": false}
 {"name": "androidemosupport", "subscribers": 74, "nsfw": false}
 {"name": "androidfanboy", "subscribers": 169, "nsfw": false}
 {"name": "androidgaming", "subscribers": 363012, "nsfw": false}
@@ -22707,6 +22711,7 @@
 {"name": "blackout2015", "subscribers": 0, "nsfw": false}
 {"name": "blackout_the_system", "subscribers": 125, "nsfw": false}
 {"name": "blackoutboys", "subscribers": 877, "nsfw": false}
+{"name": "blackoutcompetitive", "subscribers": 0, "nsfw": false}
 {"name": "blackoutday", "subscribers": 79, "nsfw": false}
 {"name": "blackoutdevices", "subscribers": 2486, "nsfw": true}
 {"name": "blackouthelp", "subscribers": 27, "nsfw": false}
@@ -23728,6 +23733,7 @@
 {"name": "blursedcomments", "subscribers": 64181, "nsfw": false}
 {"name": "blursedimages", "subscribers": 0, "nsfw": false}
 {"name": "blursedimiges", "subscribers": 16, "nsfw": false}
+{"name": "blursedmatchups", "subscribers": 0, "nsfw": false}
 {"name": "blursedmoviedetails", "subscribers": 3102, "nsfw": false}
 {"name": "blursedreversed", "subscribers": 65, "nsfw": false}
 {"name": "blursedroblox", "subscribers": 54, "nsfw": false}
@@ -30387,6 +30393,7 @@
 {"name": "cartooniverse_ama_rp", "subscribers": 21, "nsfw": false}
 {"name": "cartoonmoment", "subscribers": 109961, "nsfw": false}
 {"name": "cartoonnetwork", "subscribers": 91321, "nsfw": false}
+{"name": "cartoonnetworkarchive", "subscribers": 0, "nsfw": false}
 {"name": "cartoonphysics", "subscribers": 24480, "nsfw": false}
 {"name": "cartoonplanet", "subscribers": 56, "nsfw": false}
 {"name": "cartoonreviewers", "subscribers": 43, "nsfw": false}
@@ -36984,16 +36991,21 @@
 {"name": "codaaccountability", "subscribers": 162, "nsfw": false}
 {"name": "codadvancedwarfare", "subscribers": 91, "nsfw": false}
 {"name": "codashop", "subscribers": 442, "nsfw": false}
+{"name": "codaw", "subscribers": 0, "nsfw": false}
 {"name": "codbackup", "subscribers": 365, "nsfw": false}
 {"name": "codblackops7", "subscribers": 4686, "nsfw": false}
 {"name": "codblopsteams", "subscribers": 21, "nsfw": false}
+{"name": "codbo", "subscribers": 0, "nsfw": false}
+{"name": "codboplayercards", "subscribers": 0, "nsfw": false}
 {"name": "codclasses", "subscribers": 74, "nsfw": false}
 {"name": "codclipz", "subscribers": 61, "nsfw": false}
 {"name": "codclutches", "subscribers": 0, "nsfw": false}
 {"name": "codcoldwarlfg", "subscribers": 3342, "nsfw": false}
 {"name": "codcomp", "subscribers": 59, "nsfw": false}
+{"name": "codcompcirclejerk", "subscribers": 0, "nsfw": false}
 {"name": "codcompetitive", "subscribers": 227331, "nsfw": false}
 {"name": "codcompetitve", "subscribers": 68, "nsfw": false}
+{"name": "codcompplays", "subscribers": 0, "nsfw": false}
 {"name": "coddlemewithlies", "subscribers": 71, "nsfw": false}
 {"name": "code", "subscribers": 33834, "nsfw": false}
 {"name": "code27", "subscribers": 79, "nsfw": false}
@@ -37024,6 +37036,7 @@
 {"name": "codefortheplot", "subscribers": 35, "nsfw": false}
 {"name": "codegeass", "subscribers": 287289, "nsfw": false}
 {"name": "codegeassmemes", "subscribers": 2673, "nsfw": false}
+{"name": "codegeasssfw", "subscribers": 0, "nsfw": false}
 {"name": "codegen", "subscribers": 91, "nsfw": false}
 {"name": "codegonewild", "subscribers": 333, "nsfw": false}
 {"name": "codegroupdeals", "subscribers": 39, "nsfw": false}
@@ -37073,6 +37086,7 @@
 {"name": "codexseraphinianus", "subscribers": 206, "nsfw": false}
 {"name": "codextemporis", "subscribers": 465, "nsfw": false}
 {"name": "codexual", "subscribers": 50, "nsfw": false}
+{"name": "codghosts", "subscribers": 0, "nsfw": false}
 {"name": "codhacking", "subscribers": 1032, "nsfw": false}
 {"name": "codibigsby", "subscribers": 48, "nsfw": false}
 {"name": "codina_world", "subscribers": 12, "nsfw": false}
@@ -37115,6 +37129,7 @@
 {"name": "codrebirth", "subscribers": 376, "nsfw": false}
 {"name": "codvanguard", "subscribers": 104535, "nsfw": false}
 {"name": "codvanguardzombies", "subscribers": 1311, "nsfw": false}
+{"name": "codvods", "subscribers": 0, "nsfw": false}
 {"name": "codwarzone", "subscribers": 1390462, "nsfw": false}
 {"name": "codwarzone2", "subscribers": 1126, "nsfw": false}
 {"name": "codwarzoneiran", "subscribers": 94, "nsfw": false}
@@ -67456,6 +67471,7 @@
 {"name": "gamebags", "subscribers": 27, "nsfw": false}
 {"name": "gamebanana", "subscribers": 296, "nsfw": false}
 {"name": "gameband", "subscribers": 257, "nsfw": false}
+{"name": "gamebattles", "subscribers": 0, "nsfw": false}
 {"name": "gamebetas", "subscribers": 0, "nsfw": false}
 {"name": "gamebience", "subscribers": 19, "nsfw": false}
 {"name": "gamebooks", "subscribers": 10435, "nsfw": false}
@@ -88660,6 +88676,7 @@
 {"name": "jetjerick", "subscribers": 220, "nsfw": false}
 {"name": "jetkvm", "subscribers": 1289, "nsfw": false}
 {"name": "jetlagthegame", "subscribers": 38776, "nsfw": false}
+{"name": "jetpackcomposedev", "subscribers": 0, "nsfw": false}
 {"name": "jetpackjoyride", "subscribers": 29310, "nsfw": false}
 {"name": "jetphotos", "subscribers": 88, "nsfw": false}
 {"name": "jetphotosrejects", "subscribers": 94, "nsfw": false}
@@ -114615,9 +114632,11 @@
 {"name": "mvpdiscsports", "subscribers": 957, "nsfw": false}
 {"name": "mvperry", "subscribers": 9280, "nsfw": false}
 {"name": "mvplaunch", "subscribers": 2799, "nsfw": false}
+{"name": "mw2", "subscribers": 0, "nsfw": false}
 {"name": "mw2019", "subscribers": 139, "nsfw": false}
 {"name": "mw2022", "subscribers": 18, "nsfw": false}
 {"name": "mw2_tourney", "subscribers": 21, "nsfw": false}
+{"name": "mw3", "subscribers": 0, "nsfw": false}
 {"name": "mw3elite", "subscribers": 244, "nsfw": false}
 {"name": "mw3hardcore", "subscribers": 44, "nsfw": false}
 {"name": "mw3zombies", "subscribers": 10479, "nsfw": false}
@@ -125437,6 +125456,7 @@
 {"name": "orderachaos", "subscribers": 45, "nsfw": false}
 {"name": "orderandchaos2", "subscribers": 455, "nsfw": false}
 {"name": "orderdesk", "subscribers": 23, "nsfw": false}
+{"name": "orderedoperations", "subscribers": 0, "nsfw": false}
 {"name": "orderflow", "subscribers": 457, "nsfw": false}
 {"name": "orderflow_trading", "subscribers": 10442, "nsfw": false}
 {"name": "orderflowtradingpro", "subscribers": 61, "nsfw": false}
@@ -136081,6 +136101,7 @@
 {"name": "programmingbuddies", "subscribers": 81690, "nsfw": false}
 {"name": "programmingbytes", "subscribers": 63, "nsfw": false}
 {"name": "programmingchallenges", "subscribers": 12088, "nsfw": false}
+{"name": "programmingcirclejerk", "subscribers": 0, "nsfw": false}
 {"name": "programmingfonts", "subscribers": 149, "nsfw": false}
 {"name": "programmingforkids", "subscribers": 3311, "nsfw": false}
 {"name": "programmingfornoobs", "subscribers": 0, "nsfw": false}
