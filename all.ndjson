@@ -4214,6 +4214,7 @@
 {"name": "advertise", "subscribers": 5867, "nsfw": false}
 {"name": "advertisediscord", "subscribers": 769, "nsfw": false}
 {"name": "advertisesubs", "subscribers": 0, "nsfw": false}
+{"name": "advertiseyourserver", "subscribers": 0, "nsfw": false}
 {"name": "advertiseyourvideos", "subscribers": 57127, "nsfw": false}
 {"name": "advertising", "subscribers": 215814, "nsfw": false}
 {"name": "advertisingfails", "subscribers": 0, "nsfw": false}
@@ -43659,6 +43660,7 @@
 {"name": "curseddiscordvideos", "subscribers": 2107, "nsfw": false}
 {"name": "curseddoctorate", "subscribers": 286, "nsfw": false}
 {"name": "curseddokkan", "subscribers": 249, "nsfw": false}
+{"name": "cursedemojis", "subscribers": 0, "nsfw": false}
 {"name": "cursedexcerium", "subscribers": 11, "nsfw": false}
 {"name": "cursedfact", "subscribers": 243, "nsfw": false}
 {"name": "cursedfactorial", "subscribers": 56, "nsfw": false}
@@ -45679,6 +45681,7 @@
 {"name": "darthslugtestreddit", "subscribers": 24, "nsfw": false}
 {"name": "darthvadersinphotos", "subscribers": 39, "nsfw": false}
 {"name": "darthvaedor", "subscribers": 21, "nsfw": false}
+{"name": "darthwtf", "subscribers": 0, "nsfw": false}
 {"name": "dartmoor", "subscribers": 12670, "nsfw": false}
 {"name": "dartmouth", "subscribers": 10628, "nsfw": false}
 {"name": "dartopia", "subscribers": 210, "nsfw": false}
@@ -49873,6 +49876,7 @@
 {"name": "discord_bots", "subscribers": 62980, "nsfw": false}
 {"name": "discord_datamining", "subscribers": 34, "nsfw": false}
 {"name": "discord_iel", "subscribers": 352, "nsfw": false}
+{"name": "discord_irl", "subscribers": 0, "nsfw": false}
 {"name": "discord_selfbots", "subscribers": 5055, "nsfw": false}
 {"name": "discord_servers_list", "subscribers": 5100, "nsfw": false}
 {"name": "discordadskingdom", "subscribers": 1275, "nsfw": false}
@@ -49883,6 +49887,7 @@
 {"name": "discordappcss", "subscribers": 39, "nsfw": false}
 {"name": "discordbot", "subscribers": 3256, "nsfw": false}
 {"name": "discordbothelp", "subscribers": 144, "nsfw": false}
+{"name": "discordbots", "subscribers": 0, "nsfw": false}
 {"name": "discordchatsooc", "subscribers": 164, "nsfw": false}
 {"name": "discordconvos", "subscribers": 52, "nsfw": false}
 {"name": "discorddirectory", "subscribers": 728, "nsfw": false}
@@ -49911,9 +49916,11 @@
 {"name": "discordroleplay", "subscribers": 17998, "nsfw": false}
 {"name": "discordscreenshots", "subscribers": 102, "nsfw": false}
 {"name": "discordselfbots", "subscribers": 20, "nsfw": false}
+{"name": "discordservergrow", "subscribers": 0, "nsfw": false}
 {"name": "discordserverpromos", "subscribers": 15267, "nsfw": false}
 {"name": "discordserverrp", "subscribers": 105, "nsfw": false}
 {"name": "discordservers_", "subscribers": 0, "nsfw": false}
+{"name": "discordserversad", "subscribers": 0, "nsfw": false}
 {"name": "discordservershere", "subscribers": 62, "nsfw": false}
 {"name": "discordstocks", "subscribers": 41, "nsfw": false}
 {"name": "discordsucks", "subscribers": 2587, "nsfw": false}
@@ -51172,6 +51179,7 @@
 {"name": "doitforthegram", "subscribers": 102, "nsfw": false}
 {"name": "doitidareyou", "subscribers": 103, "nsfw": false}
 {"name": "doitong", "subscribers": 3385, "nsfw": false}
+{"name": "doitsch", "subscribers": 0, "nsfw": false}
 {"name": "doitsuwaifu", "subscribers": 2670, "nsfw": false}
 {"name": "doittogether", "subscribers": 80, "nsfw": false}
 {"name": "doityourselfshowcase", "subscribers": 52, "nsfw": false}
@@ -76897,6 +76905,7 @@
 {"name": "hanson", "subscribers": 2812, "nsfw": false}
 {"name": "hansonrobotics", "subscribers": 27, "nsfw": false}
 {"name": "hanstheuglydoberman", "subscribers": 39, "nsfw": false}
+{"name": "hanstrashyfans", "subscribers": 0, "nsfw": false}
 {"name": "hansungistrolling", "subscribers": 11, "nsfw": false}
 {"name": "hanszimmer", "subscribers": 10759, "nsfw": false}
 {"name": "hanta_sero", "subscribers": 768, "nsfw": false}
@@ -93575,6 +93584,7 @@
 {"name": "kekkonsurutte", "subscribers": 726, "nsfw": false}
 {"name": "kekmachannel", "subscribers": 57, "nsfw": false}
 {"name": "kekoslovakia", "subscribers": 51, "nsfw": false}
+{"name": "kekskuhquotes", "subscribers": 0, "nsfw": false}
 {"name": "kekucake", "subscribers": 79, "nsfw": false}
 {"name": "kela_el", "subscribers": 0, "nsfw": false}
 {"name": "kelbrey_omori", "subscribers": 29, "nsfw": false}
@@ -104011,6 +104021,7 @@
 {"name": "luvculture", "subscribers": 290, "nsfw": false}
 {"name": "luvkasey__", "subscribers": 182, "nsfw": false}
 {"name": "luvmehairwigs", "subscribers": 86, "nsfw": false}
+{"name": "luvtro", "subscribers": 0, "nsfw": false}
 {"name": "luvwonder", "subscribers": 213, "nsfw": false}
 {"name": "lux", "subscribers": 0, "nsfw": false}
 {"name": "luxalgo", "subscribers": 305, "nsfw": false}
@@ -104550,6 +104561,7 @@
 {"name": "madebykungfu", "subscribers": 156, "nsfw": false}
 {"name": "madebyliberty", "subscribers": 23, "nsfw": false}
 {"name": "madebymutant", "subscribers": 125, "nsfw": false}
+{"name": "madebysameerasw", "subscribers": 0, "nsfw": false}
 {"name": "madebythemusic", "subscribers": 25, "nsfw": false}
 {"name": "madefortvmovies", "subscribers": 35, "nsfw": false}
 {"name": "madefromfortunes", "subscribers": 93, "nsfw": false}
@@ -117039,6 +117051,7 @@
 {"name": "mylittlescifi", "subscribers": 113, "nsfw": false}
 {"name": "mylittleserver", "subscribers": 29, "nsfw": false}
 {"name": "mylittleshellbullet17", "subscribers": 30, "nsfw": false}
+{"name": "mylittleshipping", "subscribers": 0, "nsfw": false}
 {"name": "mylittleslamjam", "subscribers": 97, "nsfw": false}
 {"name": "mylittlesprayschool", "subscribers": 306, "nsfw": false}
 {"name": "mylittlesquidward", "subscribers": 1841, "nsfw": false}
@@ -142289,6 +142302,7 @@
 {"name": "rashmikamandannaa", "subscribers": 1595, "nsfw": false}
 {"name": "rasiapvp", "subscribers": 19, "nsfw": false}
 {"name": "rasiedbynarcissists", "subscribers": 131, "nsfw": false}
+{"name": "rasieren", "subscribers": 0, "nsfw": false}
 {"name": "raskitchen", "subscribers": 198, "nsfw": false}
 {"name": "rasnotty", "subscribers": 35, "nsfw": false}
 {"name": "raspbaerry", "subscribers": 14, "nsfw": false}
@@ -153082,6 +153096,7 @@
 {"name": "selfhosted", "subscribers": 761408, "nsfw": false}
 {"name": "selfhostedindia", "subscribers": 16, "nsfw": false}
 {"name": "selfhostedlietuva", "subscribers": 233, "nsfw": false}
+{"name": "selfhosting", "subscribers": 0, "nsfw": false}
 {"name": "selfie", "subscribers": 802173, "nsfw": false}
 {"name": "selfie40plus", "subscribers": 12472, "nsfw": false}
 {"name": "selfieaday", "subscribers": 1617, "nsfw": false}
@@ -163818,6 +163833,7 @@
 {"name": "stnl", "subscribers": 42, "nsfw": false}
 {"name": "stnorthampton", "subscribers": 0, "nsfw": false}
 {"name": "sto", "subscribers": 63359, "nsfw": false}
+{"name": "stoatchat", "subscribers": 0, "nsfw": false}
 {"name": "stoats", "subscribers": 343, "nsfw": false}
 {"name": "stoatsareliquid", "subscribers": 170, "nsfw": false}
 {"name": "stobuilds", "subscribers": 24225, "nsfw": false}
@@ -165117,6 +165133,7 @@
 {"name": "subforeverything", "subscribers": 10600, "nsfw": false}
 {"name": "subforindians", "subscribers": 51, "nsfw": false}
 {"name": "subforsub_", "subscribers": 2788, "nsfw": false}
+{"name": "subgenius", "subscribers": 0, "nsfw": false}
 {"name": "subglotticstenosis", "subscribers": 62, "nsfw": false}
 {"name": "subgredditdrama", "subscribers": 0, "nsfw": false}
 {"name": "subgredditoftheweek", "subscribers": 0, "nsfw": false}
@@ -171601,6 +171618,7 @@
 {"name": "the_man_from_earth", "subscribers": 19, "nsfw": false}
 {"name": "the_marvin", "subscribers": 171, "nsfw": false}
 {"name": "the_marx", "subscribers": 23, "nsfw": false}
+{"name": "the_mat", "subscribers": 0, "nsfw": false}
 {"name": "the_mattis", "subscribers": 135, "nsfw": false}
 {"name": "the_mcbee_dynasty", "subscribers": 3400, "nsfw": false}
 {"name": "the_mcpoyles", "subscribers": 96, "nsfw": false}
@@ -182172,6 +182190,7 @@
 {"name": "u_away_nose5306", "subscribers": 0, "nsfw": false}
 {"name": "u_baddabing123456", "subscribers": 0, "nsfw": false}
 {"name": "u_balelaba1", "subscribers": 0, "nsfw": false}
+{"name": "u_balix_86", "subscribers": 0, "nsfw": false}
 {"name": "u_bandit483", "subscribers": 0, "nsfw": false}
 {"name": "u_bankonomics", "subscribers": 0, "nsfw": false}
 {"name": "u_battlefield", "subscribers": 0, "nsfw": false}
@@ -182541,6 +182560,7 @@
 {"name": "u_maxenceronzie", "subscribers": 0, "nsfw": false}
 {"name": "u_may_purple0414", "subscribers": 0, "nsfw": false}
 {"name": "u_mazhuka3d", "subscribers": 0, "nsfw": false}
+{"name": "u_meancherry2902", "subscribers": 0, "nsfw": false}
 {"name": "u_medboxbyap", "subscribers": 0, "nsfw": false}
 {"name": "u_meetkaur89", "subscribers": 0, "nsfw": false}
 {"name": "u_melevill1st", "subscribers": 0, "nsfw": false}
@@ -196786,6 +196806,7 @@
 {"name": "yaralinke", "subscribers": 11, "nsfw": false}
 {"name": "yarasky", "subscribers": 12, "nsfw": false}
 {"name": "yarbodealers", "subscribers": 46, "nsfw": false}
+{"name": "yardact", "subscribers": 0, "nsfw": false}
 {"name": "yardcoach", "subscribers": 263, "nsfw": false}
 {"name": "yarden", "subscribers": 135, "nsfw": false}
 {"name": "yardens", "subscribers": 87, "nsfw": false}
