@@ -13854,6 +13854,7 @@
 {"name": "asktexas", "subscribers": 167, "nsfw": false}
 {"name": "askthe_donald", "subscribers": 134944, "nsfw": false}
 {"name": "askthecaribbean", "subscribers": 36134, "nsfw": false}
+{"name": "askthedentistalbina", "subscribers": 0, "nsfw": false}
 {"name": "askthedoc", "subscribers": 195, "nsfw": false}
 {"name": "asktheherbalist", "subscribers": 281, "nsfw": false}
 {"name": "askthehomeinspector", "subscribers": 246, "nsfw": false}
@@ -17324,6 +17325,7 @@
 {"name": "bakeio", "subscribers": 177, "nsfw": false}
 {"name": "bakeoff", "subscribers": 75697, "nsfw": false}
 {"name": "bakeoffgifs", "subscribers": 61, "nsfw": false}
+{"name": "bakerdenver", "subscribers": 0, "nsfw": false}
 {"name": "bakerprairie", "subscribers": 17, "nsfw": false}
 {"name": "bakersfield", "subscribers": 41211, "nsfw": false}
 {"name": "bakersfieldcalifornia", "subscribers": 0, "nsfw": false}
@@ -29485,6 +29487,7 @@
 {"name": "canadiancpa", "subscribers": 145, "nsfw": false}
 {"name": "canadiancrime", "subscribers": 143, "nsfw": false}
 {"name": "canadiandaytrading", "subscribers": 0, "nsfw": false}
+{"name": "canadiandentists", "subscribers": 0, "nsfw": false}
 {"name": "canadianeditorial", "subscribers": 0, "nsfw": false}
 {"name": "canadianevstocks", "subscribers": 321, "nsfw": false}
 {"name": "canadianfilm", "subscribers": 933, "nsfw": false}
@@ -36582,6 +36585,7 @@
 {"name": "cleanyourmonitor", "subscribers": 12, "nsfw": false}
 {"name": "clear_lake_hs", "subscribers": 90, "nsfw": false}
 {"name": "clearbackblast", "subscribers": 0, "nsfw": false}
+{"name": "clearchoice", "subscribers": 0, "nsfw": false}
 {"name": "clearcreek", "subscribers": 18, "nsfw": false}
 {"name": "clearedhotgame", "subscribers": 57, "nsfw": false}
 {"name": "clearforegroundmiata", "subscribers": 15, "nsfw": false}
@@ -39634,6 +39638,7 @@
 {"name": "convictingamurderer", "subscribers": 0, "nsfw": false}
 {"name": "convictsupremacy", "subscribers": 18, "nsfw": false}
 {"name": "convo_ai", "subscribers": 15, "nsfw": false}
+{"name": "convohq", "subscribers": 0, "nsfw": false}
 {"name": "convolk_fans", "subscribers": 48, "nsfw": false}
 {"name": "convoswithcalicos", "subscribers": 37, "nsfw": false}
 {"name": "convrge", "subscribers": 258, "nsfw": false}
@@ -40445,6 +40450,7 @@
 {"name": "cotoletta", "subscribers": 245, "nsfw": false}
 {"name": "coton", "subscribers": 0, "nsfw": false}
 {"name": "cotondetulear", "subscribers": 7032, "nsfw": false}
+{"name": "cotreegifting", "subscribers": 0, "nsfw": false}
 {"name": "cotrees", "subscribers": 159, "nsfw": false}
 {"name": "cotswoldcycling", "subscribers": 12, "nsfw": false}
 {"name": "cottage_industry", "subscribers": 8109, "nsfw": false}
@@ -41014,7 +41020,9 @@
 {"name": "crackheadcraigslist", "subscribers": 708551, "nsfw": false}
 {"name": "crackingthecryptic", "subscribers": 3479, "nsfw": false}
 {"name": "crackrock", "subscribers": 0, "nsfw": false}
+{"name": "crackstatus", "subscribers": 0, "nsfw": false}
 {"name": "crackstatus2", "subscribers": 0, "nsfw": false}
+{"name": "crackstatusforkids", "subscribers": 0, "nsfw": false}
 {"name": "cracksupport", "subscribers": 229409, "nsfw": false}
 {"name": "crackwatch", "subscribers": 674070, "nsfw": false}
 {"name": "crackwatch2", "subscribers": 0, "nsfw": false}
@@ -47748,17 +47756,25 @@
 {"name": "densecuritylines", "subscribers": 354, "nsfw": false}
 {"name": "densegifs", "subscribers": 41808, "nsfw": false}
 {"name": "denshadego", "subscribers": 1107, "nsfw": false}
+{"name": "dental_wellness", "subscribers": 0, "nsfw": false}
 {"name": "dentalanaesthesia", "subscribers": 18, "nsfw": false}
 {"name": "dentalassistant", "subscribers": 11974, "nsfw": false}
 {"name": "dentalassistantsaus", "subscribers": 2, "nsfw": false}
+{"name": "dentalbase", "subscribers": 0, "nsfw": false}
+{"name": "dentalbusinesshelp", "subscribers": 0, "nsfw": false}
 {"name": "dentalcad_cam", "subscribers": 23, "nsfw": false}
 {"name": "dentalcomedy", "subscribers": 82, "nsfw": false}
+{"name": "dentalgrowth", "subscribers": 0, "nsfw": false}
+{"name": "dentalhygiene", "subscribers": 0, "nsfw": false}
 {"name": "dentalhygienehelp", "subscribers": 49, "nsfw": false}
 {"name": "dentalhygieneschool", "subscribers": 1317, "nsfw": false}
+{"name": "dentalimplant", "subscribers": 0, "nsfw": false}
 {"name": "dentalimplants", "subscribers": 27, "nsfw": false}
 {"name": "dentallab", "subscribers": 655, "nsfw": false}
 {"name": "dentalmarketing", "subscribers": 459, "nsfw": false}
 {"name": "dentaloffice", "subscribers": 216, "nsfw": false}
+{"name": "dentalpracticeowner", "subscribers": 0, "nsfw": false}
+{"name": "dentalrdh", "subscribers": 0, "nsfw": false}
 {"name": "dentalschool", "subscribers": 47507, "nsfw": false}
 {"name": "dentalschoolindia", "subscribers": 1809, "nsfw": false}
 {"name": "dentalschooluk", "subscribers": 2089, "nsfw": false}
@@ -47776,9 +47792,11 @@
 {"name": "dentizzy", "subscribers": 2313, "nsfw": false}
 {"name": "denton", "subscribers": 111989, "nsfw": false}
 {"name": "dentonbillsbackers", "subscribers": 11, "nsfw": false}
+{"name": "dentonclassifieds", "subscribers": 0, "nsfw": false}
 {"name": "dentonpolitics", "subscribers": 112, "nsfw": false}
 {"name": "dentures", "subscribers": 14978, "nsfw": false}
 {"name": "denturesanddemons", "subscribers": 87, "nsfw": false}
+{"name": "denuvotrading", "subscribers": 0, "nsfw": false}
 {"name": "denuvotradingmeta", "subscribers": 24, "nsfw": false}
 {"name": "denver", "subscribers": 0, "nsfw": false}
 {"name": "denver_bands", "subscribers": 805, "nsfw": false}
@@ -47799,6 +47817,7 @@
 {"name": "denverfood", "subscribers": 90112, "nsfw": false}
 {"name": "denverfoos", "subscribers": 30, "nsfw": false}
 {"name": "denvergamers", "subscribers": 0, "nsfw": false}
+{"name": "denvergameswap", "subscribers": 0, "nsfw": false}
 {"name": "denvergardener", "subscribers": 16886, "nsfw": false}
 {"name": "denvergardening", "subscribers": 0, "nsfw": false}
 {"name": "denvergaymers", "subscribers": 0, "nsfw": false}
@@ -47813,6 +47832,7 @@
 {"name": "denvermotorcycles", "subscribers": 2710, "nsfw": false}
 {"name": "denvermusic", "subscribers": 0, "nsfw": false}
 {"name": "denvermusicians", "subscribers": 487, "nsfw": false}
+{"name": "denvermusicscene", "subscribers": 0, "nsfw": false}
 {"name": "denvernuggets", "subscribers": 0, "nsfw": false}
 {"name": "denveronyx", "subscribers": 75, "nsfw": false}
 {"name": "denveroutlaws", "subscribers": 0, "nsfw": false}
@@ -48475,6 +48495,7 @@
 {"name": "developersrajkot", "subscribers": 51, "nsfw": false}
 {"name": "develophouston", "subscribers": 113, "nsfw": false}
 {"name": "development", "subscribers": 7783, "nsfw": false}
+{"name": "developmentdenver", "subscribers": 0, "nsfw": false}
 {"name": "developmenteconomics", "subscribers": 1385, "nsfw": false}
 {"name": "developmentmule", "subscribers": 212, "nsfw": false}
 {"name": "developmentslc", "subscribers": 6054, "nsfw": false}
@@ -62550,6 +62571,7 @@
 {"name": "findfifafriends", "subscribers": 78, "nsfw": false}
 {"name": "findfostersfordogs", "subscribers": 0, "nsfw": false}
 {"name": "findhannahkobayashi", "subscribers": 4040, "nsfw": false}
+{"name": "findingahomeincolorad", "subscribers": 0, "nsfw": false}
 {"name": "findingcamellia", "subscribers": 510, "nsfw": false}
 {"name": "findingcarriescloset", "subscribers": 62, "nsfw": false}
 {"name": "findingcolleen", "subscribers": 235, "nsfw": false}
@@ -69928,6 +69950,7 @@
 {"name": "geekcraft", "subscribers": 54, "nsfw": false}
 {"name": "geekcrafts", "subscribers": 0, "nsfw": false}
 {"name": "geekdays", "subscribers": 49, "nsfw": false}
+{"name": "geekdfw", "subscribers": 0, "nsfw": false}
 {"name": "geekdom101", "subscribers": 45, "nsfw": false}
 {"name": "geeked", "subscribers": 672, "nsfw": false}
 {"name": "geekfashion", "subscribers": 618, "nsfw": false}
@@ -84806,6 +84829,7 @@
 {"name": "inazumaelevends", "subscribers": 47, "nsfw": false}
 {"name": "inazumaelevensd", "subscribers": 410, "nsfw": false}
 {"name": "inazumaelevenstrikers", "subscribers": 277, "nsfw": false}
+{"name": "inbde", "subscribers": 0, "nsfw": false}
 {"name": "inbdetutor", "subscribers": 228, "nsfw": false}
 {"name": "inbetweenercommunity", "subscribers": 36, "nsfw": false}
 {"name": "inbetweentales", "subscribers": 138, "nsfw": false}
@@ -106305,6 +106329,7 @@
 {"name": "marketingautomation", "subscribers": 0, "nsfw": false}
 {"name": "marketingbattles", "subscribers": 45, "nsfw": false}
 {"name": "marketingcurated", "subscribers": 9393, "nsfw": false}
+{"name": "marketingdental", "subscribers": 0, "nsfw": false}
 {"name": "marketingdigitalbr", "subscribers": 37361, "nsfw": false}
 {"name": "marketingfail", "subscribers": 77, "nsfw": false}
 {"name": "marketingfails", "subscribers": 165, "nsfw": false}
@@ -118163,6 +118188,7 @@
 {"name": "nbc", "subscribers": 3199, "nsfw": false}
 {"name": "nbcauto", "subscribers": 0, "nsfw": false}
 {"name": "nbcontentaware", "subscribers": 16, "nsfw": false}
+{"name": "nbdhe", "subscribers": 0, "nsfw": false}
 {"name": "nbende_doethet", "subscribers": 18, "nsfw": false}
 {"name": "nbgmll", "subscribers": 63, "nsfw": false}
 {"name": "nbhl", "subscribers": 283, "nsfw": false}
@@ -122142,6 +122168,7 @@
 {"name": "northstowe", "subscribers": 0, "nsfw": false}
 {"name": "northtexaschristians", "subscribers": 162, "nsfw": false}
 {"name": "northtonawanda", "subscribers": 0, "nsfw": false}
+{"name": "northtxbillsbackers", "subscribers": 0, "nsfw": false}
 {"name": "northumberland", "subscribers": 0, "nsfw": false}
 {"name": "northvalleysreno", "subscribers": 126, "nsfw": false}
 {"name": "northvan", "subscribers": 1055, "nsfw": false}
@@ -127204,6 +127231,7 @@
 {"name": "oralhealthgang", "subscribers": 45, "nsfw": false}
 {"name": "oralhentai", "subscribers": 167275, "nsfw": true}
 {"name": "oralpleasure", "subscribers": 183624, "nsfw": true}
+{"name": "oralprofessionals", "subscribers": 0, "nsfw": false}
 {"name": "oramafy", "subscribers": 16, "nsfw": false}
 {"name": "oramainteractive", "subscribers": 31, "nsfw": false}
 {"name": "orangcult", "subscribers": 13, "nsfw": false}
@@ -157901,6 +157929,7 @@
 {"name": "smilebringers", "subscribers": 37, "nsfw": false}
 {"name": "smilecars", "subscribers": 18, "nsfw": false}
 {"name": "smilemore", "subscribers": 12, "nsfw": false}
+{"name": "smilerestoration", "subscribers": 0, "nsfw": false}
 {"name": "smilesdaily", "subscribers": 1779, "nsfw": false}
 {"name": "smilespergallon", "subscribers": 125, "nsfw": false}
 {"name": "smileyfacekiller", "subscribers": 4163, "nsfw": false}
@@ -169666,6 +169695,7 @@
 {"name": "teeshirtaddict", "subscribers": 445, "nsfw": false}
 {"name": "teespring", "subscribers": 7573, "nsfw": false}
 {"name": "teesside", "subscribers": 23848, "nsfw": false}
+{"name": "teethcare", "subscribers": 0, "nsfw": false}
 {"name": "teethgumhealth", "subscribers": 42, "nsfw": false}
 {"name": "teethhurtingjuice", "subscribers": 40, "nsfw": false}
 {"name": "teethpodcast", "subscribers": 0, "nsfw": false}
@@ -175848,6 +175878,7 @@
 {"name": "thumbnailsthings", "subscribers": 19, "nsfw": false}
 {"name": "thumbpulling", "subscribers": 14, "nsfw": false}
 {"name": "thumbs0fdestiny", "subscribers": 0, "nsfw": false}
+{"name": "thumbsucking", "subscribers": 0, "nsfw": false}
 {"name": "thumbwind", "subscribers": 46, "nsfw": false}
 {"name": "thumpasaurus", "subscribers": 519, "nsfw": false}
 {"name": "thumper_game", "subscribers": 613, "nsfw": false}
@@ -181741,6 +181772,7 @@
 {"name": "u_away_nose5306", "subscribers": 0, "nsfw": false}
 {"name": "u_baddabing123456", "subscribers": 0, "nsfw": false}
 {"name": "u_balelaba1", "subscribers": 0, "nsfw": false}
+{"name": "u_bandit483", "subscribers": 0, "nsfw": false}
 {"name": "u_bankonomics", "subscribers": 0, "nsfw": false}
 {"name": "u_battlefield", "subscribers": 0, "nsfw": false}
 {"name": "u_beamoontick", "subscribers": 0, "nsfw": false}
@@ -182321,6 +182353,7 @@
 {"name": "u_stickystakx", "subscribers": 0, "nsfw": false}
 {"name": "u_still_cut586", "subscribers": 0, "nsfw": false}
 {"name": "u_stillscared1971", "subscribers": 0, "nsfw": false}
+{"name": "u_stinardh", "subscribers": 0, "nsfw": false}
 {"name": "u_stitchfix_official", "subscribers": 0, "nsfw": false}
 {"name": "u_stoned_kitten22", "subscribers": 0, "nsfw": false}
 {"name": "u_stormblade_shotog", "subscribers": 0, "nsfw": false}
@@ -182448,6 +182481,7 @@
 {"name": "u_wonderyoutdoors", "subscribers": 0, "nsfw": false}
 {"name": "u_woodlandhollows", "subscribers": 0, "nsfw": false}
 {"name": "u_woogerlover", "subscribers": 0, "nsfw": false}
+{"name": "u_working_pea2093", "subscribers": 0, "nsfw": false}
 {"name": "u_worldman777", "subscribers": 0, "nsfw": false}
 {"name": "u_worth_place_7430", "subscribers": 0, "nsfw": false}
 {"name": "u_xdanni_md", "subscribers": 0, "nsfw": false}
