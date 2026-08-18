@@ -1388,6 +1388,7 @@
 {"name": "40klore", "subscribers": 0, "nsfw": false}
 {"name": "40kloremods", "subscribers": 0, "nsfw": false}
 {"name": "40kmemes", "subscribers": 57662, "nsfw": false}
+{"name": "40kobscurechapters", "subscribers": 0, "nsfw": false}
 {"name": "40korkscience", "subscribers": 48384, "nsfw": false}
 {"name": "40kpainting", "subscribers": 883, "nsfw": false}
 {"name": "40krpg", "subscribers": 31045, "nsfw": false}
@@ -6039,6 +6040,7 @@
 {"name": "alabamanaturism", "subscribers": 396, "nsfw": true}
 {"name": "alabamanime", "subscribers": 188, "nsfw": false}
 {"name": "alabamapolitics", "subscribers": 0, "nsfw": false}
+{"name": "alabamatea", "subscribers": 0, "nsfw": false}
 {"name": "alabamauncut", "subscribers": 27, "nsfw": false}
 {"name": "alabamaunity", "subscribers": 0, "nsfw": false}
 {"name": "alabamouija", "subscribers": 50, "nsfw": false}
@@ -13876,6 +13878,7 @@
 {"name": "asksg", "subscribers": 0, "nsfw": false}
 {"name": "askshib", "subscribers": 309, "nsfw": false}
 {"name": "askshopify", "subscribers": 201, "nsfw": false}
+{"name": "askshortdramas", "subscribers": 0, "nsfw": false}
 {"name": "askshowerthoughts", "subscribers": 0, "nsfw": false}
 {"name": "asksingapore", "subscribers": 330872, "nsfw": false}
 {"name": "askskincare", "subscribers": 174, "nsfw": false}
@@ -28547,6 +28550,7 @@
 {"name": "byllogan", "subscribers": 26, "nsfw": false}
 {"name": "byndinfinity", "subscribers": 38, "nsfw": false}
 {"name": "byoliva", "subscribers": 13, "nsfw": false}
+{"name": "byond", "subscribers": 0, "nsfw": false}
 {"name": "byoruuu", "subscribers": 264, "nsfw": false}
 {"name": "bypassaidetect", "subscribers": 0, "nsfw": false}
 {"name": "byplanlegging", "subscribers": 27, "nsfw": false}
@@ -31961,6 +31965,7 @@
 {"name": "cavdef", "subscribers": 0, "nsfw": false}
 {"name": "caveassociation", "subscribers": 18, "nsfw": false}
 {"name": "cavebook", "subscribers": 56, "nsfw": false}
+{"name": "caveclan", "subscribers": 0, "nsfw": false}
 {"name": "cavedivers", "subscribers": 103, "nsfw": false}
 {"name": "cavediving", "subscribers": 0, "nsfw": false}
 {"name": "caveduck", "subscribers": 461, "nsfw": false}
@@ -48098,6 +48103,7 @@
 {"name": "deportivo_reddit", "subscribers": 29, "nsfw": false}
 {"name": "depositions", "subscribers": 119, "nsfw": false}
 {"name": "depositrates", "subscribers": 61, "nsfw": false}
+{"name": "deppdelusion", "subscribers": 0, "nsfw": false}
 {"name": "deppenapostroph", "subscribers": 1366, "nsfw": false}
 {"name": "deppvheardtrial", "subscribers": 12027, "nsfw": false}
 {"name": "deprarious", "subscribers": 105, "nsfw": false}
@@ -52431,6 +52437,7 @@
 {"name": "dragondrawings", "subscribers": 0, "nsfw": false}
 {"name": "dragonfable", "subscribers": 0, "nsfw": false}
 {"name": "dragonfallsmp", "subscribers": 0, "nsfw": false}
+{"name": "dragonfanart", "subscribers": 0, "nsfw": false}
 {"name": "dragonfly2titan", "subscribers": 22, "nsfw": false}
 {"name": "dragonflybsd", "subscribers": 0, "nsfw": false}
 {"name": "dragonframe", "subscribers": 374, "nsfw": false}
@@ -52480,6 +52487,7 @@
 {"name": "dragonsdensd", "subscribers": 29, "nsfw": false}
 {"name": "dragonsdogma", "subscribers": 215531, "nsfw": false}
 {"name": "dragonsdogma2", "subscribers": 278858, "nsfw": false}
+{"name": "dragonsdogmods", "subscribers": 0, "nsfw": false}
 {"name": "dragonsinhats", "subscribers": 42, "nsfw": false}
 {"name": "dragonsmtg", "subscribers": 220, "nsfw": false}
 {"name": "dragonsofatlantishotd", "subscribers": 34, "nsfw": false}
@@ -52495,6 +52503,7 @@
 {"name": "dragonup", "subscribers": 47, "nsfw": false}
 {"name": "dragonutopia", "subscribers": 0, "nsfw": false}
 {"name": "dragonvale", "subscribers": 57508, "nsfw": false}
+{"name": "dragonvalefriends", "subscribers": 0, "nsfw": false}
 {"name": "dragonvalegemgifting", "subscribers": 806, "nsfw": false}
 {"name": "dragonvaleworld", "subscribers": 0, "nsfw": false}
 {"name": "dragonvalor", "subscribers": 27, "nsfw": false}
@@ -52507,12 +52516,14 @@
 {"name": "dragostesisex", "subscribers": 72, "nsfw": false}
 {"name": "dragotoken", "subscribers": 334, "nsfw": false}
 {"name": "dragqueenmakeup", "subscribers": 2423, "nsfw": false}
+{"name": "dragrace", "subscribers": 0, "nsfw": false}
 {"name": "dragrace_canada", "subscribers": 27898, "nsfw": false}
 {"name": "dragrace_espana", "subscribers": 8663, "nsfw": false}
 {"name": "dragracebelgique", "subscribers": 782, "nsfw": false}
 {"name": "dragracecanada", "subscribers": 2546, "nsfw": false}
 {"name": "dragracedownunder", "subscribers": 24164, "nsfw": false}
 {"name": "dragracedrama", "subscribers": 85, "nsfw": false}
+{"name": "dragraceexchange", "subscribers": 0, "nsfw": false}
 {"name": "dragracefanfiction", "subscribers": 561, "nsfw": false}
 {"name": "dragracefrance", "subscribers": 15575, "nsfw": false}
 {"name": "dragraceholland", "subscribers": 5246, "nsfw": false}
@@ -52520,9 +52531,11 @@
 {"name": "dragracememes", "subscribers": 2651, "nsfw": false}
 {"name": "dragracemexico", "subscribers": 1576, "nsfw": false}
 {"name": "dragracephilippines", "subscribers": 90976, "nsfw": false}
+{"name": "dragracereactiongifs", "subscribers": 0, "nsfw": false}
 {"name": "dragracesa", "subscribers": 25, "nsfw": false}
 {"name": "dragracesverige", "subscribers": 810, "nsfw": false}
 {"name": "dragracetea", "subscribers": 54282, "nsfw": false}
+{"name": "dragracethailand", "subscribers": 0, "nsfw": false}
 {"name": "dragracing", "subscribers": 0, "nsfw": false}
 {"name": "dragracingstreets", "subscribers": 2127, "nsfw": false}
 {"name": "dragrush", "subscribers": 35, "nsfw": false}
@@ -103898,6 +103911,7 @@
 {"name": "lse", "subscribers": 7497, "nsfw": false}
 {"name": "lse90", "subscribers": 48, "nsfw": false}
 {"name": "lsf", "subscribers": 191, "nsfw": false}
+{"name": "lsfyl", "subscribers": 0, "nsfw": false}
 {"name": "lshtm", "subscribers": 87, "nsfw": false}
 {"name": "lsnguclubhouse", "subscribers": 87, "nsfw": false}
 {"name": "lsrp", "subscribers": 247, "nsfw": false}
@@ -133800,6 +133814,7 @@
 {"name": "pikminfunkin", "subscribers": 11, "nsfw": false}
 {"name": "pikmingameplay", "subscribers": 306, "nsfw": false}
 {"name": "pikmingold", "subscribers": 13, "nsfw": false}
+{"name": "pikminmemes", "subscribers": 0, "nsfw": false}
 {"name": "pikosky_sk", "subscribers": 18, "nsfw": false}
 {"name": "pikvm", "subscribers": 5683, "nsfw": false}
 {"name": "pikwikpackfancrew", "subscribers": 57, "nsfw": false}
@@ -136769,6 +136784,7 @@
 {"name": "polysexual", "subscribers": 2392, "nsfw": false}
 {"name": "polysexualteens", "subscribers": 674, "nsfw": false}
 {"name": "polystratusmainshsr", "subscribers": 27, "nsfw": false}
+{"name": "polytalkshiphop", "subscribers": 0, "nsfw": false}
 {"name": "polytehnica", "subscribers": 10308, "nsfw": false}
 {"name": "polytheism", "subscribers": 5903, "nsfw": false}
 {"name": "polytheist", "subscribers": 168, "nsfw": false}
@@ -138370,6 +138386,7 @@
 {"name": "preyingmantis", "subscribers": 0, "nsfw": false}
 {"name": "prezoh", "subscribers": 432, "nsfw": false}
 {"name": "prfc", "subscribers": 0, "nsfw": false}
+{"name": "prforentrepreneurs", "subscribers": 0, "nsfw": false}
 {"name": "prforsanders", "subscribers": 0, "nsfw": false}
 {"name": "prhunters", "subscribers": 11, "nsfw": false}
 {"name": "pria", "subscribers": 1217, "nsfw": false}
@@ -143297,6 +143314,7 @@
 {"name": "rdr_mystery", "subscribers": 334, "nsfw": false}
 {"name": "rdragula", "subscribers": 133, "nsfw": false}
 {"name": "rdrdu", "subscribers": 18, "nsfw": false}
+{"name": "rdrinteractiveseason", "subscribers": 0, "nsfw": false}
 {"name": "rdronlineposses", "subscribers": 334, "nsfw": false}
 {"name": "rdrphotography", "subscribers": 5180, "nsfw": false}
 {"name": "rdrroleplay", "subscribers": 122, "nsfw": false}
@@ -148943,7 +148961,11 @@
 {"name": "rpcsx_android", "subscribers": 57, "nsfw": false}
 {"name": "rpdr_uk", "subscribers": 101642, "nsfw": false}
 {"name": "rpdrbussybolsheviks", "subscribers": 61, "nsfw": false}
+{"name": "rpdrfanart", "subscribers": 0, "nsfw": false}
+{"name": "rpdrfantasyseason", "subscribers": 0, "nsfw": false}
 {"name": "rpdrgifs", "subscribers": 281, "nsfw": false}
+{"name": "rpdrmemes", "subscribers": 0, "nsfw": false}
+{"name": "rpdrofftopic", "subscribers": 0, "nsfw": false}
 {"name": "rpdrqueensnearme", "subscribers": 763, "nsfw": false}
 {"name": "rpdrrankdown", "subscribers": 118, "nsfw": false}
 {"name": "rpdst", "subscribers": 11, "nsfw": false}
@@ -159803,6 +159825,7 @@
 {"name": "softair_ita", "subscribers": 362, "nsfw": false}
 {"name": "softball", "subscribers": 14500, "nsfw": false}
 {"name": "softbunnyrabbitreddit", "subscribers": 27, "nsfw": false}
+{"name": "softclassic", "subscribers": 0, "nsfw": false}
 {"name": "softcorenights", "subscribers": 170701, "nsfw": true}
 {"name": "softcoretrap", "subscribers": 103, "nsfw": false}
 {"name": "softcult", "subscribers": 251, "nsfw": false}
@@ -160593,6 +160616,7 @@
 {"name": "sorbonne", "subscribers": 1076, "nsfw": false}
 {"name": "sorbs", "subscribers": 19, "nsfw": false}
 {"name": "sorcererbg", "subscribers": 277, "nsfw": false}
+{"name": "sorceress", "subscribers": 0, "nsfw": false}
 {"name": "sorcery", "subscribers": 1371, "nsfw": false}
 {"name": "sorcerygame", "subscribers": 1560, "nsfw": false}
 {"name": "sorceryofthespectacle", "subscribers": 37016, "nsfw": false}
@@ -161727,6 +161751,7 @@
 {"name": "spicegirlslewd", "subscribers": 0, "nsfw": false}
 {"name": "spices", "subscribers": 10000, "nsfw": false}
 {"name": "spicy", "subscribers": 10000, "nsfw": false}
+{"name": "spicyasiandrama", "subscribers": 0, "nsfw": false}
 {"name": "spicyaudhd", "subscribers": 0, "nsfw": false}
 {"name": "spicyautism", "subscribers": 21068, "nsfw": false}
 {"name": "spicykittens", "subscribers": 0, "nsfw": false}
@@ -162024,6 +162049,7 @@
 {"name": "spoderverse", "subscribers": 18, "nsfw": false}
 {"name": "spoiledasoiaf", "subscribers": 136, "nsfw": false}
 {"name": "spoiledboredpeople", "subscribers": 12, "nsfw": false}
+{"name": "spoileddragrace", "subscribers": 0, "nsfw": false}
 {"name": "spoiledsurvivor", "subscribers": 19915, "nsfw": false}
 {"name": "spoileralertguild", "subscribers": 25, "nsfw": false}
 {"name": "spoileralerts", "subscribers": 62, "nsfw": false}
@@ -168713,6 +168739,7 @@
 {"name": "takecareofyourbabil", "subscribers": 39, "nsfw": false}
 {"name": "takedemocracyback", "subscribers": 2216, "nsfw": false}
 {"name": "takedownpochiscience", "subscribers": 28, "nsfw": false}
+{"name": "takedowns", "subscribers": 0, "nsfw": false}
 {"name": "takeitforme", "subscribers": 158, "nsfw": false}
 {"name": "takelings", "subscribers": 46, "nsfw": false}
 {"name": "takemedicineback", "subscribers": 628, "nsfw": false}
@@ -177479,6 +177506,7 @@
 {"name": "tinaandpanini", "subscribers": 2054, "nsfw": false}
 {"name": "tinabelcher", "subscribers": 14484, "nsfw": false}
 {"name": "tinachoi", "subscribers": 139, "nsfw": false}
+{"name": "tinacole", "subscribers": 0, "nsfw": false}
 {"name": "tinalynge", "subscribers": 31, "nsfw": false}
 {"name": "tinanemh", "subscribers": 161, "nsfw": false}
 {"name": "tinashe", "subscribers": 7315, "nsfw": false}
@@ -186319,6 +186347,7 @@
 {"name": "urbexdenmark", "subscribers": 0, "nsfw": false}
 {"name": "urbexdfw", "subscribers": 118, "nsfw": false}
 {"name": "urbexessex", "subscribers": 59, "nsfw": false}
+{"name": "urbexgear", "subscribers": 0, "nsfw": false}
 {"name": "urbexgermany", "subscribers": 499, "nsfw": false}
 {"name": "urbexindia", "subscribers": 64, "nsfw": false}
 {"name": "urbexmississauga", "subscribers": 217, "nsfw": false}
@@ -196615,6 +196644,7 @@
 {"name": "wythevilleva", "subscribers": 76, "nsfw": false}
 {"name": "wytoapbyaaap", "subscribers": 22, "nsfw": false}
 {"name": "wytomsbyaams", "subscribers": 1509, "nsfw": false}
+{"name": "wyvernden", "subscribers": 0, "nsfw": false}
 {"name": "wyvernrpg", "subscribers": 1217, "nsfw": false}
 {"name": "wyvernswowsmods", "subscribers": 102, "nsfw": false}
 {"name": "wyyerd", "subscribers": 49, "nsfw": false}
