@@ -9277,6 +9277,7 @@
 {"name": "android_fr", "subscribers": 4539, "nsfw": false}
 {"name": "androidacy", "subscribers": 3090, "nsfw": false}
 {"name": "androidadfreemods", "subscribers": 695, "nsfw": false}
+{"name": "androidafterlife", "subscribers": 0, "nsfw": false}
 {"name": "androidapps", "subscribers": 425336, "nsfw": false}
 {"name": "androidapptesters", "subscribers": 0, "nsfw": false}
 {"name": "androidaudio", "subscribers": 0, "nsfw": false}
@@ -23498,6 +23499,7 @@
 {"name": "blacknovel", "subscribers": 6024, "nsfw": false}
 {"name": "blacknwhite_nsfw", "subscribers": 3037, "nsfw": true}
 {"name": "blackoathgames", "subscribers": 861, "nsfw": false}
+{"name": "blackocean", "subscribers": 0, "nsfw": false}
 {"name": "blackops", "subscribers": 13785, "nsfw": false}
 {"name": "blackops1", "subscribers": 1550, "nsfw": false}
 {"name": "blackops2", "subscribers": 0, "nsfw": false}
@@ -49695,6 +49697,7 @@
 {"name": "dexalot", "subscribers": 37, "nsfw": false}
 {"name": "dexani", "subscribers": 23, "nsfw": false}
 {"name": "dexcom", "subscribers": 39614, "nsfw": false}
+{"name": "dexdock", "subscribers": 0, "nsfw": false}
 {"name": "dexfinance", "subscribers": 44, "nsfw": false}
 {"name": "dexgems", "subscribers": 17, "nsfw": false}
 {"name": "dexhowl", "subscribers": 19, "nsfw": false}
@@ -62037,6 +62040,7 @@
 {"name": "falloutmemes", "subscribers": 0, "nsfw": false}
 {"name": "falloutmemesandmore", "subscribers": 35, "nsfw": false}
 {"name": "falloutmods", "subscribers": 0, "nsfw": false}
+{"name": "falloutmusic", "subscribers": 0, "nsfw": false}
 {"name": "falloutnewvegas", "subscribers": 235425, "nsfw": false}
 {"name": "falloutnewvegas2info", "subscribers": 0, "nsfw": false}
 {"name": "falloutnewvegasbuilds", "subscribers": 143, "nsfw": false}
@@ -65351,6 +65355,7 @@
 {"name": "fitnessrpg", "subscribers": 25, "nsfw": false}
 {"name": "fitnesssf", "subscribers": 132, "nsfw": false}
 {"name": "fitnesst1d", "subscribers": 643, "nsfw": false}
+{"name": "fitnesstrackers", "subscribers": 0, "nsfw": false}
 {"name": "fitnessvolt", "subscribers": 206, "nsfw": false}
 {"name": "fitnesswitness", "subscribers": 513, "nsfw": false}
 {"name": "fitnyc", "subscribers": 0, "nsfw": false}
@@ -69639,6 +69644,7 @@
 {"name": "frozenstatus", "subscribers": 45, "nsfw": false}
 {"name": "frozensynapse", "subscribers": 0, "nsfw": false}
 {"name": "frp2lock", "subscribers": 144, "nsfw": false}
+{"name": "frpbypass", "subscribers": 0, "nsfw": false}
 {"name": "frpbypassapk", "subscribers": 179, "nsfw": false}
 {"name": "frpolitique", "subscribers": 34, "nsfw": false}
 {"name": "frptools", "subscribers": 4321, "nsfw": false}
@@ -71080,6 +71086,7 @@
 {"name": "galaxy", "subscribers": 887, "nsfw": false}
 {"name": "galaxy_fold5", "subscribers": 990, "nsfw": false}
 {"name": "galaxy_s", "subscribers": 970, "nsfw": false}
+{"name": "galaxy_s20", "subscribers": 0, "nsfw": false}
 {"name": "galaxy_s21", "subscribers": 216, "nsfw": false}
 {"name": "galaxy_s22", "subscribers": 0, "nsfw": false}
 {"name": "galaxy_s22plus", "subscribers": 251, "nsfw": false}
@@ -71102,6 +71109,7 @@
 {"name": "galaxydefensefg", "subscribers": 40, "nsfw": false}
 {"name": "galaxyenhancex", "subscribers": 27, "nsfw": false}
 {"name": "galaxyfit", "subscribers": 6670, "nsfw": false}
+{"name": "galaxyflip", "subscribers": 0, "nsfw": false}
 {"name": "galaxyflip4", "subscribers": 205, "nsfw": false}
 {"name": "galaxyflip5", "subscribers": 460, "nsfw": false}
 {"name": "galaxyflip7", "subscribers": 138, "nsfw": false}
@@ -71114,11 +71122,15 @@
 {"name": "galaxyia", "subscribers": 0, "nsfw": false}
 {"name": "galaxynetfunds", "subscribers": 32, "nsfw": false}
 {"name": "galaxynewsradio", "subscribers": 3805, "nsfw": false}
+{"name": "galaxynote", "subscribers": 0, "nsfw": false}
 {"name": "galaxynote10", "subscribers": 19149, "nsfw": false}
+{"name": "galaxynote2", "subscribers": 0, "nsfw": false}
 {"name": "galaxynote20", "subscribers": 6271, "nsfw": false}
 {"name": "galaxynote20_orig", "subscribers": 100, "nsfw": false}
 {"name": "galaxynote20ultra", "subscribers": 3557, "nsfw": false}
 {"name": "galaxynote3", "subscribers": 2439, "nsfw": false}
+{"name": "galaxynote4", "subscribers": 0, "nsfw": false}
+{"name": "galaxynote5", "subscribers": 0, "nsfw": false}
 {"name": "galaxynote6", "subscribers": 68, "nsfw": false}
 {"name": "galaxynote8", "subscribers": 22217, "nsfw": false}
 {"name": "galaxynote9", "subscribers": 29138, "nsfw": false}
@@ -71135,6 +71147,7 @@
 {"name": "galaxys10", "subscribers": 65665, "nsfw": false}
 {"name": "galaxys20fe", "subscribers": 16165, "nsfw": false}
 {"name": "galaxys21", "subscribers": 29274, "nsfw": false}
+{"name": "galaxys21fe", "subscribers": 0, "nsfw": false}
 {"name": "galaxys22", "subscribers": 25530, "nsfw": false}
 {"name": "galaxys23", "subscribers": 36496, "nsfw": false}
 {"name": "galaxys23ultra", "subscribers": 52984, "nsfw": false}
@@ -71145,8 +71158,14 @@
 {"name": "galaxys25ultra", "subscribers": 14642, "nsfw": false}
 {"name": "galaxys26ultra", "subscribers": 0, "nsfw": false}
 {"name": "galaxys27", "subscribers": 70, "nsfw": false}
+{"name": "galaxys3", "subscribers": 0, "nsfw": false}
+{"name": "galaxys4", "subscribers": 0, "nsfw": false}
+{"name": "galaxys4photos", "subscribers": 0, "nsfw": false}
 {"name": "galaxys4zoom", "subscribers": 38, "nsfw": false}
 {"name": "galaxys5", "subscribers": 5333, "nsfw": false}
+{"name": "galaxys5mini", "subscribers": 0, "nsfw": false}
+{"name": "galaxys6", "subscribers": 0, "nsfw": false}
+{"name": "galaxys7", "subscribers": 0, "nsfw": false}
 {"name": "galaxys9", "subscribers": 34425, "nsfw": false}
 {"name": "galaxysedge", "subscribers": 0, "nsfw": false}
 {"name": "galaxyseries", "subscribers": 40, "nsfw": false}
@@ -88344,6 +88363,7 @@
 {"name": "indiansugardaddies", "subscribers": 30416, "nsfw": true}
 {"name": "indiansummers", "subscribers": 132, "nsfw": false}
 {"name": "indiantaxpayer", "subscribers": 548, "nsfw": false}
+{"name": "indiantechcentral", "subscribers": 0, "nsfw": false}
 {"name": "indianteenage", "subscribers": 37, "nsfw": false}
 {"name": "indianteenagers", "subscribers": 288052, "nsfw": false}
 {"name": "indianteenagersbuthot", "subscribers": 449, "nsfw": false}
@@ -90280,6 +90300,7 @@
 {"name": "iphone18", "subscribers": 27, "nsfw": false}
 {"name": "iphone6s", "subscribers": 5272, "nsfw": false}
 {"name": "iphone7plus", "subscribers": 1504, "nsfw": false}
+{"name": "iphoneair", "subscribers": 0, "nsfw": false}
 {"name": "iphoneapps", "subscribers": 20451, "nsfw": false}
 {"name": "iphoneassist", "subscribers": 488, "nsfw": false}
 {"name": "iphonebatteryparanoia", "subscribers": 1317, "nsfw": false}
@@ -126083,6 +126104,8 @@
 {"name": "notdisneyvacation", "subscribers": 146130, "nsfw": false}
 {"name": "notdnd", "subscribers": 420, "nsfw": false}
 {"name": "note10lite", "subscribers": 522, "nsfw": false}
+{"name": "note10plus", "subscribers": 0, "nsfw": false}
+{"name": "note10wallpapers", "subscribers": 0, "nsfw": false}
 {"name": "note20", "subscribers": 3499, "nsfw": false}
 {"name": "note20photography", "subscribers": 269, "nsfw": false}
 {"name": "note20ultra", "subscribers": 10468, "nsfw": false}
@@ -128301,6 +128324,7 @@
 {"name": "offtrack", "subscribers": 48, "nsfw": false}
 {"name": "offwallstreetbets", "subscribers": 12354, "nsfw": false}
 {"name": "offwhite", "subscribers": 23539, "nsfw": false}
+{"name": "offworld", "subscribers": 0, "nsfw": false}
 {"name": "offyegrid", "subscribers": 31, "nsfw": false}
 {"name": "offyoupop", "subscribers": 12, "nsfw": false}
 {"name": "ofgrammatology", "subscribers": 0, "nsfw": false}
@@ -130088,6 +130112,7 @@
 {"name": "onetrueyuriko", "subscribers": 309, "nsfw": false}
 {"name": "onetruthprevails", "subscribers": 41144, "nsfw": false}
 {"name": "oneui", "subscribers": 86615, "nsfw": false}
+{"name": "oneui_updates", "subscribers": 0, "nsfw": false}
 {"name": "oneuihome", "subscribers": 144, "nsfw": false}
 {"name": "oneuihomescreens", "subscribers": 29402, "nsfw": false}
 {"name": "oneuisamsung", "subscribers": 545, "nsfw": false}
@@ -153275,6 +153300,7 @@
 {"name": "s25batterylife", "subscribers": 39, "nsfw": false}
 {"name": "s25photography", "subscribers": 0, "nsfw": false}
 {"name": "s25ultra", "subscribers": 24221, "nsfw": false}
+{"name": "s26ultra", "subscribers": 0, "nsfw": false}
 {"name": "s2fmcommunity", "subscribers": 21, "nsfw": false}
 {"name": "s2ggang", "subscribers": 10056, "nsfw": false}
 {"name": "s2hsahmi", "subscribers": 15, "nsfw": false}
@@ -153577,6 +153603,7 @@
 {"name": "safefood", "subscribers": 517, "nsfw": false}
 {"name": "safefriends", "subscribers": 1494, "nsfw": false}
 {"name": "safefromsmartmousse", "subscribers": 46, "nsfw": false}
+{"name": "safegalaxy", "subscribers": 0, "nsfw": false}
 {"name": "safegalaxytoken", "subscribers": 154, "nsfw": false}
 {"name": "safehavensquidgame", "subscribers": 0, "nsfw": false}
 {"name": "safejesus", "subscribers": 102, "nsfw": false}
@@ -155400,6 +155427,7 @@
 {"name": "scamsquad", "subscribers": 190, "nsfw": false}
 {"name": "scamstopper", "subscribers": 26, "nsfw": false}
 {"name": "scamsuk", "subscribers": 0, "nsfw": false}
+{"name": "scamsunged", "subscribers": 0, "nsfw": false}
 {"name": "scamsupport", "subscribers": 0, "nsfw": false}
 {"name": "scamtrolling", "subscribers": 29, "nsfw": false}
 {"name": "scamuk", "subscribers": 31, "nsfw": false}
@@ -160045,6 +160073,7 @@
 {"name": "siegeacademy", "subscribers": 0, "nsfw": false}
 {"name": "siegeanalysis", "subscribers": 86, "nsfw": false}
 {"name": "siegecastles", "subscribers": 274, "nsfw": false}
+{"name": "siegeofcentauri", "subscribers": 0, "nsfw": false}
 {"name": "siegetales", "subscribers": 44, "nsfw": false}
 {"name": "siegetitanwars", "subscribers": 99, "nsfw": false}
 {"name": "siegius", "subscribers": 95, "nsfw": false}
@@ -163949,6 +163978,7 @@
 {"name": "songwriters", "subscribers": 241931, "nsfw": false}
 {"name": "songwriting", "subscribers": 971505, "nsfw": false}
 {"name": "songwritingprompts", "subscribers": 17767, "nsfw": false}
+{"name": "sonha_com_a_bia", "subscribers": 0, "nsfw": false}
 {"name": "sonheungmin", "subscribers": 69, "nsfw": false}
 {"name": "sonhouse", "subscribers": 22, "nsfw": false}
 {"name": "soniaki", "subscribers": 65, "nsfw": false}
@@ -166822,6 +166852,7 @@
 {"name": "starcomgame", "subscribers": 1055, "nsfw": false}
 {"name": "starcommand", "subscribers": 122, "nsfw": false}
 {"name": "starcommandmemes", "subscribers": 310, "nsfw": false}
+{"name": "starcontrolofficial", "subscribers": 0, "nsfw": false}
 {"name": "starcosvtfoe", "subscribers": 414, "nsfw": false}
 {"name": "starcraft", "subscribers": 0, "nsfw": false}
 {"name": "starcraft2", "subscribers": 68299, "nsfw": false}
@@ -175735,6 +175766,7 @@
 {"name": "thatsbadhusbandry", "subscribers": 0, "nsfw": false}
 {"name": "thatsbeenasub", "subscribers": 29, "nsfw": false}
 {"name": "thatscifinerdhate", "subscribers": 96, "nsfw": false}
+{"name": "thatscrazybro", "subscribers": 0, "nsfw": false}
 {"name": "thatsdefinitelyapenis", "subscribers": 0, "nsfw": false}
 {"name": "thatsentertainment", "subscribers": 19, "nsfw": false}
 {"name": "thatsfirechef", "subscribers": 1458, "nsfw": false}
@@ -203841,6 +203873,7 @@
 {"name": "zflip5", "subscribers": 1822, "nsfw": false}
 {"name": "zflip6", "subscribers": 1399, "nsfw": false}
 {"name": "zflip7", "subscribers": 68, "nsfw": false}
+{"name": "zflipcoverpower", "subscribers": 0, "nsfw": false}
 {"name": "zflipcoverscreengifs", "subscribers": 8137, "nsfw": false}
 {"name": "zflipwalls", "subscribers": 19, "nsfw": false}
 {"name": "zfs", "subscribers": 38054, "nsfw": false}
