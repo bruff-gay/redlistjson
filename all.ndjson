@@ -3788,6 +3788,7 @@
 {"name": "addictionadvice", "subscribers": 8984, "nsfw": false}
 {"name": "addictionatfines", "subscribers": 300, "nsfw": false}
 {"name": "addictiones", "subscribers": 61, "nsfw": false}
+{"name": "addictiongrief", "subscribers": 0, "nsfw": false}
 {"name": "addictionprofessional", "subscribers": 64, "nsfw": false}
 {"name": "addictionsfr", "subscribers": 3161, "nsfw": false}
 {"name": "addie_bradysnark", "subscribers": 1249, "nsfw": false}
@@ -26549,6 +26550,7 @@
 {"name": "bradsubmissions", "subscribers": 2642, "nsfw": false}
 {"name": "bradthebraintumor", "subscribers": 17, "nsfw": false}
 {"name": "bradthorbooks", "subscribers": 98, "nsfw": false}
+{"name": "brady_irl", "subscribers": 0, "nsfw": false}
 {"name": "bradybunchtvshow", "subscribers": 2362, "nsfw": false}
 {"name": "bradyharanmemes", "subscribers": 450, "nsfw": false}
 {"name": "braeburn", "subscribers": 86, "nsfw": false}
@@ -32076,6 +32078,7 @@
 {"name": "catamarans", "subscribers": 4330, "nsfw": false}
 {"name": "catamenialepilepsy", "subscribers": 43, "nsfw": false}
 {"name": "catan", "subscribers": 123603, "nsfw": false}
+{"name": "catangels", "subscribers": 0, "nsfw": false}
 {"name": "catania", "subscribers": 5596, "nsfw": false}
 {"name": "catanmemes", "subscribers": 3844, "nsfw": false}
 {"name": "catanmiems", "subscribers": 36, "nsfw": false}
@@ -33721,6 +33724,8 @@
 {"name": "cglpersonals", "subscribers": 46681, "nsfw": true}
 {"name": "cgnews", "subscribers": 1784, "nsfw": false}
 {"name": "cgorreal", "subscribers": 28, "nsfw": false}
+{"name": "cgpgrey", "subscribers": 0, "nsfw": false}
+{"name": "cgpgrey2", "subscribers": 0, "nsfw": false}
 {"name": "cgpgreyquotes", "subscribers": 576, "nsfw": false}
 {"name": "cgplays", "subscribers": 14, "nsfw": false}
 {"name": "cgpsc", "subscribers": 59, "nsfw": false}
@@ -41895,6 +41900,7 @@
 {"name": "covideconomy", "subscribers": 904, "nsfw": false}
 {"name": "covidfr", "subscribers": 0, "nsfw": false}
 {"name": "covidgeneralstrike", "subscribers": 404, "nsfw": false}
+{"name": "covidgrief", "subscribers": 0, "nsfw": false}
 {"name": "covidiots", "subscribers": 122288, "nsfw": false}
 {"name": "covidisairborne", "subscribers": 32, "nsfw": false}
 {"name": "covidjokes", "subscribers": 52, "nsfw": false}
@@ -55309,6 +55315,7 @@
 {"name": "dwm", "subscribers": 3152, "nsfw": false}
 {"name": "dwphelp", "subscribers": 30447, "nsfw": false}
 {"name": "dwtraponepodcast", "subscribers": 0, "nsfw": false}
+{"name": "dwts", "subscribers": 0, "nsfw": false}
 {"name": "dwts_daniellaandpasha", "subscribers": 21, "nsfw": false}
 {"name": "dwunleashed", "subscribers": 1192, "nsfw": false}
 {"name": "dwwd", "subscribers": 24, "nsfw": false}
@@ -63207,6 +63214,7 @@
 {"name": "fatherjacobsamonie", "subscribers": 0, "nsfw": false}
 {"name": "fatherjohnmisty", "subscribers": 19688, "nsfw": false}
 {"name": "fatherlorris", "subscribers": 124, "nsfw": false}
+{"name": "fathersofloss", "subscribers": 0, "nsfw": false}
 {"name": "fathersrights", "subscribers": 0, "nsfw": false}
 {"name": "fatherswholunch", "subscribers": 33, "nsfw": false}
 {"name": "fatherted", "subscribers": 25033, "nsfw": false}
@@ -72097,6 +72105,7 @@
 {"name": "gaminggifs", "subscribers": 0, "nsfw": false}
 {"name": "gamingglitch", "subscribers": 14, "nsfw": false}
 {"name": "gaminggridcommunity", "subscribers": 0, "nsfw": false}
+{"name": "gaminggriefsupport", "subscribers": 0, "nsfw": false}
 {"name": "gaminghardwareindia", "subscribers": 173, "nsfw": false}
 {"name": "gaminghelpservices", "subscribers": 34, "nsfw": false}
 {"name": "gaminghistorian", "subscribers": 768, "nsfw": false}
@@ -77749,6 +77758,7 @@
 {"name": "grenoble", "subscribers": 9661, "nsfw": false}
 {"name": "grenoblealpes", "subscribers": 116, "nsfw": false}
 {"name": "grenobleapaisee", "subscribers": 0, "nsfw": false}
+{"name": "grenoblecestclasse", "subscribers": 0, "nsfw": false}
 {"name": "grenoblevideos", "subscribers": 0, "nsfw": false}
 {"name": "grepmed", "subscribers": 24, "nsfw": false}
 {"name": "grepolis", "subscribers": 739, "nsfw": false}
@@ -77788,6 +77798,7 @@
 {"name": "greyhounds", "subscribers": 88985, "nsfw": false}
 {"name": "greyhousebway", "subscribers": 593, "nsfw": false}
 {"name": "greyisodd", "subscribers": 0, "nsfw": false}
+{"name": "greyknights", "subscribers": 0, "nsfw": false}
 {"name": "greylibrary", "subscribers": 19, "nsfw": false}
 {"name": "greylockhorror", "subscribers": 813, "nsfw": false}
 {"name": "greylynn", "subscribers": 89, "nsfw": false}
@@ -77829,6 +77840,7 @@
 {"name": "grgakgames", "subscribers": 20, "nsfw": false}
 {"name": "grghhtyh", "subscribers": 26, "nsfw": false}
 {"name": "grhousing", "subscribers": 340, "nsfw": false}
+{"name": "grian", "subscribers": 0, "nsfw": false}
 {"name": "grian_yt", "subscribers": 1411, "nsfw": false}
 {"name": "gribber", "subscribers": 16, "nsfw": false}
 {"name": "gribbon1020", "subscribers": 16, "nsfw": false}
@@ -77836,6 +77848,7 @@
 {"name": "grid", "subscribers": 284, "nsfw": false}
 {"name": "gridautosport", "subscribers": 656, "nsfw": false}
 {"name": "gridcoin", "subscribers": 0, "nsfw": false}
+{"name": "griddle", "subscribers": 0, "nsfw": false}
 {"name": "griddlerecipies", "subscribers": 23, "nsfw": false}
 {"name": "griddling", "subscribers": 14621, "nsfw": false}
 {"name": "griddowngoofer", "subscribers": 19, "nsfw": false}
@@ -77850,6 +77863,7 @@
 {"name": "gridlockgladiators", "subscribers": 167, "nsfw": false}
 {"name": "gridplus", "subscribers": 658, "nsfw": false}
 {"name": "gridpower", "subscribers": 43, "nsfw": false}
+{"name": "grids", "subscribers": 0, "nsfw": false}
 {"name": "gridsparta", "subscribers": 169, "nsfw": false}
 {"name": "gridworld", "subscribers": 182, "nsfw": false}
 {"name": "grief", "subscribers": 17204, "nsfw": false}
@@ -77857,6 +77871,8 @@
 {"name": "griefthief", "subscribers": 757, "nsfw": false}
 {"name": "griethyderabad", "subscribers": 57, "nsfw": false}
 {"name": "grieving", "subscribers": 8377, "nsfw": false}
+{"name": "grievinggrandparents", "subscribers": 0, "nsfw": false}
+{"name": "grievingparents", "subscribers": 0, "nsfw": false}
 {"name": "grievousdidnothingbad", "subscribers": 0, "nsfw": false}
 {"name": "grifaniesi", "subscribers": 12, "nsfw": false}
 {"name": "griffinsarereal", "subscribers": 92, "nsfw": false}
@@ -106622,6 +106638,7 @@
 {"name": "losslessscaling", "subscribers": 21560, "nsfw": false}
 {"name": "lossmeme", "subscribers": 13, "nsfw": false}
 {"name": "lossmemes", "subscribers": 618, "nsfw": false}
+{"name": "lossofachild", "subscribers": 0, "nsfw": false}
 {"name": "lossofalovedone", "subscribers": 0, "nsfw": false}
 {"name": "lossofmyownbraincells", "subscribers": 2, "nsfw": false}
 {"name": "lossprevention", "subscribers": 65733, "nsfw": false}
@@ -116358,6 +116375,7 @@
 {"name": "mirika", "subscribers": 122, "nsfw": false}
 {"name": "mirin", "subscribers": 24234, "nsfw": false}
 {"name": "mirko", "subscribers": 13120, "nsfw": true}
+{"name": "mirl", "subscribers": 0, "nsfw": false}
 {"name": "mirmglobal", "subscribers": 47, "nsfw": false}
 {"name": "miro", "subscribers": 935, "nsfw": false}
 {"name": "mirosemberac", "subscribers": 16, "nsfw": false}
@@ -121185,6 +121203,7 @@
 {"name": "myinvestores", "subscribers": 734, "nsfw": false}
 {"name": "myjokebutbetter", "subscribers": 341, "nsfw": false}
 {"name": "mykarmagone", "subscribers": 25, "nsfw": false}
+{"name": "myke_irl", "subscribers": 0, "nsfw": false}
 {"name": "mykehurley", "subscribers": 212, "nsfw": false}
 {"name": "mykidneygroup", "subscribers": 29, "nsfw": false}
 {"name": "mykidsvirginityismine", "subscribers": 316, "nsfw": false}
@@ -131846,6 +131865,7 @@
 {"name": "ophthoresidents", "subscribers": 91, "nsfw": false}
 {"name": "opiatechurch", "subscribers": 0, "nsfw": false}
 {"name": "opiates", "subscribers": 0, "nsfw": false}
+{"name": "opiatesmemorial", "subscribers": 0, "nsfw": false}
 {"name": "opiatesrecovery", "subscribers": 56383, "nsfw": false}
 {"name": "opiatewriters", "subscribers": 57, "nsfw": false}
 {"name": "opieandanthony", "subscribers": 0, "nsfw": false}
@@ -133158,6 +133178,7 @@
 {"name": "overconfidentpeople", "subscribers": 81, "nsfw": false}
 {"name": "overcookedgame", "subscribers": 24426, "nsfw": false}
 {"name": "overcrowd", "subscribers": 848, "nsfw": false}
+{"name": "overdosegrief", "subscribers": 0, "nsfw": false}
 {"name": "overdrive1050", "subscribers": 4989, "nsfw": false}
 {"name": "overeatersanonymous", "subscribers": 15217, "nsfw": false}
 {"name": "overelement", "subscribers": 0, "nsfw": false}
@@ -138868,6 +138889,7 @@
 {"name": "planetcoasterconsole", "subscribers": 1087, "nsfw": false}
 {"name": "planetcomputers", "subscribers": 85, "nsfw": false}
 {"name": "planetdob", "subscribers": 41, "nsfw": false}
+{"name": "planetdolan", "subscribers": 0, "nsfw": false}
 {"name": "planetdolancomments", "subscribers": 132, "nsfw": false}
 {"name": "planetdragonod", "subscribers": 41, "nsfw": false}
 {"name": "planetearth", "subscribers": 2554, "nsfw": false}
@@ -185491,6 +185513,7 @@
 {"name": "traveling_swingers", "subscribers": 499, "nsfw": false}
 {"name": "travelingflamingo", "subscribers": 16, "nsfw": false}
 {"name": "travelinginkbox", "subscribers": 202, "nsfw": false}
+{"name": "travelingnz", "subscribers": 0, "nsfw": false}
 {"name": "travelingsinglet", "subscribers": 0, "nsfw": false}
 {"name": "travelingwilburys", "subscribers": 228, "nsfw": false}
 {"name": "travelinindia", "subscribers": 4077, "nsfw": false}
@@ -185820,6 +185843,7 @@
 {"name": "tribalnocontext", "subscribers": 18, "nsfw": false}
 {"name": "tribalpeoples", "subscribers": 21, "nsfw": false}
 {"name": "tribalsio", "subscribers": 29, "nsfw": false}
+{"name": "tribalwars", "subscribers": 0, "nsfw": false}
 {"name": "tribalyiff", "subscribers": 14977, "nsfw": true}
 {"name": "tribandsquirt", "subscribers": 86059, "nsfw": true}
 {"name": "tribbiemains", "subscribers": 182, "nsfw": false}
@@ -194044,6 +194068,7 @@
 {"name": "veryfile", "subscribers": 23, "nsfw": false}
 {"name": "veryfitpro", "subscribers": 262, "nsfw": false}
 {"name": "veryfuckincool", "subscribers": 0, "nsfw": false}
+{"name": "verygoodrecipes", "subscribers": 0, "nsfw": false}
 {"name": "veryinfuriating_", "subscribers": 79, "nsfw": false}
 {"name": "verykittenish", "subscribers": 174, "nsfw": false}
 {"name": "verylargeimages", "subscribers": 4123, "nsfw": false}
@@ -196281,6 +196306,7 @@
 {"name": "wal_walrus", "subscribers": 77, "nsfw": false}
 {"name": "walangpasok", "subscribers": 36, "nsfw": false}
 {"name": "walchandcollege", "subscribers": 0, "nsfw": false}
+{"name": "waldenstroms", "subscribers": 0, "nsfw": false}
 {"name": "waldentempolearning", "subscribers": 11, "nsfw": false}
 {"name": "waldenuniversity", "subscribers": 0, "nsfw": false}
 {"name": "waldorf", "subscribers": 6140, "nsfw": false}
@@ -201738,6 +201764,7 @@
 {"name": "worldwarlast", "subscribers": 162, "nsfw": false}
 {"name": "worldwarmemes", "subscribers": 496, "nsfw": false}
 {"name": "worldwaronepics", "subscribers": 224, "nsfw": false}
+{"name": "worldwarreports", "subscribers": 0, "nsfw": false}
 {"name": "worldwarsim", "subscribers": 47, "nsfw": false}
 {"name": "worldwartwo", "subscribers": 132, "nsfw": false}
 {"name": "worldwarz", "subscribers": 0, "nsfw": false}
