@@ -7829,6 +7829,7 @@
 {"name": "am3usop", "subscribers": 12, "nsfw": false}
 {"name": "ama", "subscribers": 1690950, "nsfw": false}
 {"name": "ama_cultures", "subscribers": 44, "nsfw": false}
+{"name": "ama_fr", "subscribers": 0, "nsfw": false}
 {"name": "ama_hakuba", "subscribers": 705, "nsfw": false}
 {"name": "ama_immigrationlawyer", "subscribers": 66, "nsfw": false}
 {"name": "ama_sakartvelo", "subscribers": 33, "nsfw": false}
@@ -13753,6 +13754,7 @@
 {"name": "askartists", "subscribers": 2831, "nsfw": false}
 {"name": "askarussian", "subscribers": 199292, "nsfw": false}
 {"name": "askasexual", "subscribers": 5001, "nsfw": false}
+{"name": "askasexuals", "subscribers": 0, "nsfw": false}
 {"name": "askashibe", "subscribers": 21, "nsfw": false}
 {"name": "askashittydoctor", "subscribers": 0, "nsfw": false}
 {"name": "askashittymechanic", "subscribers": 142520, "nsfw": false}
@@ -13807,6 +13809,7 @@
 {"name": "askbiology", "subscribers": 21120, "nsfw": false}
 {"name": "askbipolar", "subscribers": 121, "nsfw": false}
 {"name": "askbisexual", "subscribers": 382, "nsfw": false}
+{"name": "askbisexuals", "subscribers": 0, "nsfw": false}
 {"name": "askblackatheists", "subscribers": 0, "nsfw": false}
 {"name": "askblackgaybros", "subscribers": 1548, "nsfw": false}
 {"name": "askblackpeople", "subscribers": 0, "nsfw": false}
@@ -39751,6 +39754,7 @@
 {"name": "complementsonly", "subscribers": 45, "nsfw": false}
 {"name": "complete_tranarchism", "subscribers": 571, "nsfw": false}
 {"name": "completeanarchy", "subscribers": 154965, "nsfw": false}
+{"name": "completeanimearchy", "subscribers": 0, "nsfw": false}
 {"name": "completechallenges", "subscribers": 56, "nsfw": false}
 {"name": "completeconcertvideos", "subscribers": 0, "nsfw": false}
 {"name": "completeditmate", "subscribers": 205, "nsfw": false}
@@ -41147,6 +41151,7 @@
 {"name": "corporatefacepalm", "subscribers": 172467, "nsfw": false}
 {"name": "corporatelawyer", "subscribers": 810, "nsfw": false}
 {"name": "corporatelearning", "subscribers": 214, "nsfw": false}
+{"name": "corporatelegal", "subscribers": 0, "nsfw": false}
 {"name": "corporatemisconduct", "subscribers": 7238, "nsfw": false}
 {"name": "corporatenataliesnark", "subscribers": 467, "nsfw": false}
 {"name": "corporatetakedown", "subscribers": 243, "nsfw": false}
@@ -41560,6 +41565,7 @@
 {"name": "countryofgeorgia", "subscribers": 0, "nsfw": false}
 {"name": "countryofthebigsky", "subscribers": 1476, "nsfw": false}
 {"name": "countrypubsaustralia", "subscribers": 20, "nsfw": false}
+{"name": "countryrock", "subscribers": 0, "nsfw": false}
 {"name": "countrysticks", "subscribers": 55, "nsfw": false}
 {"name": "countryworld", "subscribers": 21, "nsfw": false}
 {"name": "counttheheadlights", "subscribers": 14, "nsfw": false}
@@ -72614,6 +72620,7 @@
 {"name": "gccreepypasta", "subscribers": 80, "nsfw": false}
 {"name": "gccriticalcynical", "subscribers": 29, "nsfw": false}
 {"name": "gccu", "subscribers": 188, "nsfw": false}
+{"name": "gcdebatesqt", "subscribers": 0, "nsfw": false}
 {"name": "gcet", "subscribers": 121, "nsfw": false}
 {"name": "gcfc", "subscribers": 1580, "nsfw": false}
 {"name": "gcocanada", "subscribers": 83, "nsfw": false}
@@ -72910,6 +72917,8 @@
 {"name": "gencraft", "subscribers": 83, "nsfw": false}
 {"name": "gendarmerienationale", "subscribers": 876, "nsfw": false}
 {"name": "gendemo", "subscribers": 14, "nsfw": false}
+{"name": "gender", "subscribers": 0, "nsfw": false}
+{"name": "gender_critical", "subscribers": 0, "nsfw": false}
 {"name": "genderabolition", "subscribers": 370, "nsfw": false}
 {"name": "genderanarchy", "subscribers": 11861, "nsfw": false}
 {"name": "genderbendercomp", "subscribers": 119, "nsfw": false}
@@ -72927,7 +72936,9 @@
 {"name": "genderfluid", "subscribers": 94074, "nsfw": false}
 {"name": "genderfluid_clowns", "subscribers": 82, "nsfw": false}
 {"name": "genderfluid_irl", "subscribers": 19016, "nsfw": false}
+{"name": "genderfluid_memes", "subscribers": 0, "nsfw": false}
 {"name": "genderfluid_selfies", "subscribers": 527, "nsfw": false}
+{"name": "genderfluidteens", "subscribers": 0, "nsfw": false}
 {"name": "genderfluxx", "subscribers": 2035, "nsfw": false}
 {"name": "gendergp", "subscribers": 2968, "nsfw": false}
 {"name": "gendergp_help", "subscribers": 134, "nsfw": false}
@@ -72968,7 +72979,9 @@
 {"name": "generalfusion", "subscribers": 0, "nsfw": false}
 {"name": "generalg", "subscribers": 30, "nsfw": false}
 {"name": "generalgreviousdump", "subscribers": 487, "nsfw": false}
+{"name": "generalgrievous", "subscribers": 0, "nsfw": false}
 {"name": "generalgrievousmemes", "subscribers": 581, "nsfw": false}
+{"name": "generalhospital", "subscribers": 0, "nsfw": false}
 {"name": "generalhospitalabc", "subscribers": 1066, "nsfw": false}
 {"name": "generalhospitalgh", "subscribers": 1988, "nsfw": false}
 {"name": "generalhux", "subscribers": 110, "nsfw": false}
@@ -76540,6 +76553,7 @@
 {"name": "grammarpatrol", "subscribers": 1166, "nsfw": false}
 {"name": "grammaticalrap", "subscribers": 13, "nsfw": false}
 {"name": "grammys", "subscribers": 0, "nsfw": false}
+{"name": "gramparsons", "subscribers": 0, "nsfw": false}
 {"name": "gramps", "subscribers": 3273, "nsfw": false}
 {"name": "gramsgotgame", "subscribers": 47204, "nsfw": true}
 {"name": "granada", "subscribers": 6127, "nsfw": false}
@@ -82982,6 +82996,7 @@
 {"name": "hollytree", "subscribers": 0, "nsfw": false}
 {"name": "hollywilloughby", "subscribers": 13601, "nsfw": false}
 {"name": "hollywood_animal_game", "subscribers": 2759, "nsfw": false}
+{"name": "hollywoodcentral", "subscribers": 0, "nsfw": false}
 {"name": "hollywoodcrush", "subscribers": 178, "nsfw": false}
 {"name": "hollywoodflorida", "subscribers": 1899, "nsfw": false}
 {"name": "hollywoodhandbook", "subscribers": 11421, "nsfw": false}
@@ -101964,6 +101979,7 @@
 {"name": "leftvsrightdebate", "subscribers": 0, "nsfw": false}
 {"name": "leftwinger", "subscribers": 0, "nsfw": false}
 {"name": "leftwinghomeschoolers", "subscribers": 100, "nsfw": false}
+{"name": "leftwinglgbt", "subscribers": 0, "nsfw": false}
 {"name": "leftwingmaleadvocates", "subscribers": 0, "nsfw": false}
 {"name": "leftwingmarkets", "subscribers": 0, "nsfw": false}
 {"name": "leftwingmartialartist", "subscribers": 26, "nsfw": false}
@@ -123577,6 +123593,7 @@
 {"name": "newreddits", "subscribers": 142434, "nsfw": false}
 {"name": "newreddits_nsfw", "subscribers": 0, "nsfw": false}
 {"name": "newreligions", "subscribers": 303, "nsfw": false}
+{"name": "newrepublic_", "subscribers": 0, "nsfw": false}
 {"name": "newrepublicans", "subscribers": 107, "nsfw": false}
 {"name": "newretrowave", "subscribers": 32442, "nsfw": false}
 {"name": "newriders", "subscribers": 27286, "nsfw": false}
@@ -176492,6 +176509,7 @@
 {"name": "the_trump", "subscribers": 241, "nsfw": false}
 {"name": "the_trvp", "subscribers": 0, "nsfw": false}
 {"name": "the_tuckershow", "subscribers": 20, "nsfw": false}
+{"name": "the_turt", "subscribers": 0, "nsfw": false}
 {"name": "the_uk_autoflowers", "subscribers": 95, "nsfw": false}
 {"name": "the_underground_forum", "subscribers": 19, "nsfw": false}
 {"name": "the_undertaker", "subscribers": 131, "nsfw": false}
@@ -179777,6 +179795,7 @@
 {"name": "thesissupport", "subscribers": 0, "nsfw": false}
 {"name": "thesistersofmercy", "subscribers": 305, "nsfw": false}
 {"name": "thesitdownpodcast", "subscribers": 356, "nsfw": false}
+{"name": "thesithempire_", "subscribers": 0, "nsfw": false}
 {"name": "thesithtroopers_", "subscribers": 35, "nsfw": false}
 {"name": "thesixdragons", "subscribers": 645, "nsfw": false}
 {"name": "thesixgalaxies", "subscribers": 0, "nsfw": false}
@@ -184413,6 +184432,7 @@
 {"name": "transtwincities", "subscribers": 2367, "nsfw": false}
 {"name": "transunderwear", "subscribers": 359, "nsfw": false}
 {"name": "transunion", "subscribers": 15, "nsfw": false}
+{"name": "transurgery", "subscribers": 0, "nsfw": false}
 {"name": "transvancouver", "subscribers": 0, "nsfw": false}
 {"name": "transvent", "subscribers": 6377, "nsfw": false}
 {"name": "transverse", "subscribers": 50, "nsfw": false}
@@ -187281,6 +187301,7 @@
 {"name": "u_chance_support2530", "subscribers": 0, "nsfw": false}
 {"name": "u_character_ad_3579", "subscribers": 0, "nsfw": false}
 {"name": "u_charlieboy543", "subscribers": 0, "nsfw": false}
+{"name": "u_charmingnight4926", "subscribers": 0, "nsfw": false}
 {"name": "u_chemical_map_1578", "subscribers": 0, "nsfw": false}
 {"name": "u_chess_dev07", "subscribers": 0, "nsfw": false}
 {"name": "u_childhoodok2138", "subscribers": 0, "nsfw": false}
@@ -187674,6 +187695,7 @@
 {"name": "u_lyss_266", "subscribers": 0, "nsfw": false}
 {"name": "u_maan241990", "subscribers": 0, "nsfw": false}
 {"name": "u_mageinsunset", "subscribers": 0, "nsfw": false}
+{"name": "u_magenha", "subscribers": 0, "nsfw": false}
 {"name": "u_malbomx", "subscribers": 0, "nsfw": false}
 {"name": "u_mamalopersbakery", "subscribers": 0, "nsfw": false}
 {"name": "u_manateecoltee", "subscribers": 0, "nsfw": false}
@@ -188162,6 +188184,7 @@
 {"name": "u_weddingphysical8180", "subscribers": 0, "nsfw": false}
 {"name": "u_welderfew8187", "subscribers": 0, "nsfw": false}
 {"name": "u_wendingus", "subscribers": 0, "nsfw": false}
+{"name": "u_west_ad_5520", "subscribers": 0, "nsfw": false}
 {"name": "u_western_shape_3403", "subscribers": 0, "nsfw": false}
 {"name": "u_wide_direction_787", "subscribers": 0, "nsfw": false}
 {"name": "u_wild_boat_8788", "subscribers": 0, "nsfw": false}
