@@ -14110,6 +14110,7 @@
 {"name": "askfoodhistorians", "subscribers": 84189, "nsfw": false}
 {"name": "askforanswers", "subscribers": 14351, "nsfw": false}
 {"name": "askfordonations", "subscribers": 5516, "nsfw": false}
+{"name": "askforex", "subscribers": 0, "nsfw": false}
 {"name": "askforfinancialhelp", "subscribers": 0, "nsfw": false}
 {"name": "askforhelp", "subscribers": 3351, "nsfw": false}
 {"name": "askforjane", "subscribers": 135, "nsfw": false}
@@ -29500,6 +29501,7 @@
 {"name": "byu_provo", "subscribers": 45, "nsfw": false}
 {"name": "byucougars", "subscribers": 141, "nsfw": false}
 {"name": "byufootball", "subscribers": 3392, "nsfw": false}
+{"name": "byuidaho", "subscribers": 0, "nsfw": false}
 {"name": "byumenschorus", "subscribers": 54, "nsfw": false}
 {"name": "byupathway", "subscribers": 296, "nsfw": false}
 {"name": "byzantinememes", "subscribers": 34194, "nsfw": false}
@@ -33182,6 +33184,7 @@
 {"name": "ccvt", "subscribers": 34, "nsfw": false}
 {"name": "ccw", "subscribers": 231717, "nsfw": false}
 {"name": "ccwofwalmart", "subscribers": 26, "nsfw": false}
+{"name": "ccwrestling", "subscribers": 0, "nsfw": false}
 {"name": "ccxi", "subscribers": 1086, "nsfw": false}
 {"name": "cczt", "subscribers": 165, "nsfw": false}
 {"name": "cd32", "subscribers": 127, "nsfw": false}
@@ -46156,6 +46159,7 @@
 {"name": "dailydosestupidity", "subscribers": 0, "nsfw": false}
 {"name": "dailydot", "subscribers": 0, "nsfw": false}
 {"name": "dailydouble", "subscribers": 0, "nsfw": false}
+{"name": "dailydraw", "subscribers": 0, "nsfw": false}
 {"name": "dailydripgsc", "subscribers": 36, "nsfw": false}
 {"name": "dailyfaceoff", "subscribers": 161, "nsfw": false}
 {"name": "dailyflicks", "subscribers": 0, "nsfw": false}
@@ -52351,6 +52355,7 @@
 {"name": "dlss_swapper", "subscribers": 1811, "nsfw": false}
 {"name": "dlsu", "subscribers": 64024, "nsfw": false}
 {"name": "dlsud", "subscribers": 1336, "nsfw": false}
+{"name": "dlsuproftopick", "subscribers": 0, "nsfw": false}
 {"name": "dlswarren", "subscribers": 46, "nsfw": false}
 {"name": "dlv", "subscribers": 159, "nsfw": false}
 {"name": "dlwlrma", "subscribers": 27, "nsfw": false}
@@ -87385,6 +87390,7 @@
 {"name": "ice319", "subscribers": 18, "nsfw": false}
 {"name": "ice__poseidon", "subscribers": 401, "nsfw": false}
 {"name": "ice_fires", "subscribers": 62, "nsfw": false}
+{"name": "ice_indicator", "subscribers": 0, "nsfw": false}
 {"name": "ice_raids", "subscribers": 0, "nsfw": false}
 {"name": "ice_watch", "subscribers": 0, "nsfw": false}
 {"name": "iceage1848", "subscribers": 155, "nsfw": false}
@@ -87570,6 +87576,7 @@
 {"name": "icsmasterrace", "subscribers": 263, "nsfw": false}
 {"name": "ict4d", "subscribers": 0, "nsfw": false}
 {"name": "ict_photography", "subscribers": 155, "nsfw": false}
+{"name": "ict_simplified", "subscribers": 0, "nsfw": false}
 {"name": "ictfc", "subscribers": 96, "nsfw": false}
 {"name": "icthyology", "subscribers": 123, "nsfw": false}
 {"name": "ictlabfarel", "subscribers": 13, "nsfw": false}
@@ -87595,11 +87602,14 @@
 {"name": "idaho", "subscribers": 80264, "nsfw": false}
 {"name": "idaho4", "subscribers": 66445, "nsfw": false}
 {"name": "idaho4sanders", "subscribers": 361, "nsfw": false}
+{"name": "idaho4uncensored", "subscribers": 0, "nsfw": false}
 {"name": "idaho_outdoors", "subscribers": 217, "nsfw": false}
 {"name": "idahoadv", "subscribers": 14, "nsfw": false}
 {"name": "idahodebate", "subscribers": 38, "nsfw": false}
+{"name": "idahodemocrats", "subscribers": 0, "nsfw": false}
 {"name": "idahodirtriders", "subscribers": 0, "nsfw": false}
 {"name": "idahodoesntexist", "subscribers": 46, "nsfw": false}
+{"name": "idahodogcommunity", "subscribers": 0, "nsfw": false}
 {"name": "idahofalls", "subscribers": 11390, "nsfw": false}
 {"name": "idahoforyang", "subscribers": 0, "nsfw": false}
 {"name": "idahogardening", "subscribers": 367, "nsfw": false}
@@ -87608,6 +87618,7 @@
 {"name": "idahomurders", "subscribers": 141310, "nsfw": false}
 {"name": "idahomurdersunhinged", "subscribers": 190, "nsfw": false}
 {"name": "idahopolitics", "subscribers": 0, "nsfw": false}
+{"name": "idahostate", "subscribers": 0, "nsfw": false}
 {"name": "idahostork", "subscribers": 14, "nsfw": false}
 {"name": "idahostudentdeaths", "subscribers": 6583, "nsfw": false}
 {"name": "idahostudentmurders", "subscribers": 150, "nsfw": false}
@@ -87618,6 +87629,7 @@
 {"name": "idairyou", "subscribers": 47, "nsfw": false}
 {"name": "idakathrinekarstoft", "subscribers": 60, "nsfw": false}
 {"name": "idap", "subscribers": 77507, "nsfw": false}
+{"name": "idap_io", "subscribers": 0, "nsfw": false}
 {"name": "idapro", "subscribers": 106, "nsfw": false}
 {"name": "idarb", "subscribers": 905, "nsfw": false}
 {"name": "idareyou", "subscribers": 0, "nsfw": false}
@@ -87684,6 +87696,7 @@
 {"name": "ideologycircles", "subscribers": 163, "nsfw": false}
 {"name": "ideologyofjustice", "subscribers": 0, "nsfw": false}
 {"name": "ideologypolls", "subscribers": 7355, "nsfw": false}
+{"name": "idesignedthis", "subscribers": 0, "nsfw": false}
 {"name": "idespisetheletteri", "subscribers": 15, "nsfw": false}
 {"name": "idevicecollections", "subscribers": 218, "nsfw": false}
 {"name": "idex", "subscribers": 3511, "nsfw": false}
@@ -105216,6 +105229,7 @@
 {"name": "lifecoachcertificate", "subscribers": 141, "nsfw": false}
 {"name": "lifecoachsnark", "subscribers": 0, "nsfw": false}
 {"name": "lifecraft", "subscribers": 136, "nsfw": false}
+{"name": "lifedrawing", "subscribers": 0, "nsfw": false}
 {"name": "lifeextension", "subscribers": 1948, "nsfw": false}
 {"name": "lifegen", "subscribers": 88, "nsfw": false}
 {"name": "lifegoals", "subscribers": 4204, "nsfw": false}
@@ -152871,6 +152885,7 @@
 {"name": "rifugiatidiautoblu", "subscribers": 16, "nsfw": false}
 {"name": "riga", "subscribers": 5899, "nsfw": false}
 {"name": "rigasfranculicejs", "subscribers": 50, "nsfw": false}
+{"name": "rigbyidaho", "subscribers": 0, "nsfw": false}
 {"name": "rigetti", "subscribers": 0, "nsfw": false}
 {"name": "rigging", "subscribers": 0, "nsfw": false}
 {"name": "right2fight", "subscribers": 113, "nsfw": false}
@@ -165384,6 +165399,7 @@
 {"name": "snakeplantsociety", "subscribers": 945, "nsfw": false}
 {"name": "snakerescue", "subscribers": 1572, "nsfw": false}
 {"name": "snakerivals", "subscribers": 196, "nsfw": false}
+{"name": "snakeriver", "subscribers": 0, "nsfw": false}
 {"name": "snakeriverconspiracy", "subscribers": 0, "nsfw": false}
 {"name": "snakeriverkiller", "subscribers": 93, "nsfw": false}
 {"name": "snakes", "subscribers": 946246, "nsfw": false}
@@ -179384,6 +179400,7 @@
 {"name": "thebetguy", "subscribers": 27, "nsfw": false}
 {"name": "thebeths", "subscribers": 2340, "nsfw": false}
 {"name": "thebetterboruto", "subscribers": 0, "nsfw": false}
+{"name": "thebetterindia", "subscribers": 0, "nsfw": false}
 {"name": "thebettingguru", "subscribers": 2219, "nsfw": false}
 {"name": "thebeybladesport", "subscribers": 25, "nsfw": false}
 {"name": "thebfrebellions", "subscribers": 57, "nsfw": false}
@@ -190118,6 +190135,7 @@
 {"name": "u_efficient_ad_2770", "subscribers": 0, "nsfw": false}
 {"name": "u_efficientenzyme", "subscribers": 0, "nsfw": false}
 {"name": "u_eklipse_xv", "subscribers": 0, "nsfw": false}
+{"name": "u_ekokefly", "subscribers": 0, "nsfw": false}
 {"name": "u_elavedeminerva", "subscribers": 0, "nsfw": false}
 {"name": "u_elbridgepa", "subscribers": 0, "nsfw": false}
 {"name": "u_electrical_camp1090", "subscribers": 0, "nsfw": false}
