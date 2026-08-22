@@ -8538,6 +8538,7 @@
 {"name": "americansfordemocracy", "subscribers": 16, "nsfw": false}
 {"name": "americansfortax", "subscribers": 5, "nsfw": false}
 {"name": "americansincanada", "subscribers": 0, "nsfw": false}
+{"name": "americansineurope", "subscribers": 0, "nsfw": false}
 {"name": "americansinfrance", "subscribers": 55, "nsfw": false}
 {"name": "americanskillissue", "subscribers": 20, "nsfw": false}
 {"name": "americanslothlanguage", "subscribers": 217, "nsfw": false}
@@ -13924,6 +13925,7 @@
 {"name": "askacobbler", "subscribers": 47200, "nsfw": false}
 {"name": "askaconservative", "subscribers": 33345, "nsfw": false}
 {"name": "askacosmetologist", "subscribers": 38, "nsfw": false}
+{"name": "askacountry", "subscribers": 0, "nsfw": false}
 {"name": "askacountryball", "subscribers": 26, "nsfw": false}
 {"name": "askadad", "subscribers": 309, "nsfw": false}
 {"name": "askadcp", "subscribers": 2292, "nsfw": false}
@@ -42452,6 +42454,7 @@
 {"name": "cowichan", "subscribers": 3429, "nsfw": false}
 {"name": "cowmemes", "subscribers": 73, "nsfw": false}
 {"name": "coworkerstories", "subscribers": 208003, "nsfw": false}
+{"name": "coworking", "subscribers": 0, "nsfw": false}
 {"name": "cowra", "subscribers": 33, "nsfw": false}
 {"name": "cows", "subscribers": 59750, "nsfw": false}
 {"name": "cowsbeingbros", "subscribers": 195, "nsfw": false}
@@ -80034,6 +80037,7 @@
 {"name": "guysmiringuys", "subscribers": 329, "nsfw": false}
 {"name": "guysonhinge", "subscribers": 15, "nsfw": false}
 {"name": "guysoveralls", "subscribers": 18, "nsfw": false}
+{"name": "guyspantsed24", "subscribers": 0, "nsfw": false}
 {"name": "guyspleasedont", "subscribers": 11, "nsfw": false}
 {"name": "guyswhoeatboogers", "subscribers": 11, "nsfw": false}
 {"name": "guyswhowatchbach", "subscribers": 39, "nsfw": false}
@@ -83532,6 +83536,7 @@
 {"name": "hifirush", "subscribers": 21733, "nsfw": false}
 {"name": "hifk", "subscribers": 80, "nsfw": false}
 {"name": "hiforsanders", "subscribers": 0, "nsfw": false}
+{"name": "hifw", "subscribers": 0, "nsfw": false}
 {"name": "hig", "subscribers": 22, "nsfw": false}
 {"name": "higanbana", "subscribers": 51, "nsfw": false}
 {"name": "higashinoeden", "subscribers": 0, "nsfw": false}
@@ -88502,6 +88507,7 @@
 {"name": "igorrr", "subscribers": 2001, "nsfw": false}
 {"name": "igotchubro", "subscribers": 32, "nsfw": false}
 {"name": "igotmyfirstcar", "subscribers": 29, "nsfw": false}
+{"name": "igotout", "subscribers": 0, "nsfw": false}
 {"name": "igotpregnantonglp1", "subscribers": 38, "nsfw": false}
 {"name": "igotrickrolled", "subscribers": 34, "nsfw": false}
 {"name": "igottheref", "subscribers": 21, "nsfw": false}
@@ -94181,6 +94187,7 @@
 {"name": "ivyleaguememes", "subscribers": 27, "nsfw": false}
 {"name": "ivyleaguestreams", "subscribers": 54, "nsfw": false}
 {"name": "ivypoolfanclub", "subscribers": 1, "nsfw": false}
+{"name": "ivyproject", "subscribers": 0, "nsfw": false}
 {"name": "ivyridge", "subscribers": 273, "nsfw": false}
 {"name": "ivysky", "subscribers": 3683, "nsfw": false}
 {"name": "ivytech", "subscribers": 1928, "nsfw": false}
@@ -94225,7 +94232,10 @@
 {"name": "iwaspoisoned", "subscribers": 496, "nsfw": false}
 {"name": "iwasthemonkey", "subscribers": 33, "nsfw": false}
 {"name": "iwatchedanewmovie", "subscribers": 12, "nsfw": false}
+{"name": "iwatchedanoldermovie", "subscribers": 0, "nsfw": false}
 {"name": "iwatchedanoldmovie", "subscribers": 185373, "nsfw": false}
+{"name": "iwatchedanoldseries", "subscribers": 0, "nsfw": false}
+{"name": "iwatchedoldtv", "subscribers": 0, "nsfw": false}
 {"name": "iwatfpodcast", "subscribers": 352, "nsfw": false}
 {"name": "iwcawindowcleaning", "subscribers": 30, "nsfw": false}
 {"name": "iwcheats", "subscribers": 125, "nsfw": false}
@@ -105211,6 +105221,7 @@
 {"name": "letsgetdepressed", "subscribers": 21, "nsfw": false}
 {"name": "letsgetfit", "subscribers": 101, "nsfw": false}
 {"name": "letsgethaunted", "subscribers": 5017, "nsfw": false}
+{"name": "letsgetthisdone", "subscribers": 0, "nsfw": false}
 {"name": "letsgetweird", "subscribers": 72, "nsfw": false}
 {"name": "letsgo2courtpodcast", "subscribers": 2658, "nsfw": false}
 {"name": "letsgobrandontoken", "subscribers": 28, "nsfw": false}
@@ -106074,6 +106085,7 @@
 {"name": "lifejackets", "subscribers": 113, "nsfw": false}
 {"name": "lifelinegame", "subscribers": 1231, "nsfw": false}
 {"name": "lifelinemains", "subscribers": 10812, "nsfw": false}
+{"name": "lifelonglearning", "subscribers": 0, "nsfw": false}
 {"name": "lifelongluciddreamers", "subscribers": 46, "nsfw": false}
 {"name": "lifemakeover", "subscribers": 12446, "nsfw": false}
 {"name": "lifemathpodcast", "subscribers": 16, "nsfw": false}
@@ -198474,6 +198486,7 @@
 {"name": "visalia", "subscribers": 0, "nsfw": false}
 {"name": "visaliaca", "subscribers": 0, "nsfw": false}
 {"name": "visaliaransacker", "subscribers": 0, "nsfw": false}
+{"name": "visamaps", "subscribers": 0, "nsfw": false}
 {"name": "visamemes", "subscribers": 21, "nsfw": false}
 {"name": "visapal", "subscribers": 0, "nsfw": false}
 {"name": "visas", "subscribers": 19507, "nsfw": false}
