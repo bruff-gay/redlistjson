@@ -43556,6 +43556,7 @@
 {"name": "crappylatteart", "subscribers": 19, "nsfw": false}
 {"name": "crappylistings", "subscribers": 36, "nsfw": false}
 {"name": "crappylocation", "subscribers": 55, "nsfw": false}
+{"name": "crappymcsuggestions", "subscribers": 0, "nsfw": false}
 {"name": "crappymusic", "subscribers": 265076, "nsfw": false}
 {"name": "crappyoffbrands", "subscribers": 1015808, "nsfw": false}
 {"name": "crappyoffbrandsbetter", "subscribers": 0, "nsfw": false}
@@ -48386,6 +48387,7 @@
 {"name": "datamining", "subscribers": 16003, "nsfw": false}
 {"name": "datamoshing", "subscribers": 27998, "nsfw": false}
 {"name": "datanerd", "subscribers": 1579, "nsfw": false}
+{"name": "datapacks", "subscribers": 0, "nsfw": false}
 {"name": "dataplex_ouroboros", "subscribers": 217, "nsfw": false}
 {"name": "datapolice", "subscribers": 6647, "nsfw": false}
 {"name": "datapolitics", "subscribers": 53, "nsfw": false}
@@ -57513,6 +57515,7 @@
 {"name": "easykarma4you", "subscribers": 27176, "nsfw": true}
 {"name": "easyketomeal", "subscribers": 54076, "nsfw": false}
 {"name": "easymc", "subscribers": 96, "nsfw": false}
+{"name": "easyminecraftbuilding", "subscribers": 0, "nsfw": false}
 {"name": "easymode", "subscribers": 156, "nsfw": false}
 {"name": "easymoney", "subscribers": 27100, "nsfw": false}
 {"name": "easypanel", "subscribers": 14, "nsfw": false}
@@ -58226,6 +58229,7 @@
 {"name": "edsmallowers", "subscribers": 204, "nsfw": false}
 {"name": "edsnark", "subscribers": 47, "nsfw": false}
 {"name": "edspira", "subscribers": 75, "nsfw": false}
+{"name": "edstonehelper", "subscribers": 0, "nsfw": false}
 {"name": "edtech", "subscribers": 30296, "nsfw": false}
 {"name": "edtechproducts", "subscribers": 0, "nsfw": false}
 {"name": "edtgcommunity", "subscribers": 21, "nsfw": false}
@@ -67342,6 +67346,7 @@
 {"name": "firesprinklers", "subscribers": 0, "nsfw": false}
 {"name": "firesquid", "subscribers": 29, "nsfw": false}
 {"name": "firestar", "subscribers": 0, "nsfw": false}
+{"name": "firestartermc", "subscribers": 0, "nsfw": false}
 {"name": "firestarting", "subscribers": 0, "nsfw": false}
 {"name": "firestick", "subscribers": 10787, "nsfw": false}
 {"name": "firestick101", "subscribers": 128, "nsfw": false}
@@ -69450,6 +69455,7 @@
 {"name": "foreverrocks", "subscribers": 70, "nsfw": false}
 {"name": "forevertintscam", "subscribers": 23, "nsfw": false}
 {"name": "forevervoices", "subscribers": 73, "nsfw": false}
+{"name": "foreverworlds", "subscribers": 0, "nsfw": false}
 {"name": "forewarned", "subscribers": 1772, "nsfw": false}
 {"name": "forex", "subscribers": 481185, "nsfw": false}
 {"name": "forex_reddit", "subscribers": 6315, "nsfw": false}
@@ -80153,6 +80159,7 @@
 {"name": "gridsparta", "subscribers": 169, "nsfw": false}
 {"name": "gridworld", "subscribers": 182, "nsfw": false}
 {"name": "grief", "subscribers": 17204, "nsfw": false}
+{"name": "griefcraft", "subscribers": 0, "nsfw": false}
 {"name": "griefsupport", "subscribers": 135980, "nsfw": false}
 {"name": "griefthief", "subscribers": 757, "nsfw": false}
 {"name": "griethyderabad", "subscribers": 57, "nsfw": false}
@@ -116661,6 +116668,7 @@
 {"name": "mccartheism", "subscribers": 74, "nsfw": false}
 {"name": "mccartneyass", "subscribers": 0, "nsfw": false}
 {"name": "mccchat", "subscribers": 753, "nsfw": false}
+{"name": "mccdesign", "subscribers": 0, "nsfw": false}
 {"name": "mcchainworlds", "subscribers": 15, "nsfw": false}
 {"name": "mcchainworldtwo", "subscribers": 0, "nsfw": false}
 {"name": "mcchallenges", "subscribers": 0, "nsfw": false}
@@ -120889,6 +120897,7 @@
 {"name": "minecraftaxolotl", "subscribers": 96, "nsfw": false}
 {"name": "minecraftbanner", "subscribers": 4581, "nsfw": false}
 {"name": "minecraftbattlebots", "subscribers": 121, "nsfw": false}
+{"name": "minecraftbedrock", "subscribers": 0, "nsfw": false}
 {"name": "minecraftbedrockers", "subscribers": 0, "nsfw": false}
 {"name": "minecraftbedrockfarms", "subscribers": 2239, "nsfw": false}
 {"name": "minecraftbedrockmods", "subscribers": 215, "nsfw": false}
@@ -120912,13 +120921,16 @@
 {"name": "minecraftcommands", "subscribers": 290258, "nsfw": false}
 {"name": "minecraftcommods", "subscribers": 28, "nsfw": false}
 {"name": "minecraftconcept", "subscribers": 28, "nsfw": false}
+{"name": "minecraftconsolecitys", "subscribers": 0, "nsfw": false}
 {"name": "minecraftcreepypasta", "subscribers": 0, "nsfw": false}
 {"name": "minecraftcvm", "subscribers": 82, "nsfw": false}
 {"name": "minecraftdaily", "subscribers": 10707, "nsfw": false}
+{"name": "minecraftde", "subscribers": 0, "nsfw": false}
 {"name": "minecraftdeutschland", "subscribers": 53, "nsfw": false}
 {"name": "minecraftdev", "subscribers": 227, "nsfw": false}
 {"name": "minecraftdrama", "subscribers": 31, "nsfw": false}
 {"name": "minecraftdungeons", "subscribers": 104139, "nsfw": false}
+{"name": "minecraftdungeons_2", "subscribers": 0, "nsfw": false}
 {"name": "minecraftdungeonslfg", "subscribers": 794, "nsfw": false}
 {"name": "minecraftearthbuilds", "subscribers": 130, "nsfw": false}
 {"name": "minecraftespanol", "subscribers": 185133, "nsfw": false}
@@ -120926,6 +120938,8 @@
 {"name": "minecraftexperiment", "subscribers": 0, "nsfw": false}
 {"name": "minecraftexperts", "subscribers": 19, "nsfw": false}
 {"name": "minecraftexploits", "subscribers": 4589, "nsfw": false}
+{"name": "minecraftfaq", "subscribers": 0, "nsfw": false}
+{"name": "minecraftfarms", "subscribers": 0, "nsfw": false}
 {"name": "minecraftfirefly", "subscribers": 15, "nsfw": false}
 {"name": "minecraftfoodmemes", "subscribers": 30, "nsfw": false}
 {"name": "minecraftforever", "subscribers": 25, "nsfw": false}
@@ -120940,6 +120954,7 @@
 {"name": "minecraftgriefing", "subscribers": 691, "nsfw": false}
 {"name": "minecrafthelp", "subscribers": 54307, "nsfw": false}
 {"name": "minecrafthmmm", "subscribers": 154946, "nsfw": false}
+{"name": "minecrafthouses", "subscribers": 0, "nsfw": false}
 {"name": "minecrafthttyd", "subscribers": 27, "nsfw": false}
 {"name": "minecraftinfographics", "subscribers": 2644, "nsfw": false}
 {"name": "minecraftinventions", "subscribers": 39124, "nsfw": false}
@@ -120965,6 +120980,7 @@
 {"name": "minecraftmemes", "subscribers": 3395473, "nsfw": false}
 {"name": "minecraftminifigures", "subscribers": 2002, "nsfw": false}
 {"name": "minecraftminigames", "subscribers": 0, "nsfw": false}
+{"name": "minecraftmobconcepts", "subscribers": 0, "nsfw": false}
 {"name": "minecraftmod", "subscribers": 34472, "nsfw": false}
 {"name": "minecraftmodels", "subscribers": 158, "nsfw": false}
 {"name": "minecraftmonday", "subscribers": 30, "nsfw": false}
@@ -123272,6 +123288,7 @@
 {"name": "moneyreview", "subscribers": 21, "nsfw": false}
 {"name": "moneysaving", "subscribers": 6582, "nsfw": false}
 {"name": "moneysignsuede", "subscribers": 62, "nsfw": false}
+{"name": "moneysmp", "subscribers": 0, "nsfw": false}
 {"name": "moneyspread", "subscribers": 21, "nsfw": false}
 {"name": "moneyview", "subscribers": 592, "nsfw": false}
 {"name": "moneyyteam", "subscribers": 17, "nsfw": false}
@@ -154252,6 +154269,7 @@
 {"name": "realmgrinder", "subscribers": 7017, "nsfw": false}
 {"name": "realmichigan", "subscribers": 0, "nsfw": false}
 {"name": "realmilf", "subscribers": 351512, "nsfw": true}
+{"name": "realmnews", "subscribers": 0, "nsfw": false}
 {"name": "realmofdarkpsych", "subscribers": 345, "nsfw": false}
 {"name": "realmofdungeons", "subscribers": 22, "nsfw": false}
 {"name": "realmoftheelderlings", "subscribers": 1885, "nsfw": false}
@@ -195618,6 +195636,7 @@
 {"name": "u_andre_rosas19", "subscribers": 0, "nsfw": false}
 {"name": "u_andycoronado88", "subscribers": 0, "nsfw": false}
 {"name": "u_angelaparan", "subscribers": 0, "nsfw": false}
+{"name": "u_angelpettit", "subscribers": 0, "nsfw": false}
 {"name": "u_anglicanjesuit", "subscribers": 0, "nsfw": false}
 {"name": "u_ankit_gupta66", "subscribers": 0, "nsfw": false}
 {"name": "u_annonymous_09", "subscribers": 0, "nsfw": false}
