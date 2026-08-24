@@ -767,6 +767,7 @@
 {"name": "20meterafterwork", "subscribers": 0, "nsfw": false}
 {"name": "20orabove", "subscribers": 299, "nsfw": false}
 {"name": "20physik", "subscribers": 18, "nsfw": false}
+{"name": "20psi", "subscribers": 0, "nsfw": false}
 {"name": "20questions", "subscribers": 6224, "nsfw": false}
 {"name": "20sdesign", "subscribers": 0, "nsfw": false}
 {"name": "20sindiareal", "subscribers": 0, "nsfw": false}
@@ -18293,6 +18294,7 @@
 {"name": "badmuas", "subscribers": 865658, "nsfw": false}
 {"name": "badmusicbadpeople", "subscribers": 2440, "nsfw": false}
 {"name": "badneighbors", "subscribers": 18999, "nsfw": false}
+{"name": "badnerfposts", "subscribers": 0, "nsfw": false}
 {"name": "badneuroscience", "subscribers": 510, "nsfw": false}
 {"name": "badnoveltyaccounts", "subscribers": 0, "nsfw": false}
 {"name": "badobsessionmsp", "subscribers": 424, "nsfw": false}
@@ -59260,6 +59262,7 @@
 {"name": "elearnsecurity", "subscribers": 15797, "nsfw": false}
 {"name": "elec_andcommunication", "subscribers": 117, "nsfw": false}
 {"name": "eleceed", "subscribers": 24496, "nsfw": false}
+{"name": "elecproductdesign", "subscribers": 0, "nsfw": false}
 {"name": "electeddemocracychess", "subscribers": 0, "nsfw": false}
 {"name": "election2016", "subscribers": 0, "nsfw": false}
 {"name": "electionactivism", "subscribers": 0, "nsfw": false}
@@ -69200,6 +69203,7 @@
 {"name": "foamcorner", "subscribers": 80, "nsfw": false}
 {"name": "foamed", "subscribers": 13733, "nsfw": false}
 {"name": "foamems", "subscribers": 0, "nsfw": false}
+{"name": "foamflinginggroup", "subscribers": 0, "nsfw": false}
 {"name": "foamflowers", "subscribers": 54, "nsfw": false}
 {"name": "foamposites", "subscribers": 442, "nsfw": false}
 {"name": "foamrnnr", "subscribers": 45, "nsfw": false}
@@ -86165,6 +86169,7 @@
 {"name": "historyofjapanmemes", "subscribers": 0, "nsfw": false}
 {"name": "historyofmedicine", "subscribers": 8619, "nsfw": false}
 {"name": "historyofmusic", "subscribers": 29, "nsfw": false}
+{"name": "historyofnerfmodding", "subscribers": 0, "nsfw": false}
 {"name": "historyofphilosophy", "subscribers": 0, "nsfw": false}
 {"name": "historyofreddit", "subscribers": 1240, "nsfw": false}
 {"name": "historyoftech", "subscribers": 0, "nsfw": false}
@@ -88821,6 +88826,7 @@
 {"name": "humansofreddit", "subscribers": 16, "nsfw": false}
 {"name": "humanspaceflight", "subscribers": 0, "nsfw": false}
 {"name": "humanspumpingmilk", "subscribers": 14774, "nsfw": false}
+{"name": "humansvszombies", "subscribers": 0, "nsfw": false}
 {"name": "humanswithoutnecks", "subscribers": 103, "nsfw": false}
 {"name": "humantippytaps", "subscribers": 163347, "nsfw": false}
 {"name": "humantorches", "subscribers": 20, "nsfw": false}
@@ -94268,6 +94274,7 @@
 {"name": "internetclownbullys", "subscribers": 57, "nsfw": false}
 {"name": "internetcollection", "subscribers": 3917, "nsfw": false}
 {"name": "internetcommentetiq", "subscribers": 39285, "nsfw": false}
+{"name": "internetculture", "subscribers": 0, "nsfw": false}
 {"name": "internetdefense", "subscribers": 0, "nsfw": false}
 {"name": "internetdj", "subscribers": 19, "nsfw": false}
 {"name": "internetdrama", "subscribers": 0, "nsfw": false}
@@ -112583,6 +112590,7 @@
 {"name": "lucaseditions", "subscribers": 87, "nsfw": false}
 {"name": "lucasfilmleaks", "subscribers": 188, "nsfw": false}
 {"name": "lucasgandola", "subscribers": 1580, "nsfw": false}
+{"name": "lucasmains", "subscribers": 0, "nsfw": false}
 {"name": "lucaszelnickofficial", "subscribers": 708, "nsfw": false}
 {"name": "lucbesson", "subscribers": 48, "nsfw": false}
 {"name": "luceart", "subscribers": 7029, "nsfw": false}
@@ -130047,10 +130055,15 @@
 {"name": "nerdyshow", "subscribers": 139, "nsfw": false}
 {"name": "nerf", "subscribers": 99330, "nsfw": false}
 {"name": "nerfart", "subscribers": 51, "nsfw": false}
+{"name": "nerfchatter", "subscribers": 0, "nsfw": false}
 {"name": "nerfdeals", "subscribers": 303, "nsfw": false}
+{"name": "nerfexchange", "subscribers": 0, "nsfw": false}
 {"name": "nerffireflycorps", "subscribers": 19, "nsfw": false}
+{"name": "nerfhomemades", "subscribers": 0, "nsfw": false}
+{"name": "nerfmods", "subscribers": 0, "nsfw": false}
 {"name": "nerfsim", "subscribers": 67, "nsfw": false}
 {"name": "nerfsuperblast", "subscribers": 250, "nsfw": false}
+{"name": "nerfthrift", "subscribers": 0, "nsfw": false}
 {"name": "nerfwithlegs", "subscribers": 46, "nsfw": false}
 {"name": "nerinapallot", "subscribers": 11, "nsfw": false}
 {"name": "neringakriziutefans", "subscribers": 22772, "nsfw": false}
@@ -130104,6 +130117,7 @@
 {"name": "netatmo", "subscribers": 2466, "nsfw": false}
 {"name": "netbackup", "subscribers": 348, "nsfw": false}
 {"name": "netball", "subscribers": 3502, "nsfw": false}
+{"name": "netballchaos", "subscribers": 0, "nsfw": false}
 {"name": "netbird", "subscribers": 0, "nsfw": false}
 {"name": "netboomofficial", "subscribers": 2138, "nsfw": false}
 {"name": "netbox", "subscribers": 4401, "nsfw": false}
@@ -140964,6 +140978,7 @@
 {"name": "palmy", "subscribers": 8796, "nsfw": false}
 {"name": "paloalto", "subscribers": 13796, "nsfw": false}
 {"name": "paloaltohighschool", "subscribers": 44, "nsfw": false}
+{"name": "paloaltonetworks", "subscribers": 0, "nsfw": false}
 {"name": "paloaltoschools", "subscribers": 104, "nsfw": false}
 {"name": "palolo", "subscribers": 53, "nsfw": false}
 {"name": "paloma_chain", "subscribers": 1175, "nsfw": false}
@@ -145693,6 +145708,7 @@
 {"name": "pixelgoogle", "subscribers": 0, "nsfw": false}
 {"name": "pixelgun", "subscribers": 0, "nsfw": false}
 {"name": "pixelgun2", "subscribers": 223, "nsfw": false}
+{"name": "pixelguns", "subscribers": 0, "nsfw": false}
 {"name": "pixeline", "subscribers": 31, "nsfw": false}
 {"name": "pixelingsdecks", "subscribers": 125, "nsfw": false}
 {"name": "pixeljunk", "subscribers": 120, "nsfw": false}
@@ -179137,6 +179153,7 @@
 {"name": "subnetting", "subscribers": 508, "nsfw": false}
 {"name": "subnopeica", "subscribers": 238, "nsfw": false}
 {"name": "subnormality", "subscribers": 538, "nsfw": false}
+{"name": "subofrome", "subscribers": 0, "nsfw": false}
 {"name": "suboftheweek", "subscribers": 35, "nsfw": false}
 {"name": "subombsquad", "subscribers": 641, "nsfw": false}
 {"name": "subonfire", "subscribers": 14, "nsfw": false}
@@ -184658,6 +184675,7 @@
 {"name": "ten55", "subscribers": 0, "nsfw": false}
 {"name": "ten_baggers", "subscribers": 64, "nsfw": false}
 {"name": "tena", "subscribers": 29, "nsfw": false}
+{"name": "tenable", "subscribers": 0, "nsfw": false}
 {"name": "tenaciousd", "subscribers": 28322, "nsfw": false}
 {"name": "tenadia", "subscribers": 15, "nsfw": false}
 {"name": "tenafly", "subscribers": 130, "nsfw": false}
