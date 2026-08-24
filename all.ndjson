@@ -125833,6 +125833,7 @@
 {"name": "mtgcube", "subscribers": 35259, "nsfw": false}
 {"name": "mtgdeathandtaxes", "subscribers": 0, "nsfw": false}
 {"name": "mtgdeutsch", "subscribers": 21, "nsfw": false}
+{"name": "mtgdotp", "subscribers": 0, "nsfw": false}
 {"name": "mtgdraft", "subscribers": 41, "nsfw": false}
 {"name": "mtgexchange", "subscribers": 21, "nsfw": false}
 {"name": "mtgfans", "subscribers": 0, "nsfw": false}
@@ -125842,7 +125843,9 @@
 {"name": "mtgfrontier", "subscribers": 3899, "nsfw": false}
 {"name": "mtggas", "subscribers": 68, "nsfw": false}
 {"name": "mtggore", "subscribers": 14956, "nsfw": false}
+{"name": "mtghistoric", "subscribers": 0, "nsfw": false}
 {"name": "mtgjank", "subscribers": 53, "nsfw": false}
+{"name": "mtgjudge", "subscribers": 0, "nsfw": false}
 {"name": "mtgjumpstart", "subscribers": 3709, "nsfw": false}
 {"name": "mtglardfetcher", "subscribers": 9236, "nsfw": false}
 {"name": "mtglegacy", "subscribers": 44210, "nsfw": false}
@@ -136503,6 +136506,7 @@
 {"name": "oldblood", "subscribers": 14, "nsfw": false}
 {"name": "oldbloodnoise", "subscribers": 459, "nsfw": false}
 {"name": "oldbooks", "subscribers": 31680, "nsfw": false}
+{"name": "oldbordercube", "subscribers": 0, "nsfw": false}
 {"name": "oldbritishtelly", "subscribers": 54376, "nsfw": false}
 {"name": "oldbucks", "subscribers": 0, "nsfw": false}
 {"name": "oldcampcookcastiron", "subscribers": 0, "nsfw": false}
@@ -138537,6 +138541,7 @@
 {"name": "oregonforbernie", "subscribers": 0, "nsfw": false}
 {"name": "oregonforsanders", "subscribers": 0, "nsfw": false}
 {"name": "oregonforyang", "subscribers": 0, "nsfw": false}
+{"name": "oregonguns", "subscribers": 0, "nsfw": false}
 {"name": "oregonhiking", "subscribers": 8449, "nsfw": false}
 {"name": "oregonhunting", "subscribers": 376, "nsfw": false}
 {"name": "oregonianauto", "subscribers": 0, "nsfw": false}
@@ -168957,6 +168962,7 @@
 {"name": "silveraward", "subscribers": 37, "nsfw": false}
 {"name": "silverbackgorillas", "subscribers": 84, "nsfw": false}
 {"name": "silverbars", "subscribers": 267, "nsfw": false}
+{"name": "silverblack", "subscribers": 0, "nsfw": false}
 {"name": "silverbugs", "subscribers": 196461, "nsfw": false}
 {"name": "silverbugscanada", "subscribers": 0, "nsfw": false}
 {"name": "silverbullet_configs", "subscribers": 52, "nsfw": false}
