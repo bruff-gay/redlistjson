@@ -12968,6 +12968,7 @@
 {"name": "architecturefans", "subscribers": 0, "nsfw": false}
 {"name": "architectureid", "subscribers": 116, "nsfw": false}
 {"name": "architectureph", "subscribers": 23506, "nsfw": false}
+{"name": "architecturephotogs", "subscribers": 0, "nsfw": false}
 {"name": "architectureporn", "subscribers": 2268118, "nsfw": false}
 {"name": "architectureportfolio", "subscribers": 9944, "nsfw": false}
 {"name": "architecturesstyle", "subscribers": 0, "nsfw": false}
@@ -77848,6 +77849,7 @@
 {"name": "getaether", "subscribers": 298, "nsfw": false}
 {"name": "getagraph", "subscribers": 10000, "nsfw": false}
 {"name": "getagrippodcast", "subscribers": 18, "nsfw": false}
+{"name": "getaiacademy", "subscribers": 0, "nsfw": false}
 {"name": "getalfi", "subscribers": 51, "nsfw": false}
 {"name": "getalife", "subscribers": 102, "nsfw": false}
 {"name": "getalifetvshow", "subscribers": 167, "nsfw": false}
@@ -81665,6 +81667,7 @@
 {"name": "greenerdaysweed", "subscribers": 27, "nsfw": false}
 {"name": "greenerycommunity", "subscribers": 0, "nsfw": false}
 {"name": "greeneyed", "subscribers": 0, "nsfw": false}
+{"name": "greenfarming", "subscribers": 0, "nsfw": false}
 {"name": "greenfield", "subscribers": 0, "nsfw": false}
 {"name": "greenfield_indiana", "subscribers": 288, "nsfw": false}
 {"name": "greenfieldcity", "subscribers": 490, "nsfw": false}
@@ -107442,6 +107445,7 @@
 {"name": "landsofevershade", "subscribers": 0, "nsfw": false}
 {"name": "landsofloreiii", "subscribers": 17, "nsfw": false}
 {"name": "landsquidbirdrider", "subscribers": 13, "nsfw": false}
+{"name": "landsurveying", "subscribers": 0, "nsfw": false}
 {"name": "landuse", "subscribers": 96, "nsfw": false}
 {"name": "landvaluetax", "subscribers": 1245, "nsfw": false}
 {"name": "landwirtschaft", "subscribers": 622, "nsfw": false}
@@ -159090,6 +159094,7 @@
 {"name": "realfootball", "subscribers": 85, "nsfw": false}
 {"name": "realforexx", "subscribers": 0, "nsfw": false}
 {"name": "realfrance", "subscribers": 42, "nsfw": false}
+{"name": "realfreelancedevs", "subscribers": 0, "nsfw": false}
 {"name": "realfreespeechnew", "subscribers": 19, "nsfw": false}
 {"name": "realfreetalk", "subscribers": 50, "nsfw": false}
 {"name": "realfriends", "subscribers": 807, "nsfw": false}
@@ -187471,6 +187476,7 @@
 {"name": "taxquestions", "subscribers": 0, "nsfw": false}
 {"name": "taxreddit", "subscribers": 32, "nsfw": false}
 {"name": "taxrefundhelp", "subscribers": 10106, "nsfw": false}
+{"name": "taxrefunds", "subscribers": 0, "nsfw": false}
 {"name": "taxsale", "subscribers": 566, "nsfw": false}
 {"name": "taxxad", "subscribers": 28, "nsfw": false}
 {"name": "taxxedandtriggeredph", "subscribers": 35, "nsfw": false}
@@ -203144,6 +203150,7 @@
 {"name": "u_raven23c", "subscribers": 0, "nsfw": false}
 {"name": "u_ray_hillo", "subscribers": 0, "nsfw": false}
 {"name": "u_rayen122_", "subscribers": 0, "nsfw": false}
+{"name": "u_raymond_kinman", "subscribers": 0, "nsfw": false}
 {"name": "u_rdj022", "subscribers": 0, "nsfw": false}
 {"name": "u_reachmorefans", "subscribers": 0, "nsfw": false}
 {"name": "u_readingcofos", "subscribers": 0, "nsfw": false}
@@ -206700,6 +206707,7 @@
 {"name": "urbanshadows", "subscribers": 0, "nsfw": false}
 {"name": "urbansketchers", "subscribers": 61012, "nsfw": false}
 {"name": "urbansketching", "subscribers": 2737, "nsfw": false}
+{"name": "urbanspeculator", "subscribers": 0, "nsfw": false}
 {"name": "urbanstreetmaldives", "subscribers": 91, "nsfw": false}
 {"name": "urbanstreetnews", "subscribers": 0, "nsfw": false}
 {"name": "urbanstudies", "subscribers": 7379, "nsfw": false}
@@ -207130,6 +207138,7 @@
 {"name": "ushistory", "subscribers": 135808, "nsfw": false}
 {"name": "ushl", "subscribers": 688, "nsfw": false}
 {"name": "ushostfamilies", "subscribers": 0, "nsfw": false}
+{"name": "ushousingmarket", "subscribers": 0, "nsfw": false}
 {"name": "usimemes", "subscribers": 95, "nsfw": false}
 {"name": "usimgreddit", "subscribers": 939, "nsfw": false}
 {"name": "usimmigrationinsider", "subscribers": 15, "nsfw": false}
@@ -213586,6 +213595,7 @@
 {"name": "westminsterhighmd", "subscribers": 35, "nsfw": false}
 {"name": "westminsterma", "subscribers": 0, "nsfw": false}
 {"name": "westminstermaryland", "subscribers": 1128, "nsfw": false}
+{"name": "westminsterpoll", "subscribers": 0, "nsfw": false}
 {"name": "westmont", "subscribers": 0, "nsfw": false}
 {"name": "westmountchartermemes", "subscribers": 22, "nsfw": false}
 {"name": "westofloathing", "subscribers": 0, "nsfw": false}
@@ -214582,7 +214592,9 @@
 {"name": "wholesale2b", "subscribers": 38, "nsfw": false}
 {"name": "wholesale_suppliers", "subscribers": 0, "nsfw": false}
 {"name": "wholesalechess", "subscribers": 24, "nsfw": false}
+{"name": "wholesalehouses", "subscribers": 0, "nsfw": false}
 {"name": "wholesaleproducts", "subscribers": 10171, "nsfw": false}
+{"name": "wholesaleproperties", "subscribers": 0, "nsfw": false}
 {"name": "wholesalerealestate", "subscribers": 29016, "nsfw": false}
 {"name": "wholesalereisupport", "subscribers": 45, "nsfw": false}
 {"name": "wholesalinghomeshub", "subscribers": 137, "nsfw": false}
@@ -219899,6 +219911,7 @@
 {"name": "youtubegamingvidpromo", "subscribers": 5113, "nsfw": false}
 {"name": "youtubehaiku", "subscribers": 0, "nsfw": false}
 {"name": "youtubehell2", "subscribers": 19, "nsfw": false}
+{"name": "youtubehomesteaders", "subscribers": 0, "nsfw": false}
 {"name": "youtubeideas", "subscribers": 380, "nsfw": false}
 {"name": "youtubeinarabic", "subscribers": 0, "nsfw": false}
 {"name": "youtubeindia", "subscribers": 44455, "nsfw": false}
