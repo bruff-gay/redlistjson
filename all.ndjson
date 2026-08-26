@@ -1473,6 +1473,7 @@
 {"name": "3dsets_owners", "subscribers": 337, "nsfw": false}
 {"name": "3dsfcswap", "subscribers": 15683, "nsfw": false}
 {"name": "3dsforall", "subscribers": 1476, "nsfw": false}
+{"name": "3dsfriendcodes", "subscribers": 0, "nsfw": false}
 {"name": "3dsgamenight", "subscribers": 0, "nsfw": false}
 {"name": "3dsgirls", "subscribers": 226, "nsfw": false}
 {"name": "3dshacks", "subscribers": 145225, "nsfw": false}
@@ -60195,6 +60196,7 @@
 {"name": "elephantsfoot", "subscribers": 42, "nsfw": false}
 {"name": "elephantshrewtime", "subscribers": 167, "nsfw": false}
 {"name": "elephone", "subscribers": 102, "nsfw": false}
+{"name": "elesa_poke", "subscribers": 0, "nsfw": false}
 {"name": "eleske_holding", "subscribers": 13, "nsfw": false}
 {"name": "eleteria", "subscribers": 12917, "nsfw": false}
 {"name": "eletmodvaltas", "subscribers": 893, "nsfw": false}
@@ -75699,6 +75701,7 @@
 {"name": "garcellogang", "subscribers": 613, "nsfw": false}
 {"name": "garcher", "subscribers": 1068, "nsfw": false}
 {"name": "garchingstudents", "subscribers": 28, "nsfw": false}
+{"name": "garchomp", "subscribers": 0, "nsfw": false}
 {"name": "garchompthegreat", "subscribers": 28, "nsfw": false}
 {"name": "garciaemily", "subscribers": 737, "nsfw": false}
 {"name": "garcreekincorporated", "subscribers": 12, "nsfw": false}
@@ -99060,6 +99063,7 @@
 {"name": "jessicarmaniac", "subscribers": 33, "nsfw": false}
 {"name": "jessicatalysticxxx", "subscribers": 367, "nsfw": false}
 {"name": "jessicka", "subscribers": 0, "nsfw": false}
+{"name": "jessie_musashi", "subscribers": 0, "nsfw": false}
 {"name": "jessieennis", "subscribers": 127, "nsfw": false}
 {"name": "jessiegang", "subscribers": 1449, "nsfw": false}
 {"name": "jessiemurph", "subscribers": 1707, "nsfw": false}
@@ -129239,6 +129243,7 @@
 {"name": "mysterycrate", "subscribers": 13, "nsfw": false}
 {"name": "mysterydiagnosis", "subscribers": 272, "nsfw": false}
 {"name": "mysterydungeon", "subscribers": 93520, "nsfw": false}
+{"name": "mysteryeggs", "subscribers": 0, "nsfw": false}
 {"name": "mysteryfiction", "subscribers": 3431, "nsfw": false}
 {"name": "mysteryfleshpit", "subscribers": 5817, "nsfw": false}
 {"name": "mysteryfog", "subscribers": 105, "nsfw": false}
@@ -144378,6 +144383,7 @@
 {"name": "paze", "subscribers": 0, "nsfw": false}
 {"name": "pazswagger", "subscribers": 35, "nsfw": false}
 {"name": "pba", "subscribers": 53698, "nsfw": false}
+{"name": "pbabattlelog", "subscribers": 0, "nsfw": false}
 {"name": "pbabowlingchallenge", "subscribers": 70, "nsfw": false}
 {"name": "pbandj2", "subscribers": 109, "nsfw": false}
 {"name": "pbbg", "subscribers": 0, "nsfw": false}
@@ -148083,6 +148089,7 @@
 {"name": "pkmndeals", "subscribers": 44, "nsfw": false}
 {"name": "pkmnfanproject", "subscribers": 14, "nsfw": false}
 {"name": "pkmngiveawayrefs", "subscribers": 243, "nsfw": false}
+{"name": "pkmnlegendsrayquaza", "subscribers": 0, "nsfw": false}
 {"name": "pkmntcg", "subscribers": 125094, "nsfw": false}
 {"name": "pkmntcgbets", "subscribers": 177, "nsfw": false}
 {"name": "pkmntcgcollections", "subscribers": 83723, "nsfw": false}
@@ -149456,6 +149463,7 @@
 {"name": "pokecodes", "subscribers": 8739, "nsfw": false}
 {"name": "pokecoin", "subscribers": 23, "nsfw": false}
 {"name": "pokecollection", "subscribers": 63, "nsfw": false}
+{"name": "pokecollectors", "subscribers": 0, "nsfw": false}
 {"name": "pokecomics", "subscribers": 203, "nsfw": false}
 {"name": "pokecorner", "subscribers": 4966, "nsfw": false}
 {"name": "pokecraft", "subscribers": 214, "nsfw": false}
@@ -149532,9 +149540,11 @@
 {"name": "pokemonbattles", "subscribers": 0, "nsfw": false}
 {"name": "pokemonbdsp", "subscribers": 104365, "nsfw": false}
 {"name": "pokemonbdsptrades", "subscribers": 11368, "nsfw": false}
+{"name": "pokemonbinderdesign", "subscribers": 0, "nsfw": false}
 {"name": "pokemonblack2", "subscribers": 73, "nsfw": false}
 {"name": "pokemonblackandwhite", "subscribers": 25227, "nsfw": false}
 {"name": "pokemonblackandwhite2", "subscribers": 16984, "nsfw": false}
+{"name": "pokemonbrown", "subscribers": 0, "nsfw": false}
 {"name": "pokemonbuddy", "subscribers": 700, "nsfw": false}
 {"name": "pokemonbushido", "subscribers": 77, "nsfw": false}
 {"name": "pokemoncafemix", "subscribers": 9563, "nsfw": false}
@@ -149561,6 +149571,7 @@
 {"name": "pokemoncodecards", "subscribers": 163, "nsfw": false}
 {"name": "pokemoncollecting", "subscribers": 0, "nsfw": false}
 {"name": "pokemoncolosseum", "subscribers": 2089, "nsfw": false}
+{"name": "pokemoncompetitions", "subscribers": 0, "nsfw": false}
 {"name": "pokemonconfessions", "subscribers": 22, "nsfw": false}
 {"name": "pokemonconquest", "subscribers": 4485, "nsfw": false}
 {"name": "pokemonconspiracies", "subscribers": 62960, "nsfw": false}
@@ -149837,7 +149848,10 @@
 {"name": "pokemonnoobs", "subscribers": 145, "nsfw": false}
 {"name": "pokemonnox", "subscribers": 642, "nsfw": false}
 {"name": "pokemonnuzlocke", "subscribers": 4639, "nsfw": false}
+{"name": "pokemonomegaruby", "subscribers": 0, "nsfw": false}
+{"name": "pokemonoras", "subscribers": 0, "nsfw": false}
 {"name": "pokemonpdx", "subscribers": 2323, "nsfw": false}
+{"name": "pokemonpearl", "subscribers": 0, "nsfw": false}
 {"name": "pokemonpets", "subscribers": 54, "nsfw": false}
 {"name": "pokemonphoenixrising", "subscribers": 6111, "nsfw": false}
 {"name": "pokemonphotoshop", "subscribers": 0, "nsfw": false}
@@ -149879,6 +149893,7 @@
 {"name": "pokemonruby", "subscribers": 0, "nsfw": false}
 {"name": "pokemonrumblerush", "subscribers": 2869, "nsfw": false}
 {"name": "pokemonrumbleweekend", "subscribers": 200, "nsfw": false}
+{"name": "pokemonsapphire", "subscribers": 0, "nsfw": false}
 {"name": "pokemonscarletrom", "subscribers": 63, "nsfw": false}
 {"name": "pokemonscarlettrade", "subscribers": 7711, "nsfw": false}
 {"name": "pokemonscarletviolet", "subscribers": 1348318, "nsfw": false}
@@ -149927,6 +149942,7 @@
 {"name": "pokemontcgnl", "subscribers": 6684, "nsfw": false}
 {"name": "pokemontcgp_godpacks", "subscribers": 7238, "nsfw": false}
 {"name": "pokemontcgphilippines", "subscribers": 119, "nsfw": false}
+{"name": "pokemontcgrestocks", "subscribers": 0, "nsfw": false}
 {"name": "pokemontcgspecies", "subscribers": 1237, "nsfw": false}
 {"name": "pokemontd", "subscribers": 235, "nsfw": false}
 {"name": "pokemonteamgalaxy", "subscribers": 13, "nsfw": false}
@@ -149943,6 +149959,7 @@
 {"name": "pokemontradesscarletv", "subscribers": 340, "nsfw": false}
 {"name": "pokemontradesswsh", "subscribers": 3632, "nsfw": false}
 {"name": "pokemontradeworld", "subscribers": 749, "nsfw": false}
+{"name": "pokemontradingcards", "subscribers": 0, "nsfw": false}
 {"name": "pokemonturfwars", "subscribers": 0, "nsfw": false}
 {"name": "pokemonunbound", "subscribers": 73385, "nsfw": false}
 {"name": "pokemonunite", "subscribers": 208420, "nsfw": false}
@@ -149960,6 +149977,7 @@
 {"name": "pokemonwiimmfi", "subscribers": 38, "nsfw": false}
 {"name": "pokemonwilds", "subscribers": 4104, "nsfw": false}
 {"name": "pokemonwithoutnecks", "subscribers": 829, "nsfw": false}
+{"name": "pokemonx", "subscribers": 0, "nsfw": false}
 {"name": "pokemonxenoverse", "subscribers": 4419, "nsfw": false}
 {"name": "pokemonxy", "subscribers": 11231, "nsfw": false}
 {"name": "pokemonza", "subscribers": 21278, "nsfw": false}
@@ -150017,6 +150035,7 @@
 {"name": "poketipsmike", "subscribers": 18, "nsfw": false}
 {"name": "poketofreddit", "subscribers": 71, "nsfw": false}
 {"name": "poketourneys", "subscribers": 37, "nsfw": false}
+{"name": "poketradereferences", "subscribers": 0, "nsfw": false}
 {"name": "poketube", "subscribers": 3087, "nsfw": false}
 {"name": "poketubelp", "subscribers": 182, "nsfw": false}
 {"name": "poketubers", "subscribers": 705, "nsfw": false}
@@ -165033,6 +165052,7 @@
 {"name": "safarideal", "subscribers": 0, "nsfw": false}
 {"name": "safariextensiondevs", "subscribers": 206, "nsfw": false}
 {"name": "safaris", "subscribers": 0, "nsfw": false}
+{"name": "safariweek", "subscribers": 0, "nsfw": false}
 {"name": "safc", "subscribers": 8470, "nsfw": false}
 {"name": "safe4trans", "subscribers": 0, "nsfw": false}
 {"name": "safe_crossdressing", "subscribers": 127, "nsfw": false}
@@ -218324,6 +218344,7 @@
 {"name": "yugiohart", "subscribers": 113, "nsfw": false}
 {"name": "yugiohcardmaker", "subscribers": 78, "nsfw": false}
 {"name": "yugiohcards", "subscribers": 3817, "nsfw": false}
+{"name": "yugiohcardselling", "subscribers": 0, "nsfw": false}
 {"name": "yugiohcounterfairy", "subscribers": 17, "nsfw": false}
 {"name": "yugiohcrossduel", "subscribers": 54, "nsfw": false}
 {"name": "yugioheconomy", "subscribers": 4281, "nsfw": false}
