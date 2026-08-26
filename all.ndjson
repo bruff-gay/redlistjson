@@ -14176,6 +14176,7 @@
 {"name": "ashevillebeer", "subscribers": 1536, "nsfw": false}
 {"name": "ashevilleclassifieds", "subscribers": 3854, "nsfw": false}
 {"name": "ashevillefarmexchange", "subscribers": 0, "nsfw": false}
+{"name": "ashevillego", "subscribers": 0, "nsfw": false}
 {"name": "ashevillegov", "subscribers": 163, "nsfw": false}
 {"name": "ashevillemusic", "subscribers": 1330, "nsfw": false}
 {"name": "ashevillenc", "subscribers": 993, "nsfw": false}
@@ -72557,6 +72558,7 @@
 {"name": "freegrace", "subscribers": 166, "nsfw": false}
 {"name": "freegraphics", "subscribers": 308, "nsfw": false}
 {"name": "freegucci", "subscribers": 212, "nsfw": false}
+{"name": "freehackedpokemon", "subscribers": 0, "nsfw": false}
 {"name": "freehamsandwichday", "subscribers": 0, "nsfw": false}
 {"name": "freehighqualitygifs", "subscribers": 62, "nsfw": false}
 {"name": "freehoes", "subscribers": 53, "nsfw": false}
@@ -149477,6 +149479,7 @@
 {"name": "pokedokuonline", "subscribers": 78, "nsfw": false}
 {"name": "pokedolls", "subscribers": 57, "nsfw": false}
 {"name": "pokedrawbot", "subscribers": 124, "nsfw": false}
+{"name": "pokefake", "subscribers": 0, "nsfw": false}
 {"name": "pokefanart", "subscribers": 56, "nsfw": false}
 {"name": "pokefantasy", "subscribers": 216, "nsfw": false}
 {"name": "pokeferlaxmaid", "subscribers": 18, "nsfw": false}
@@ -149544,6 +149547,7 @@
 {"name": "pokemonblack2", "subscribers": 73, "nsfw": false}
 {"name": "pokemonblackandwhite", "subscribers": 25227, "nsfw": false}
 {"name": "pokemonblackandwhite2", "subscribers": 16984, "nsfw": false}
+{"name": "pokemonbrasil", "subscribers": 0, "nsfw": false}
 {"name": "pokemonbrown", "subscribers": 0, "nsfw": false}
 {"name": "pokemonbuddy", "subscribers": 700, "nsfw": false}
 {"name": "pokemonbushido", "subscribers": 77, "nsfw": false}
@@ -149597,6 +149601,7 @@
 {"name": "pokemonemeraldrogue", "subscribers": 6999, "nsfw": false}
 {"name": "pokemonemeraldseaglas", "subscribers": 660, "nsfw": false}
 {"name": "pokemonersofwicomico", "subscribers": 0, "nsfw": false}
+{"name": "pokemones", "subscribers": 0, "nsfw": false}
 {"name": "pokemones_tcg", "subscribers": 138, "nsfw": false}
 {"name": "pokemonexchange", "subscribers": 0, "nsfw": false}
 {"name": "pokemonexpansion", "subscribers": 11706, "nsfw": false}
@@ -149609,6 +149614,7 @@
 {"name": "pokemonforsale", "subscribers": 151, "nsfw": false}
 {"name": "pokemonfreetrade", "subscribers": 67, "nsfw": false}
 {"name": "pokemonfriendsapp", "subscribers": 735, "nsfw": false}
+{"name": "pokemonfrlg", "subscribers": 0, "nsfw": false}
 {"name": "pokemonfrontier", "subscribers": 214, "nsfw": false}
 {"name": "pokemonfusion", "subscribers": 6057, "nsfw": false}
 {"name": "pokemonfusionart", "subscribers": 0, "nsfw": false}
@@ -149637,6 +149643,7 @@
 {"name": "pokemongo_nepal", "subscribers": 32, "nsfw": false}
 {"name": "pokemongo_nyc", "subscribers": 372, "nsfw": false}
 {"name": "pokemongo_orlando", "subscribers": 2890, "nsfw": false}
+{"name": "pokemongo_singapore", "subscribers": 0, "nsfw": false}
 {"name": "pokemongo_tampere", "subscribers": 34, "nsfw": false}
 {"name": "pokemongo_ucf", "subscribers": 380, "nsfw": false}
 {"name": "pokemongoaccounts", "subscribers": 498, "nsfw": false}
@@ -149673,6 +149680,7 @@
 {"name": "pokemongocomm", "subscribers": 65, "nsfw": false}
 {"name": "pokemongocyprus", "subscribers": 56, "nsfw": false}
 {"name": "pokemongodc", "subscribers": 174, "nsfw": false}
+{"name": "pokemongodenver", "subscribers": 0, "nsfw": false}
 {"name": "pokemongodev", "subscribers": 38638, "nsfw": false}
 {"name": "pokemongoeasttn", "subscribers": 126, "nsfw": false}
 {"name": "pokemongoedinburgh", "subscribers": 798, "nsfw": false}
@@ -149696,6 +149704,7 @@
 {"name": "pokemongoinc", "subscribers": 15, "nsfw": false}
 {"name": "pokemongoindia", "subscribers": 5005, "nsfw": false}
 {"name": "pokemongoivs", "subscribers": 42198, "nsfw": false}
+{"name": "pokemongojapan", "subscribers": 0, "nsfw": false}
 {"name": "pokemongojc", "subscribers": 28, "nsfw": false}
 {"name": "pokemongojerks", "subscribers": 18, "nsfw": false}
 {"name": "pokemongokanata", "subscribers": 58, "nsfw": false}
@@ -149719,6 +149728,8 @@
 {"name": "pokemongoluxembourg", "subscribers": 116, "nsfw": false}
 {"name": "pokemongomalmo", "subscribers": 114, "nsfw": false}
 {"name": "pokemongomanchester", "subscribers": 290, "nsfw": false}
+{"name": "pokemongomemes", "subscribers": 0, "nsfw": false}
+{"name": "pokemongomiddleeast", "subscribers": 0, "nsfw": false}
 {"name": "pokemongomidlands", "subscribers": 225, "nsfw": false}
 {"name": "pokemongomilwaukee", "subscribers": 0, "nsfw": false}
 {"name": "pokemongomississauga", "subscribers": 198, "nsfw": false}
@@ -149730,6 +149741,7 @@
 {"name": "pokemongomorrisco", "subscribers": 84, "nsfw": false}
 {"name": "pokemongompls", "subscribers": 0, "nsfw": false}
 {"name": "pokemongoms", "subscribers": 276, "nsfw": false}
+{"name": "pokemongomy", "subscribers": 0, "nsfw": false}
 {"name": "pokemongomystic", "subscribers": 115672, "nsfw": false}
 {"name": "pokemongomystic_uk", "subscribers": 297, "nsfw": false}
 {"name": "pokemongonashville", "subscribers": 539, "nsfw": false}
@@ -149795,6 +149807,7 @@
 {"name": "pokemongotpe", "subscribers": 80, "nsfw": false}
 {"name": "pokemongotrade", "subscribers": 73285, "nsfw": false}
 {"name": "pokemongoturkey", "subscribers": 482, "nsfw": false}
+{"name": "pokemongotw", "subscribers": 0, "nsfw": false}
 {"name": "pokemongoumea", "subscribers": 74, "nsfw": false}
 {"name": "pokemongovalor", "subscribers": 43169, "nsfw": false}
 {"name": "pokemongowinchester", "subscribers": 18, "nsfw": false}
@@ -149808,6 +149821,7 @@
 {"name": "pokemongroup", "subscribers": 27, "nsfw": false}
 {"name": "pokemonguy001", "subscribers": 3369, "nsfw": false}
 {"name": "pokemonhacks", "subscribers": 16, "nsfw": false}
+{"name": "pokemonhalloffame", "subscribers": 0, "nsfw": false}
 {"name": "pokemonhgss", "subscribers": 29676, "nsfw": false}
 {"name": "pokemonhobbyists", "subscribers": 34, "nsfw": false}
 {"name": "pokemonhome", "subscribers": 100668, "nsfw": false}
@@ -149954,6 +149968,7 @@
 {"name": "pokemontomy", "subscribers": 36, "nsfw": false}
 {"name": "pokemontoomanytypes2", "subscribers": 0, "nsfw": false}
 {"name": "pokemontoys", "subscribers": 925, "nsfw": false}
+{"name": "pokemontrade", "subscribers": 0, "nsfw": false}
 {"name": "pokemontraderooms", "subscribers": 34, "nsfw": false}
 {"name": "pokemontrades", "subscribers": 602855, "nsfw": false}
 {"name": "pokemontradesscarletv", "subscribers": 340, "nsfw": false}
