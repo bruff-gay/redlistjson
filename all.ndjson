@@ -10301,6 +10301,7 @@
 {"name": "animalpolice", "subscribers": 1267, "nsfw": false}
 {"name": "animalporn", "subscribers": 399492, "nsfw": false}
 {"name": "animalpov", "subscribers": 60, "nsfw": false}
+{"name": "animalrebellion", "subscribers": 0, "nsfw": false}
 {"name": "animalreddits", "subscribers": 1685, "nsfw": false}
 {"name": "animalrescue", "subscribers": 11553, "nsfw": false}
 {"name": "animalrestaurant", "subscribers": 36247, "nsfw": false}
@@ -12536,6 +12537,7 @@
 {"name": "aquaticasfuck", "subscribers": 0, "nsfw": false}
 {"name": "aquaticcatfish", "subscribers": 52, "nsfw": false}
 {"name": "aquaticecology", "subscribers": 0, "nsfw": false}
+{"name": "aquaticshowcase", "subscribers": 0, "nsfw": false}
 {"name": "aquaticsnailhelp", "subscribers": 82, "nsfw": false}
 {"name": "aquaticsnails", "subscribers": 69860, "nsfw": false}
 {"name": "aquatik", "subscribers": 15, "nsfw": false}
@@ -48722,6 +48724,7 @@
 {"name": "darihananovaig", "subscribers": 1236, "nsfw": false}
 {"name": "darija", "subscribers": 1410, "nsfw": false}
 {"name": "darinakravchenko", "subscribers": 289, "nsfw": false}
+{"name": "dario", "subscribers": 0, "nsfw": false}
 {"name": "darioargento", "subscribers": 312, "nsfw": false}
 {"name": "darius", "subscribers": 117, "nsfw": false}
 {"name": "darius_kel", "subscribers": 25, "nsfw": false}
@@ -61860,6 +61863,7 @@
 {"name": "environmentalplanning", "subscribers": 212, "nsfw": false}
 {"name": "environmentalpolicy", "subscribers": 0, "nsfw": false}
 {"name": "environmentalscience", "subscribers": 3374, "nsfw": false}
+{"name": "environmentalvegans", "subscribers": 0, "nsfw": false}
 {"name": "environmentnerds", "subscribers": 0, "nsfw": false}
 {"name": "envirositeassessments", "subscribers": 91, "nsfw": false}
 {"name": "envirotech", "subscribers": 6761, "nsfw": false}
@@ -78051,6 +78055,7 @@
 {"name": "girldinner", "subscribers": 48779, "nsfw": false}
 {"name": "girldinnercirclejerk", "subscribers": 0, "nsfw": false}
 {"name": "girldinnerdiaries", "subscribers": 0, "nsfw": false}
+{"name": "girldinnervegan", "subscribers": 0, "nsfw": false}
 {"name": "girlfailureclub", "subscribers": 381, "nsfw": false}
 {"name": "girlfartartwork", "subscribers": 5648, "nsfw": true}
 {"name": "girlfartstories", "subscribers": 16235, "nsfw": true}
@@ -136371,6 +136376,7 @@
 {"name": "nutritionalpsychiatry", "subscribers": 12098, "nsfw": false}
 {"name": "nutritionaltherapy", "subscribers": 129, "nsfw": false}
 {"name": "nutritioncoalition", "subscribers": 433, "nsfw": false}
+{"name": "nutritionfacts", "subscribers": 0, "nsfw": false}
 {"name": "nutritionsupport", "subscribers": 0, "nsfw": false}
 {"name": "nuts4200", "subscribers": 182, "nsfw": false}
 {"name": "nutshack", "subscribers": 581, "nsfw": false}
@@ -148275,6 +148281,7 @@
 {"name": "plantargentina", "subscribers": 38, "nsfw": false}
 {"name": "plantartworks", "subscribers": 1625, "nsfw": false}
 {"name": "plantasbrasil", "subscribers": 0, "nsfw": false}
+{"name": "plantascarnivoras_cp", "subscribers": 0, "nsfw": false}
 {"name": "plantasmedicinales", "subscribers": 0, "nsfw": false}
 {"name": "plantassuculentas_cp", "subscribers": 197, "nsfw": false}
 {"name": "plantbased4theplanet", "subscribers": 8746, "nsfw": false}
@@ -161173,6 +161180,7 @@
 {"name": "ricflair", "subscribers": 229, "nsfw": false}
 {"name": "rich", "subscribers": 149714, "nsfw": false}
 {"name": "rich_gang", "subscribers": 0, "nsfw": false}
+{"name": "rich_roll", "subscribers": 0, "nsfw": false}
 {"name": "richardalleninnocent", "subscribers": 2635, "nsfw": false}
 {"name": "richardandmortimer", "subscribers": 0, "nsfw": false}
 {"name": "richardbenson", "subscribers": 35, "nsfw": false}
@@ -206408,12 +206416,15 @@
 {"name": "vegancringe", "subscribers": 200, "nsfw": false}
 {"name": "vegandating", "subscribers": 2806, "nsfw": false}
 {"name": "vegande", "subscribers": 253343, "nsfw": false}
+{"name": "vegandenmark", "subscribers": 0, "nsfw": false}
 {"name": "vegandepressionmeals", "subscribers": 250, "nsfw": false}
 {"name": "vegandinnernight", "subscribers": 32, "nsfw": false}
+{"name": "vegandoctors", "subscribers": 0, "nsfw": false}
 {"name": "vegandogadvice", "subscribers": 14, "nsfw": false}
 {"name": "veganendurance", "subscribers": 75, "nsfw": false}
 {"name": "veganestonia", "subscribers": 57, "nsfw": false}
 {"name": "veganetfrancophone", "subscribers": 0, "nsfw": false}
+{"name": "veganexchange", "subscribers": 0, "nsfw": false}
 {"name": "veganextremism", "subscribers": 25, "nsfw": false}
 {"name": "veganfacepalm", "subscribers": 26, "nsfw": false}
 {"name": "veganfashion", "subscribers": 3077, "nsfw": false}
@@ -209503,6 +209514,7 @@
 {"name": "walouijaouija", "subscribers": 51, "nsfw": false}
 {"name": "walrus", "subscribers": 1366, "nsfw": false}
 {"name": "walshfamilysnark", "subscribers": 5654, "nsfw": false}
+{"name": "walstad", "subscribers": 0, "nsfw": false}
 {"name": "walstadtanks", "subscribers": 0, "nsfw": false}
 {"name": "walstreetbettors", "subscribers": 335, "nsfw": false}
 {"name": "waltdisney", "subscribers": 67, "nsfw": false}
