@@ -5688,6 +5688,7 @@
 {"name": "ai_trans", "subscribers": 21462, "nsfw": true}
 {"name": "ai_travel_tips", "subscribers": 746, "nsfw": false}
 {"name": "ai_uehara", "subscribers": 42659, "nsfw": true}
+{"name": "ai_ugc_marketing", "subscribers": 0, "nsfw": false}
 {"name": "ai_videogenerator", "subscribers": 1122, "nsfw": false}
 {"name": "ai_waifu_trainer", "subscribers": 470, "nsfw": false}
 {"name": "aiactions", "subscribers": 85, "nsfw": false}
@@ -56380,6 +56381,7 @@
 {"name": "dothemario", "subscribers": 106, "nsfw": false}
 {"name": "dothemath", "subscribers": 454, "nsfw": false}
 {"name": "dothesmol", "subscribers": 34, "nsfw": false}
+{"name": "dotlol", "subscribers": 0, "nsfw": false}
 {"name": "dotnet", "subscribers": 214925, "nsfw": false}
 {"name": "dotnetjobs", "subscribers": 3785, "nsfw": false}
 {"name": "dotnetmakers", "subscribers": 24, "nsfw": false}
@@ -124707,6 +124709,7 @@
 {"name": "mintdiscs", "subscribers": 898, "nsfw": false}
 {"name": "mintfantome", "subscribers": 6856, "nsfw": false}
 {"name": "mintlayer", "subscribers": 0, "nsfw": false}
+{"name": "mintlify_official", "subscribers": 0, "nsfw": false}
 {"name": "mintmobile", "subscribers": 49588, "nsfw": false}
 {"name": "mintmobilecodes", "subscribers": 14, "nsfw": false}
 {"name": "mintmobilereferrals", "subscribers": 2109, "nsfw": false}
@@ -167115,6 +167118,7 @@
 {"name": "saassales", "subscribers": 19014, "nsfw": false}
 {"name": "saasselection", "subscribers": 0, "nsfw": false}
 {"name": "saassignal", "subscribers": 0, "nsfw": false}
+{"name": "saassolopreneurs", "subscribers": 0, "nsfw": false}
 {"name": "saasstartupnetwork", "subscribers": 137, "nsfw": false}
 {"name": "saasvalidation", "subscribers": 38, "nsfw": false}
 {"name": "saasy_msp_community", "subscribers": 64, "nsfw": false}
@@ -204468,6 +204472,7 @@
 {"name": "u_reflectrise", "subscribers": 0, "nsfw": false}
 {"name": "u_regular_age9012", "subscribers": 0, "nsfw": false}
 {"name": "u_regular_stuff_4846", "subscribers": 0, "nsfw": false}
+{"name": "u_rejectmodders", "subscribers": 0, "nsfw": false}
 {"name": "u_remoraidfannumber1", "subscribers": 0, "nsfw": false}
 {"name": "u_repulsive_toe_4351", "subscribers": 0, "nsfw": false}
 {"name": "u_resident_chip935", "subscribers": 0, "nsfw": false}
