@@ -24734,6 +24734,7 @@
 {"name": "bjorkcirclejerk", "subscribers": 1762, "nsfw": false}
 {"name": "bjp_delhi", "subscribers": 0, "nsfw": false}
 {"name": "bjp_maharashtra", "subscribers": 0, "nsfw": false}
+{"name": "bjpindia", "subscribers": 0, "nsfw": false}
 {"name": "bjuv", "subscribers": 23, "nsfw": false}
 {"name": "bk8_forum", "subscribers": 383, "nsfw": false}
 {"name": "bkart", "subscribers": 0, "nsfw": false}
@@ -35879,6 +35880,7 @@
 {"name": "championshipfc", "subscribers": 32, "nsfw": false}
 {"name": "championshiphistory", "subscribers": 0, "nsfw": false}
 {"name": "championshipmanagers", "subscribers": 720, "nsfw": false}
+{"name": "championshiprl", "subscribers": 0, "nsfw": false}
 {"name": "championsleague", "subscribers": 933120, "nsfw": false}
 {"name": "championsofreddit", "subscribers": 0, "nsfw": false}
 {"name": "championsofswords", "subscribers": 28, "nsfw": false}
@@ -44230,6 +44232,7 @@
 {"name": "courseharbor", "subscribers": 73, "nsfw": false}
 {"name": "coursehero_", "subscribers": 383, "nsfw": false}
 {"name": "courseheroanswer", "subscribers": 151, "nsfw": false}
+{"name": "coursehubforum", "subscribers": 0, "nsfw": false}
 {"name": "coursera", "subscribers": 33036, "nsfw": false}
 {"name": "courserafreebies", "subscribers": 0, "nsfw": false}
 {"name": "coursereviewsindia", "subscribers": 94, "nsfw": false}
@@ -81214,6 +81217,7 @@
 {"name": "gozneydome", "subscribers": 7968, "nsfw": false}
 {"name": "gozo", "subscribers": 0, "nsfw": false}
 {"name": "gozuu", "subscribers": 23, "nsfw": false}
+{"name": "gp100", "subscribers": 0, "nsfw": false}
 {"name": "gp5", "subscribers": 0, "nsfw": false}
 {"name": "gpad", "subscribers": 1880, "nsfw": false}
 {"name": "gparkdev", "subscribers": 106, "nsfw": false}
@@ -83494,6 +83498,7 @@
 {"name": "gunpolitics", "subscribers": 126148, "nsfw": false}
 {"name": "gunporn", "subscribers": 263121, "nsfw": false}
 {"name": "gunrades", "subscribers": 14, "nsfw": false}
+{"name": "gunrandoms", "subscribers": 0, "nsfw": false}
 {"name": "gunresearch", "subscribers": 0, "nsfw": false}
 {"name": "gunreviews", "subscribers": 0, "nsfw": false}
 {"name": "gunrights", "subscribers": 0, "nsfw": false}
@@ -109183,6 +109188,7 @@
 {"name": "learnrag", "subscribers": 14, "nsfw": false}
 {"name": "learnreactjs", "subscribers": 8386, "nsfw": false}
 {"name": "learnrstats", "subscribers": 783, "nsfw": false}
+{"name": "learnrubyonrails", "subscribers": 0, "nsfw": false}
 {"name": "learnrussian", "subscribers": 27434, "nsfw": false}
 {"name": "learnrust", "subscribers": 0, "nsfw": false}
 {"name": "learnsaudidialect", "subscribers": 0, "nsfw": false}
@@ -122264,6 +122270,8 @@
 {"name": "methodist", "subscribers": 0, "nsfw": false}
 {"name": "methodologyguide", "subscribers": 34, "nsfw": false}
 {"name": "methodsforfreedom69", "subscribers": 130, "nsfw": false}
+{"name": "methodsontels", "subscribers": 0, "nsfw": false}
+{"name": "methodszz", "subscribers": 0, "nsfw": false}
 {"name": "methodvpn", "subscribers": 0, "nsfw": false}
 {"name": "methouija", "subscribers": 81, "nsfw": false}
 {"name": "methpictures", "subscribers": 2089, "nsfw": false}
@@ -128511,6 +128519,7 @@
 {"name": "mrpolskamemes", "subscribers": 123, "nsfw": false}
 {"name": "mrpotatotoken", "subscribers": 64, "nsfw": false}
 {"name": "mrpresident", "subscribers": 64, "nsfw": false}
+{"name": "mrpromotion", "subscribers": 0, "nsfw": false}
 {"name": "mrpug_submission", "subscribers": 18, "nsfw": false}
 {"name": "mrpuzzlesfanclub", "subscribers": 213, "nsfw": false}
 {"name": "mrpw", "subscribers": 0, "nsfw": false}
@@ -143588,6 +143597,7 @@
 {"name": "owlbearrodeo", "subscribers": 8960, "nsfw": false}
 {"name": "owlberry", "subscribers": 16, "nsfw": false}
 {"name": "owlboy", "subscribers": 1465, "nsfw": false}
+{"name": "owlcatgames", "subscribers": 0, "nsfw": false}
 {"name": "owlcity", "subscribers": 12703, "nsfw": false}
 {"name": "owlcitymemes", "subscribers": 94, "nsfw": false}
 {"name": "owlerart", "subscribers": 119, "nsfw": false}
@@ -154912,6 +154922,7 @@
 {"name": "promoter_bell", "subscribers": 34, "nsfw": false}
 {"name": "promotereddit", "subscribers": 21250, "nsfw": false}
 {"name": "promoteredditt", "subscribers": 259, "nsfw": false}
+{"name": "promotesite", "subscribers": 0, "nsfw": false}
 {"name": "promotesolanacoins", "subscribers": 112, "nsfw": false}
 {"name": "promoteyourbook", "subscribers": 0, "nsfw": false}
 {"name": "promoteyourclothing", "subscribers": 3826, "nsfw": false}
@@ -166274,21 +166285,26 @@
 {"name": "rugbyunitedny", "subscribers": 0, "nsfw": false}
 {"name": "rugbywrapup", "subscribers": 1867, "nsfw": false}
 {"name": "rugc", "subscribers": 1157, "nsfw": false}
+{"name": "rugc_europe", "subscribers": 0, "nsfw": false}
 {"name": "rugc_europedrama", "subscribers": 25, "nsfw": false}
 {"name": "rugc_india", "subscribers": 143, "nsfw": false}
 {"name": "rugc_mvm", "subscribers": 24, "nsfw": false}
 {"name": "rugenerous", "subscribers": 64, "nsfw": false}
 {"name": "ruger", "subscribers": 0, "nsfw": false}
+{"name": "ruger_american", "subscribers": 0, "nsfw": false}
 {"name": "ruger_rxm_", "subscribers": 0, "nsfw": false}
 {"name": "ruger_vaquero", "subscribers": 46, "nsfw": false}
 {"name": "rugerguns", "subscribers": 62, "nsfw": false}
+{"name": "rugerlcpmax", "subscribers": 0, "nsfw": false}
 {"name": "rugermk", "subscribers": 4824, "nsfw": false}
 {"name": "rugerpcc", "subscribers": 1547, "nsfw": false}
 {"name": "rugerprecisionrifle", "subscribers": 2119, "nsfw": false}
+{"name": "rugerprecisionrimfire", "subscribers": 0, "nsfw": false}
 {"name": "rugerrxmtalk", "subscribers": 889, "nsfw": false}
 {"name": "ruggable", "subscribers": 625, "nsfw": false}
 {"name": "rugged", "subscribers": 73, "nsfw": false}
 {"name": "ruggedlaptops", "subscribers": 149, "nsfw": false}
+{"name": "ruggedlyhansom", "subscribers": 0, "nsfw": false}
 {"name": "ruggedmountainrc", "subscribers": 0, "nsfw": false}
 {"name": "ruggedphones", "subscribers": 0, "nsfw": false}
 {"name": "ruggedrosaries", "subscribers": 76, "nsfw": false}
@@ -190713,6 +190729,7 @@
 {"name": "tf2fashionadvice", "subscribers": 76588, "nsfw": false}
 {"name": "tf2freaks", "subscribers": 282, "nsfw": false}
 {"name": "tf2hungary", "subscribers": 38, "nsfw": false}
+{"name": "tf2india", "subscribers": 0, "nsfw": false}
 {"name": "tf2legowepons", "subscribers": 63, "nsfw": false}
 {"name": "tf2lessons", "subscribers": 0, "nsfw": false}
 {"name": "tf2lft", "subscribers": 0, "nsfw": false}
@@ -204673,6 +204690,7 @@
 {"name": "u_the_llab_rat", "subscribers": 0, "nsfw": false}
 {"name": "u_the_minion_queen", "subscribers": 0, "nsfw": false}
 {"name": "u_thealqyngh", "subscribers": 0, "nsfw": false}
+{"name": "u_thealwayswar", "subscribers": 0, "nsfw": false}
 {"name": "u_theandreasengroup", "subscribers": 0, "nsfw": false}
 {"name": "u_theauslofficial", "subscribers": 0, "nsfw": false}
 {"name": "u_thebesttripsitter", "subscribers": 0, "nsfw": false}
@@ -218785,6 +218803,7 @@
 {"name": "wroteathing", "subscribers": 0, "nsfw": false}
 {"name": "wrpg", "subscribers": 0, "nsfw": false}
 {"name": "wrtmerlin", "subscribers": 13, "nsfw": false}
+{"name": "wrugby", "subscribers": 0, "nsfw": false}
 {"name": "wrx", "subscribers": 10000, "nsfw": false}
 {"name": "wrx_sti", "subscribers": 0, "nsfw": false}
 {"name": "wrx_va", "subscribers": 229, "nsfw": false}
