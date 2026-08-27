@@ -68312,6 +68312,7 @@
 {"name": "fictionalbackstory", "subscribers": 153, "nsfw": false}
 {"name": "fictionalballs", "subscribers": 16, "nsfw": false}
 {"name": "fictionalcharacters", "subscribers": 80, "nsfw": false}
+{"name": "fictionaldebate", "subscribers": 0, "nsfw": false}
 {"name": "fictionalfloorplans", "subscribers": 9648, "nsfw": false}
 {"name": "fictionalfutures", "subscribers": 11, "nsfw": false}
 {"name": "fictionalideologies", "subscribers": 30, "nsfw": false}
@@ -84182,6 +84183,7 @@
 {"name": "hackfortress", "subscribers": 131, "nsfw": false}
 {"name": "hacking", "subscribers": 2865271, "nsfw": false}
 {"name": "hacking1990", "subscribers": 38, "nsfw": false}
+{"name": "hacking_ethically", "subscribers": 0, "nsfw": false}
 {"name": "hacking_tricks", "subscribers": 48356, "nsfw": false}
 {"name": "hacking_tutorials", "subscribers": 380994, "nsfw": false}
 {"name": "hackingbooks", "subscribers": 369, "nsfw": false}
@@ -101987,6 +101989,7 @@
 {"name": "jungletherapy", "subscribers": 88, "nsfw": false}
 {"name": "jungletv", "subscribers": 262, "nsfw": false}
 {"name": "jungsis", "subscribers": 0, "nsfw": false}
+{"name": "junhyoseong", "subscribers": 0, "nsfw": false}
 {"name": "juni", "subscribers": 20, "nsfw": false}
 {"name": "juniahot", "subscribers": 273, "nsfw": false}
 {"name": "juniel", "subscribers": 52, "nsfw": false}
@@ -142259,6 +142262,7 @@
 {"name": "opentf", "subscribers": 775, "nsfw": false}
 {"name": "opentheinternet", "subscribers": 0, "nsfw": false}
 {"name": "opentheism", "subscribers": 46, "nsfw": false}
+{"name": "opentoallctfteam", "subscribers": 0, "nsfw": false}
 {"name": "opentofu", "subscribers": 962, "nsfw": false}
 {"name": "opentoonz", "subscribers": 8549, "nsfw": false}
 {"name": "opentracks", "subscribers": 225, "nsfw": false}
@@ -152937,6 +152941,7 @@
 {"name": "portableaudio", "subscribers": 77, "nsfw": false}
 {"name": "portableav_jp", "subscribers": 0, "nsfw": false}
 {"name": "portablebatterypacks", "subscribers": 267, "nsfw": false}
+{"name": "portableholephysics", "subscribers": 0, "nsfw": false}
 {"name": "portablekitchengrills", "subscribers": 1837, "nsfw": false}
 {"name": "portablepowerstation", "subscribers": 0, "nsfw": false}
 {"name": "portablespeakers", "subscribers": 0, "nsfw": false}
@@ -171266,6 +171271,7 @@
 {"name": "secretpalace", "subscribers": 0, "nsfw": false}
 {"name": "secretpasswords", "subscribers": 28, "nsfw": false}
 {"name": "secretponchos", "subscribers": 225, "nsfw": false}
+{"name": "secretproofofconcept", "subscribers": 0, "nsfw": false}
 {"name": "secretreddits", "subscribers": 1628, "nsfw": false}
 {"name": "secretrobinfamily", "subscribers": 16, "nsfw": false}
 {"name": "secretsaiofficial", "subscribers": 54, "nsfw": false}
@@ -171299,7 +171305,9 @@
 {"name": "sectamoa", "subscribers": 17, "nsfw": false}
 {"name": "section10podcast", "subscribers": 12377, "nsfw": false}
 {"name": "section8listshoppers", "subscribers": 1390, "nsfw": false}
+{"name": "section8openings", "subscribers": 0, "nsfw": false}
 {"name": "section8publichousing", "subscribers": 4902, "nsfw": false}
+{"name": "section8waitinglist", "subscribers": 0, "nsfw": false}
 {"name": "sectionimemes", "subscribers": 21, "nsfw": false}
 {"name": "sectionobscure", "subscribers": 55, "nsfw": false}
 {"name": "sections", "subscribers": 1047, "nsfw": false}
@@ -193838,6 +193846,7 @@
 {"name": "thehubhub", "subscribers": 57, "nsfw": false}
 {"name": "thehuhtoken", "subscribers": 157, "nsfw": false}
 {"name": "thehumanexperiment", "subscribers": 0, "nsfw": false}
+{"name": "thehumanistreport", "subscribers": 0, "nsfw": false}
 {"name": "thehumanlibrary", "subscribers": 24, "nsfw": false}
 {"name": "thehumanprimate", "subscribers": 25, "nsfw": false}
 {"name": "thehumanrocket", "subscribers": 0, "nsfw": false}
@@ -203180,6 +203189,7 @@
 {"name": "twitchstreams", "subscribers": 62391, "nsfw": false}
 {"name": "twitchstudio", "subscribers": 209, "nsfw": false}
 {"name": "twitchswitch", "subscribers": 265, "nsfw": false}
+{"name": "twitchtown", "subscribers": 0, "nsfw": false}
 {"name": "twitchtr", "subscribers": 127, "nsfw": false}
 {"name": "twitchtvfails", "subscribers": 29, "nsfw": false}
 {"name": "twitfeed", "subscribers": 28, "nsfw": false}
@@ -204231,6 +204241,7 @@
 {"name": "u_garlicpale3803", "subscribers": 0, "nsfw": false}
 {"name": "u_gauchowater1993", "subscribers": 0, "nsfw": false}
 {"name": "u_gb10031", "subscribers": 0, "nsfw": false}
+{"name": "u_gca_security", "subscribers": 0, "nsfw": false}
 {"name": "u_gcbrownbooks", "subscribers": 0, "nsfw": false}
 {"name": "u_gearx0", "subscribers": 0, "nsfw": false}
 {"name": "u_gegenautogewalt", "subscribers": 0, "nsfw": false}
@@ -209526,6 +209537,7 @@
 {"name": "v33", "subscribers": 21, "nsfw": false}
 {"name": "v45", "subscribers": 63, "nsfw": false}
 {"name": "v4mirai", "subscribers": 43, "nsfw": false}
+{"name": "v4vlt", "subscribers": 0, "nsfw": false}
 {"name": "v60", "subscribers": 3247, "nsfw": false}
 {"name": "v8supercars", "subscribers": 72768, "nsfw": false}
 {"name": "v8superdank", "subscribers": 306, "nsfw": false}
