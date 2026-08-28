@@ -26784,6 +26784,7 @@
 {"name": "bocose", "subscribers": 0, "nsfw": false}
 {"name": "bodacoin", "subscribers": 742, "nsfw": false}
 {"name": "bodega", "subscribers": 0, "nsfw": false}
+{"name": "bodega_band", "subscribers": 0, "nsfw": false}
 {"name": "bodegaboys", "subscribers": 32216, "nsfw": false}
 {"name": "bodegacats", "subscribers": 62129, "nsfw": false}
 {"name": "bodegajukebox", "subscribers": 4946, "nsfw": false}
@@ -85117,6 +85118,7 @@
 {"name": "halloweencats", "subscribers": 545, "nsfw": false}
 {"name": "halloweencostume", "subscribers": 17068, "nsfw": false}
 {"name": "halloweencountdown", "subscribers": 2376, "nsfw": false}
+{"name": "halloweendays", "subscribers": 0, "nsfw": false}
 {"name": "halloweendecor", "subscribers": 0, "nsfw": false}
 {"name": "halloweendecorations", "subscribers": 767, "nsfw": false}
 {"name": "halloweenhardcore", "subscribers": 0, "nsfw": false}
@@ -89040,6 +89042,7 @@
 {"name": "hockeyallsvenskan", "subscribers": 0, "nsfw": false}
 {"name": "hockeybot", "subscribers": 0, "nsfw": false}
 {"name": "hockeycanada", "subscribers": 98, "nsfw": false}
+{"name": "hockeycardappraisals", "subscribers": 0, "nsfw": false}
 {"name": "hockeycards", "subscribers": 49396, "nsfw": false}
 {"name": "hockeycardswap", "subscribers": 4955, "nsfw": false}
 {"name": "hockeycirclejerk", "subscribers": 0, "nsfw": false}
@@ -131616,6 +131619,7 @@
 {"name": "mysteryinc", "subscribers": 206, "nsfw": false}
 {"name": "mysterymagicmushrooms", "subscribers": 3835, "nsfw": false}
 {"name": "mysterymedia", "subscribers": 8852, "nsfw": false}
+{"name": "mysterynibbles", "subscribers": 0, "nsfw": false}
 {"name": "mysteryobject", "subscribers": 148, "nsfw": false}
 {"name": "mysteryoftheemblem", "subscribers": 38, "nsfw": false}
 {"name": "mysteryportal", "subscribers": 0, "nsfw": false}
@@ -182408,6 +182412,7 @@
 {"name": "spooksandnukes", "subscribers": 342, "nsfw": false}
 {"name": "spookshelf", "subscribers": 77, "nsfw": false}
 {"name": "spooktober", "subscribers": 77598, "nsfw": false}
+{"name": "spooky_month_ocs", "subscribers": 0, "nsfw": false}
 {"name": "spooky_stories", "subscribers": 16442, "nsfw": false}
 {"name": "spookyandstrange", "subscribers": 28, "nsfw": false}
 {"name": "spookyboxswap", "subscribers": 419, "nsfw": false}
@@ -182443,6 +182448,7 @@
 {"name": "spop", "subscribers": 159078, "nsfw": false}
 {"name": "sporcle", "subscribers": 5393, "nsfw": false}
 {"name": "spore", "subscribers": 50568, "nsfw": false}
+{"name": "sporecontest", "subscribers": 0, "nsfw": false}
 {"name": "sporegame", "subscribers": 0, "nsfw": false}
 {"name": "sporelore", "subscribers": 20, "nsfw": false}
 {"name": "sporememes", "subscribers": 199, "nsfw": false}
@@ -202164,6 +202170,7 @@
 {"name": "traprequests", "subscribers": 172, "nsfw": false}
 {"name": "traps", "subscribers": 1646031, "nsfw": true}
 {"name": "trapsgonewild", "subscribers": 397545, "nsfw": true}
+{"name": "trapshooting", "subscribers": 0, "nsfw": false}
 {"name": "trapstarreps", "subscribers": 8655, "nsfw": false}
 {"name": "trapstories", "subscribers": 553, "nsfw": false}
 {"name": "traralgon", "subscribers": 168, "nsfw": false}
