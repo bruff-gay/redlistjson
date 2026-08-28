@@ -20141,6 +20141,7 @@
 {"name": "baseballbot", "subscribers": 16, "nsfw": false}
 {"name": "baseballcard", "subscribers": 1124, "nsfw": false}
 {"name": "baseballcards", "subscribers": 0, "nsfw": false}
+{"name": "baseballcards101", "subscribers": 0, "nsfw": false}
 {"name": "baseballcards_vintage", "subscribers": 12373, "nsfw": false}
 {"name": "baseballcardscanada", "subscribers": 480, "nsfw": false}
 {"name": "baseballcardsforsale", "subscribers": 2417, "nsfw": false}
@@ -20275,6 +20276,7 @@
 {"name": "basketballanalytics", "subscribers": 102, "nsfw": false}
 {"name": "basketballandwnbahots", "subscribers": 659, "nsfw": false}
 {"name": "basketballbabescj", "subscribers": 4701, "nsfw": false}
+{"name": "basketballbooks", "subscribers": 0, "nsfw": false}
 {"name": "basketballcardcollect", "subscribers": 143, "nsfw": false}
 {"name": "basketballcardmarket", "subscribers": 355, "nsfw": false}
 {"name": "basketballcards", "subscribers": 98657, "nsfw": false}
@@ -21818,6 +21820,7 @@
 {"name": "beginnerrunning", "subscribers": 100652, "nsfw": false}
 {"name": "beginnersart", "subscribers": 57, "nsfw": false}
 {"name": "beginnerskateboarding", "subscribers": 8297, "nsfw": false}
+{"name": "beginnersportscards", "subscribers": 0, "nsfw": false}
 {"name": "beginnersrunning", "subscribers": 31698, "nsfw": false}
 {"name": "beginnersurfers", "subscribers": 27667, "nsfw": false}
 {"name": "beginnerwitch", "subscribers": 741, "nsfw": false}
@@ -26519,6 +26522,7 @@
 {"name": "bmw_f31", "subscribers": 1112, "nsfw": false}
 {"name": "bmw_f650cs", "subscribers": 78, "nsfw": false}
 {"name": "bmw_m", "subscribers": 0, "nsfw": false}
+{"name": "bmw_motorsport", "subscribers": 0, "nsfw": false}
 {"name": "bmw_romania", "subscribers": 25, "nsfw": false}
 {"name": "bmw_s1000rr", "subscribers": 5087, "nsfw": false}
 {"name": "bmwbefore2000", "subscribers": 14, "nsfw": false}
@@ -33276,6 +33280,7 @@
 {"name": "cardinalquest2", "subscribers": 342, "nsfw": false}
 {"name": "cardinalregimentvi", "subscribers": 0, "nsfw": false}
 {"name": "cardinals", "subscribers": 0, "nsfw": false}
+{"name": "cardinalscards", "subscribers": 0, "nsfw": false}
 {"name": "cardinalsfbb", "subscribers": 38, "nsfw": false}
 {"name": "cardinalsgonewild", "subscribers": 104, "nsfw": false}
 {"name": "cardinalsmoviereviews", "subscribers": 35, "nsfw": false}
@@ -57163,6 +57168,7 @@
 {"name": "draftfactory", "subscribers": 0, "nsfw": false}
 {"name": "drafting", "subscribers": 2456, "nsfw": false}
 {"name": "draftingprofessionals", "subscribers": 735, "nsfw": false}
+{"name": "draftkings", "subscribers": 0, "nsfw": false}
 {"name": "draftkingsbets", "subscribers": 12160, "nsfw": false}
 {"name": "draftkingsdiscussion", "subscribers": 33296, "nsfw": false}
 {"name": "draftleague", "subscribers": 30, "nsfw": false}
@@ -69428,6 +69434,7 @@
 {"name": "findapathover30", "subscribers": 0, "nsfw": false}
 {"name": "findapost", "subscribers": 1700, "nsfw": false}
 {"name": "findareddit", "subscribers": 603257, "nsfw": false}
+{"name": "findareferralcode", "subscribers": 0, "nsfw": false}
 {"name": "findaroominkathmandu", "subscribers": 0, "nsfw": false}
 {"name": "findaserver", "subscribers": 22839, "nsfw": false}
 {"name": "findasinger", "subscribers": 63, "nsfw": false}
@@ -70232,6 +70239,7 @@
 {"name": "fiveyearsatfreddys", "subscribers": 0, "nsfw": false}
 {"name": "fiveyearsoffw", "subscribers": 0, "nsfw": false}
 {"name": "fivioforeign", "subscribers": 551, "nsfw": false}
+{"name": "fixed_matchesonreddit", "subscribers": 0, "nsfw": false}
 {"name": "fixedbytheduet", "subscribers": 555815, "nsfw": false}
 {"name": "fixedbytheduets", "subscribers": 5473, "nsfw": false}
 {"name": "fixedeyebrows", "subscribers": 27622, "nsfw": false}
@@ -71702,6 +71710,7 @@
 {"name": "footballheadcoach", "subscribers": 35, "nsfw": false}
 {"name": "footballhighlights", "subscribers": 255246, "nsfw": false}
 {"name": "footballjerseys", "subscribers": 2836, "nsfw": false}
+{"name": "footballjockstraps", "subscribers": 0, "nsfw": false}
 {"name": "footballjokes", "subscribers": 64, "nsfw": false}
 {"name": "footballkits", "subscribers": 2652, "nsfw": false}
 {"name": "footballlegacymanager", "subscribers": 595, "nsfw": false}
@@ -73705,6 +73714,7 @@
 {"name": "fredericksburgfoodies", "subscribers": 110, "nsfw": false}
 {"name": "fredericksburghousing", "subscribers": 105, "nsfw": false}
 {"name": "fredericksburgtexas", "subscribers": 782, "nsfw": false}
+{"name": "fredericksburgva", "subscribers": 0, "nsfw": false}
 {"name": "frederickthegreat", "subscribers": 24, "nsfw": false}
 {"name": "fredericlore", "subscribers": 503, "nsfw": false}
 {"name": "fredericton", "subscribers": 28345, "nsfw": false}
@@ -120697,6 +120707,7 @@
 {"name": "mbagmat", "subscribers": 3290, "nsfw": false}
 {"name": "mbaindia", "subscribers": 17035, "nsfw": false}
 {"name": "mbaphotoshops", "subscribers": 36, "nsfw": false}
+{"name": "mbappe", "subscribers": 0, "nsfw": false}
 {"name": "mbarrr", "subscribers": 0, "nsfw": false}
 {"name": "mbaswhocode", "subscribers": 1364, "nsfw": false}
 {"name": "mbauto", "subscribers": 0, "nsfw": false}
@@ -127213,6 +127224,7 @@
 {"name": "moderationhell", "subscribers": 94, "nsfw": false}
 {"name": "moderationlog", "subscribers": 0, "nsfw": false}
 {"name": "moderationmediation", "subscribers": 0, "nsfw": false}
+{"name": "moderationporn", "subscribers": 0, "nsfw": false}
 {"name": "moderationseverywhere", "subscribers": 0, "nsfw": false}
 {"name": "moderationtheory", "subscribers": 0, "nsfw": false}
 {"name": "moderator", "subscribers": 0, "nsfw": false}
@@ -134812,6 +134824,7 @@
 {"name": "newsaroundyou", "subscribers": 0, "nsfw": false}
 {"name": "newsatoz", "subscribers": 55, "nsfw": false}
 {"name": "newsaware", "subscribers": 0, "nsfw": false}
+{"name": "newsbabes", "subscribers": 0, "nsfw": false}
 {"name": "newsbeamer", "subscribers": 99, "nsfw": false}
 {"name": "newsboat", "subscribers": 141, "nsfw": false}
 {"name": "newsbr", "subscribers": 175, "nsfw": false}
@@ -154118,6 +154131,7 @@
 {"name": "positive_news", "subscribers": 0, "nsfw": false}
 {"name": "positiveanime", "subscribers": 33, "nsfw": false}
 {"name": "positiveartzz", "subscribers": 14, "nsfw": false}
+{"name": "positiveevbetting", "subscribers": 0, "nsfw": false}
 {"name": "positivefortnitebr", "subscribers": 16, "nsfw": false}
 {"name": "positivegrid", "subscribers": 0, "nsfw": false}
 {"name": "positiveindians", "subscribers": 0, "nsfw": false}
@@ -154877,6 +154891,7 @@
 {"name": "prednisonesideeffects", "subscribers": 499, "nsfw": false}
 {"name": "predprey", "subscribers": 12089, "nsfw": false}
 {"name": "predscirclejerk", "subscribers": 0, "nsfw": false}
+{"name": "predsports", "subscribers": 0, "nsfw": false}
 {"name": "preeclampsia", "subscribers": 4548, "nsfw": false}
 {"name": "preemsfsbp", "subscribers": 63, "nsfw": false}
 {"name": "preetikaursexig", "subscribers": 199, "nsfw": false}
@@ -159143,6 +159158,7 @@
 {"name": "racinecountyjanedoe", "subscribers": 314, "nsfw": false}
 {"name": "racing", "subscribers": 0, "nsfw": false}
 {"name": "racing_bets", "subscribers": 0, "nsfw": false}
+{"name": "racingcarryovers", "subscribers": 0, "nsfw": false}
 {"name": "racingclub", "subscribers": 1375, "nsfw": false}
 {"name": "racingf1ction", "subscribers": 193, "nsfw": false}
 {"name": "racinggames", "subscribers": 0, "nsfw": false}
@@ -161483,6 +161499,7 @@
 {"name": "realworlduse", "subscribers": 213, "nsfw": false}
 {"name": "realwwfera", "subscribers": 0, "nsfw": false}
 {"name": "realxboxfans", "subscribers": 30, "nsfw": false}
+{"name": "realxl", "subscribers": 0, "nsfw": false}
 {"name": "realzombiecatchers", "subscribers": 78, "nsfw": false}
 {"name": "realzoo", "subscribers": 723, "nsfw": false}
 {"name": "reamexaph", "subscribers": 20, "nsfw": false}
@@ -162630,6 +162647,7 @@
 {"name": "redrobins", "subscribers": 0, "nsfw": false}
 {"name": "redrocks", "subscribers": 12231, "nsfw": false}
 {"name": "reds", "subscribers": 0, "nsfw": false}
+{"name": "redsbaseballcards", "subscribers": 0, "nsfw": false}
 {"name": "redscare", "subscribers": 0, "nsfw": false}
 {"name": "redscare_exiles", "subscribers": 0, "nsfw": false}
 {"name": "redscarearts", "subscribers": 983, "nsfw": false}
@@ -164368,6 +164386,7 @@
 {"name": "reversedgifs", "subscribers": 17249, "nsfw": false}
 {"name": "reverseengineering", "subscribers": 0, "nsfw": false}
 {"name": "reversegif", "subscribers": 61258, "nsfw": false}
+{"name": "reversegrid", "subscribers": 0, "nsfw": false}
 {"name": "reverseharem", "subscribers": 0, "nsfw": false}
 {"name": "reverseharems", "subscribers": 119, "nsfw": false}
 {"name": "reversejif", "subscribers": 0, "nsfw": false}
@@ -180896,6 +180915,7 @@
 {"name": "soundcloudhiphop", "subscribers": 18391, "nsfw": false}
 {"name": "soundcloudia", "subscribers": 105, "nsfw": false}
 {"name": "soundcloudmusic", "subscribers": 5208, "nsfw": false}
+{"name": "soundcloudplaylist", "subscribers": 0, "nsfw": false}
 {"name": "soundcloudplaylists", "subscribers": 77, "nsfw": false}
 {"name": "soundcloudpromotion", "subscribers": 0, "nsfw": false}
 {"name": "soundcloudpromotions", "subscribers": 3997, "nsfw": false}
@@ -182498,6 +182518,7 @@
 {"name": "sportrecife", "subscribers": 4344, "nsfw": false}
 {"name": "sports", "subscribers": 0, "nsfw": false}
 {"name": "sports_blogs", "subscribers": 0, "nsfw": false}
+{"name": "sports_business", "subscribers": 0, "nsfw": false}
 {"name": "sports_memorabilia", "subscribers": 106, "nsfw": false}
 {"name": "sports_memories", "subscribers": 66, "nsfw": false}
 {"name": "sports_outdoors", "subscribers": 274, "nsfw": false}
@@ -182524,10 +182545,13 @@
 {"name": "sportsbettingpicks", "subscribers": 14891, "nsfw": false}
 {"name": "sportsbettingpicks1", "subscribers": 16362, "nsfw": false}
 {"name": "sportsbettingsmart", "subscribers": 407, "nsfw": false}
+{"name": "sportsbettingsystems", "subscribers": 0, "nsfw": false}
 {"name": "sportsbettingzone", "subscribers": 0, "nsfw": false}
 {"name": "sportsbiz", "subscribers": 72, "nsfw": false}
+{"name": "sportsblogs", "subscribers": 0, "nsfw": false}
 {"name": "sportsbook", "subscribers": 530648, "nsfw": false}
 {"name": "sportsbook__reddit", "subscribers": 0, "nsfw": false}
+{"name": "sportsbookextra", "subscribers": 0, "nsfw": false}
 {"name": "sportsbookpromos", "subscribers": 119, "nsfw": false}
 {"name": "sportsbookreferrals", "subscribers": 17, "nsfw": false}
 {"name": "sportsbookreview", "subscribers": 2762, "nsfw": false}
@@ -182542,6 +182566,7 @@
 {"name": "sportscards", "subscribers": 82190, "nsfw": false}
 {"name": "sportscardsforsale", "subscribers": 7188, "nsfw": false}
 {"name": "sportscardsnewbs", "subscribers": 15, "nsfw": false}
+{"name": "sportscardsnoobs", "subscribers": 0, "nsfw": false}
 {"name": "sportscardtracker", "subscribers": 13086, "nsfw": false}
 {"name": "sportscardzdnd", "subscribers": 157, "nsfw": false}
 {"name": "sportscars", "subscribers": 5939, "nsfw": false}
@@ -182633,6 +182658,7 @@
 {"name": "spotifyplaylistmemes", "subscribers": 238, "nsfw": false}
 {"name": "spotifyplaylists", "subscribers": 267066, "nsfw": false}
 {"name": "spotifyplaylistshare", "subscribers": 14716, "nsfw": false}
+{"name": "spotifypremium", "subscribers": 0, "nsfw": false}
 {"name": "spotifypresave", "subscribers": 188, "nsfw": false}
 {"name": "spotifypromotions", "subscribers": 3190, "nsfw": false}
 {"name": "spotifytr", "subscribers": 221, "nsfw": false}
@@ -188419,6 +188445,7 @@
 {"name": "swanqueen", "subscribers": 1720, "nsfw": false}
 {"name": "swansboronc", "subscribers": 37, "nsfw": false}
 {"name": "swansea", "subscribers": 0, "nsfw": false}
+{"name": "swanseacity", "subscribers": 0, "nsfw": false}
 {"name": "swany707", "subscribers": 17, "nsfw": false}
 {"name": "swapandsell", "subscribers": 48, "nsfw": false}
 {"name": "swapcolorssupersentai", "subscribers": 13, "nsfw": false}
@@ -192194,8 +192221,10 @@
 {"name": "tennisballbfdi", "subscribers": 727, "nsfw": false}
 {"name": "tennisballserver", "subscribers": 35, "nsfw": false}
 {"name": "tennisband", "subscribers": 583, "nsfw": false}
+{"name": "tennisbetting", "subscribers": 0, "nsfw": false}
 {"name": "tennisbirdtemple", "subscribers": 12, "nsfw": false}
 {"name": "tennisbirdworship", "subscribers": 162, "nsfw": false}
+{"name": "tenniscards", "subscribers": 0, "nsfw": false}
 {"name": "tenniscraft", "subscribers": 57, "nsfw": false}
 {"name": "tennisfashion", "subscribers": 22, "nsfw": false}
 {"name": "tennisgirlsgw", "subscribers": 0, "nsfw": false}
@@ -201661,6 +201690,7 @@
 {"name": "trailerparkboysgood", "subscribers": 2246, "nsfw": false}
 {"name": "trailerparkladies", "subscribers": 39, "nsfw": false}
 {"name": "trailerparkstories", "subscribers": 79, "nsfw": false}
+{"name": "trailerporn", "subscribers": 0, "nsfw": false}
 {"name": "trailers", "subscribers": 199612, "nsfw": false}
 {"name": "trailertales", "subscribers": 141, "nsfw": false}
 {"name": "trailertrash", "subscribers": 1432, "nsfw": false}
@@ -204207,6 +204237,7 @@
 {"name": "turkishperspective", "subscribers": 224, "nsfw": false}
 {"name": "turkishpoem", "subscribers": 1069, "nsfw": false}
 {"name": "turkishproductions", "subscribers": 20, "nsfw": false}
+{"name": "turkishredditempire", "subscribers": 0, "nsfw": false}
 {"name": "turkishrock", "subscribers": 938, "nsfw": false}
 {"name": "turkishshows", "subscribers": 16, "nsfw": false}
 {"name": "turkishspecopsarchive", "subscribers": 16, "nsfw": false}
@@ -205075,6 +205106,7 @@
 {"name": "u_2d4rks", "subscribers": 0, "nsfw": false}
 {"name": "u_3aj27ja15", "subscribers": 0, "nsfw": false}
 {"name": "u_3dmarketmx", "subscribers": 0, "nsfw": false}
+{"name": "u_3etsportsbook", "subscribers": 0, "nsfw": false}
 {"name": "u_44riskpm", "subscribers": 0, "nsfw": false}
 {"name": "u_4evr4alwaysmyluv11", "subscribers": 0, "nsfw": false}
 {"name": "u_670428", "subscribers": 0, "nsfw": false}
@@ -206343,6 +206375,7 @@
 {"name": "u_michi_miawiwi", "subscribers": 0, "nsfw": false}
 {"name": "u_mickeymickyz", "subscribers": 0, "nsfw": false}
 {"name": "u_middlesound4051", "subscribers": 0, "nsfw": false}
+{"name": "u_mike202671", "subscribers": 0, "nsfw": false}
 {"name": "u_mikestarwood", "subscribers": 0, "nsfw": false}
 {"name": "u_millinessa", "subscribers": 0, "nsfw": false}
 {"name": "u_millington_systems", "subscribers": 0, "nsfw": false}
@@ -207302,6 +207335,7 @@
 {"name": "u_why_so_serious4667", "subscribers": 0, "nsfw": false}
 {"name": "u_wide_direction_787", "subscribers": 0, "nsfw": false}
 {"name": "u_wild_boat_8788", "subscribers": 0, "nsfw": false}
+{"name": "u_wind_hamrut", "subscribers": 0, "nsfw": false}
 {"name": "u_winsuccessful132", "subscribers": 0, "nsfw": false}
 {"name": "u_wise_presence_5973", "subscribers": 0, "nsfw": false}
 {"name": "u_wishboneok1545", "subscribers": 0, "nsfw": false}
@@ -211487,6 +211521,7 @@
 {"name": "valuation", "subscribers": 3400, "nsfw": false}
 {"name": "valudia", "subscribers": 0, "nsfw": false}
 {"name": "value_gambling", "subscribers": 18445, "nsfw": false}
+{"name": "valuebetting", "subscribers": 0, "nsfw": false}
 {"name": "valuegame", "subscribers": 0, "nsfw": false}
 {"name": "valueinvesting", "subscribers": 10000, "nsfw": false}
 {"name": "valueinvestingbrasil", "subscribers": 821, "nsfw": false}
