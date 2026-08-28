@@ -50054,6 +50054,7 @@
 {"name": "darthnews", "subscribers": 50, "nsfw": false}
 {"name": "darthrevan", "subscribers": 131, "nsfw": false}
 {"name": "darthslugtestreddit", "subscribers": 24, "nsfw": false}
+{"name": "darthvader", "subscribers": 0, "nsfw": false}
 {"name": "darthvadersinphotos", "subscribers": 39, "nsfw": false}
 {"name": "darthvaedor", "subscribers": 21, "nsfw": false}
 {"name": "darthwtf", "subscribers": 0, "nsfw": false}
@@ -64352,6 +64353,7 @@
 {"name": "eulencheats", "subscribers": 1147, "nsfw": false}
 {"name": "eulink", "subscribers": 0, "nsfw": false}
 {"name": "eulogy", "subscribers": 0, "nsfw": false}
+{"name": "eumemes", "subscribers": 0, "nsfw": false}
 {"name": "eunbi", "subscribers": 1362, "nsfw": false}
 {"name": "eunchaehong", "subscribers": 5691, "nsfw": false}
 {"name": "eunchaejang", "subscribers": 506, "nsfw": false}
@@ -116039,6 +116041,7 @@
 {"name": "lucasbrosmovingco", "subscribers": 94, "nsfw": false}
 {"name": "lucasdev", "subscribers": 20, "nsfw": false}
 {"name": "lucaseditions", "subscribers": 87, "nsfw": false}
+{"name": "lucasfilm", "subscribers": 0, "nsfw": false}
 {"name": "lucasfilmleaks", "subscribers": 188, "nsfw": false}
 {"name": "lucasgandola", "subscribers": 1580, "nsfw": false}
 {"name": "lucasmains", "subscribers": 0, "nsfw": false}
@@ -155189,6 +155192,7 @@
 {"name": "prequelrebels", "subscribers": 59, "nsfw": false}
 {"name": "prequelrepublic", "subscribers": 244, "nsfw": false}
 {"name": "prequelseparatist", "subscribers": 0, "nsfw": false}
+{"name": "prequelsepratists", "subscribers": 0, "nsfw": false}
 {"name": "prequelsmemes", "subscribers": 247, "nsfw": false}
 {"name": "prequelsse", "subscribers": 0, "nsfw": false}
 {"name": "prequilmemes", "subscribers": 260, "nsfw": false}
@@ -163040,6 +163044,7 @@
 {"name": "reggina", "subscribers": 145, "nsfw": false}
 {"name": "regiemberekfacebook", "subscribers": 17, "nsfw": false}
 {"name": "regimemes", "subscribers": 58, "nsfw": false}
+{"name": "regiment_game", "subscribers": 0, "nsfw": false}
 {"name": "regiments", "subscribers": 1213, "nsfw": false}
 {"name": "regina", "subscribers": 50789, "nsfw": false}
 {"name": "regina_cassandra", "subscribers": 443, "nsfw": false}
@@ -163848,6 +163853,7 @@
 {"name": "republicanvalues", "subscribers": 21654, "nsfw": false}
 {"name": "republicapirata", "subscribers": 6, "nsfw": false}
 {"name": "republicattak4ever", "subscribers": 333, "nsfw": false}
+{"name": "republiccommando", "subscribers": 0, "nsfw": false}
 {"name": "republiccrypto", "subscribers": 303, "nsfw": false}
 {"name": "republicdiscord", "subscribers": 0, "nsfw": false}
 {"name": "republiciv", "subscribers": 22, "nsfw": false}
@@ -168428,6 +168434,7 @@
 {"name": "rwbyfanfiction", "subscribers": 4217, "nsfw": false}
 {"name": "rwbygrimmcreatures", "subscribers": 148, "nsfw": false}
 {"name": "rwbylounge", "subscribers": 25, "nsfw": false}
+{"name": "rwbymemes", "subscribers": 0, "nsfw": false}
 {"name": "rwbynsfw", "subscribers": 0, "nsfw": false}
 {"name": "rwbyoc", "subscribers": 0, "nsfw": false}
 {"name": "rwbyprompts", "subscribers": 342, "nsfw": false}
@@ -184203,14 +184210,17 @@
 {"name": "starwars12inchfigures", "subscribers": 0, "nsfw": false}
 {"name": "starwars1977to1983", "subscribers": 0, "nsfw": false}
 {"name": "starwars_", "subscribers": 8033, "nsfw": false}
+{"name": "starwars_architecture", "subscribers": 0, "nsfw": false}
 {"name": "starwars_germany", "subscribers": 167, "nsfw": false}
 {"name": "starwars_legends", "subscribers": 619, "nsfw": false}
 {"name": "starwars_oc", "subscribers": 49, "nsfw": false}
 {"name": "starwars_place", "subscribers": 6336, "nsfw": false}
 {"name": "starwars_wallpapers", "subscribers": 249, "nsfw": false}
+{"name": "starwarsactionfigures", "subscribers": 0, "nsfw": false}
 {"name": "starwarsahsoka", "subscribers": 100010, "nsfw": false}
 {"name": "starwarsai", "subscribers": 132, "nsfw": false}
 {"name": "starwarsairsoft", "subscribers": 186, "nsfw": false}
+{"name": "starwarsanalysis", "subscribers": 0, "nsfw": false}
 {"name": "starwarsandor", "subscribers": 110475, "nsfw": false}
 {"name": "starwarsarchitecture", "subscribers": 161, "nsfw": false}
 {"name": "starwarsarmada", "subscribers": 23968, "nsfw": false}
@@ -184289,6 +184299,7 @@
 {"name": "starwarspaintings", "subscribers": 83, "nsfw": false}
 {"name": "starwarspodcasts", "subscribers": 28, "nsfw": false}
 {"name": "starwarspotatofront", "subscribers": 28, "nsfw": false}
+{"name": "starwarsprequels", "subscribers": 0, "nsfw": false}
 {"name": "starwarsprogressmemes", "subscribers": 0, "nsfw": false}
 {"name": "starwarsranking", "subscribers": 101, "nsfw": false}
 {"name": "starwarsrathtars", "subscribers": 0, "nsfw": false}
@@ -189121,6 +189132,7 @@
 {"name": "swresources", "subscribers": 5118, "nsfw": false}
 {"name": "swroleplay", "subscribers": 178, "nsfw": false}
 {"name": "swrpg", "subscribers": 45883, "nsfw": false}
+{"name": "swrpmeta", "subscribers": 0, "nsfw": false}
 {"name": "swsagalucas", "subscribers": 47, "nsfw": false}
 {"name": "swsapphire", "subscribers": 30, "nsfw": false}
 {"name": "swshtrades", "subscribers": 2967, "nsfw": false}
@@ -213739,6 +213751,7 @@
 {"name": "vintagespace", "subscribers": 230, "nsfw": false}
 {"name": "vintagesports", "subscribers": 0, "nsfw": false}
 {"name": "vintagesquid", "subscribers": 47, "nsfw": false}
+{"name": "vintagestarwars", "subscribers": 0, "nsfw": false}
 {"name": "vintagestory", "subscribers": 0, "nsfw": false}
 {"name": "vintagestoryservers", "subscribers": 54, "nsfw": false}
 {"name": "vintagestyle", "subscribers": 2470, "nsfw": false}
