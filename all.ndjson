@@ -14955,6 +14955,7 @@
 {"name": "askastrophysics", "subscribers": 213, "nsfw": false}
 {"name": "askastupidquestion", "subscribers": 16, "nsfw": false}
 {"name": "askasurveyor", "subscribers": 849, "nsfw": false}
+{"name": "askatarotreader", "subscribers": 0, "nsfw": false}
 {"name": "askatheists", "subscribers": 490, "nsfw": false}
 {"name": "askatherapist", "subscribers": 62693, "nsfw": false}
 {"name": "askatl", "subscribers": 0, "nsfw": false}
@@ -25068,6 +25069,7 @@
 {"name": "bizavmemes", "subscribers": 59, "nsfw": false}
 {"name": "bizbooks", "subscribers": 31, "nsfw": false}
 {"name": "bizcardz", "subscribers": 0, "nsfw": false}
+{"name": "bizhawk", "subscribers": 0, "nsfw": false}
 {"name": "bizlaw", "subscribers": 195, "nsfw": false}
 {"name": "bizopsandstrategy", "subscribers": 18, "nsfw": false}
 {"name": "bizozguruz", "subscribers": 275, "nsfw": false}
@@ -25558,6 +25560,7 @@
 {"name": "blacksmith", "subscribers": 300236, "nsfw": false}
 {"name": "blacksmith_forge", "subscribers": 19549, "nsfw": false}
 {"name": "blacksmith_master", "subscribers": 181, "nsfw": false}
+{"name": "blacksmith_tarot", "subscribers": 0, "nsfw": false}
 {"name": "blacksmithing", "subscribers": 79033, "nsfw": false}
 {"name": "blacksmithpcw", "subscribers": 0, "nsfw": false}
 {"name": "blacksmithsark", "subscribers": 34, "nsfw": false}
@@ -104490,6 +104493,7 @@
 {"name": "karmeloanthony", "subscribers": 55, "nsfw": false}
 {"name": "karmenpetrovicwwe", "subscribers": 10401, "nsfw": false}
 {"name": "karmicassemblages", "subscribers": 0, "nsfw": false}
+{"name": "karmiccards", "subscribers": 0, "nsfw": false}
 {"name": "karmicjustice", "subscribers": 228, "nsfw": false}
 {"name": "karminecorp", "subscribers": 1766, "nsfw": false}
 {"name": "karnage", "subscribers": 0, "nsfw": false}
@@ -142310,6 +142314,7 @@
 {"name": "oldschooladorable", "subscribers": 76, "nsfw": false}
 {"name": "oldschoolasheron", "subscribers": 19, "nsfw": false}
 {"name": "oldschoolaww", "subscribers": 180, "nsfw": false}
+{"name": "oldschoolbelfast", "subscribers": 0, "nsfw": false}
 {"name": "oldschoolbet", "subscribers": 0, "nsfw": false}
 {"name": "oldschoolbmx", "subscribers": 1455, "nsfw": false}
 {"name": "oldschoolcat", "subscribers": 681, "nsfw": false}
@@ -191726,8 +191731,10 @@
 {"name": "tarnowskie_gory", "subscribers": 15, "nsfw": false}
 {"name": "taronegerton", "subscribers": 1402, "nsfw": false}
 {"name": "tarot", "subscribers": 532769, "nsfw": false}
+{"name": "tarot_art", "subscribers": 0, "nsfw": false}
 {"name": "tarot_philippines", "subscribers": 0, "nsfw": false}
 {"name": "tarot_questions", "subscribers": 26, "nsfw": false}
+{"name": "tarotandoracleuk", "subscribers": 0, "nsfw": false}
 {"name": "tarotarcana", "subscribers": 1197, "nsfw": false}
 {"name": "tarotbymars", "subscribers": 0, "nsfw": false}
 {"name": "tarotcards", "subscribers": 5778, "nsfw": false}
@@ -191736,11 +191743,13 @@
 {"name": "tarotdecks", "subscribers": 61919, "nsfw": false}
 {"name": "tarotdecksales", "subscribers": 914, "nsfw": false}
 {"name": "tarotdemarseille", "subscribers": 1537, "nsfw": false}
+{"name": "tarotdemarseilleexpo", "subscribers": 0, "nsfw": false}
 {"name": "tarotdex", "subscribers": 348, "nsfw": false}
 {"name": "tarotdiscussion", "subscribers": 138, "nsfw": false}
 {"name": "tarotdiscussions", "subscribers": 163, "nsfw": false}
 {"name": "tarotdivinationaura", "subscribers": 95, "nsfw": false}
 {"name": "tarotfit", "subscribers": 74, "nsfw": false}
+{"name": "tarotforclarity", "subscribers": 0, "nsfw": false}
 {"name": "tarotfortrauma", "subscribers": 68, "nsfw": false}
 {"name": "tarothobbyists", "subscribers": 0, "nsfw": false}
 {"name": "tarotjourneys", "subscribers": 61, "nsfw": false}
@@ -191774,6 +191783,7 @@
 {"name": "tartaglia", "subscribers": 491, "nsfw": false}
 {"name": "tartaria", "subscribers": 61689, "nsfw": false}
 {"name": "tartaria_kj", "subscribers": 148, "nsfw": false}
+{"name": "tartaria_re", "subscribers": 0, "nsfw": false}
 {"name": "tartarianarchitecture", "subscribers": 21548, "nsfw": false}
 {"name": "tartarsauce", "subscribers": 36, "nsfw": false}
 {"name": "tartarsnark", "subscribers": 1812, "nsfw": false}
@@ -207051,6 +207061,7 @@
 {"name": "u_divavirtual_donomar", "subscribers": 0, "nsfw": false}
 {"name": "u_diverdifferent9358", "subscribers": 0, "nsfw": false}
 {"name": "u_dixitbhuva__123", "subscribers": 0, "nsfw": false}
+{"name": "u_dizzydiscipline3674", "subscribers": 0, "nsfw": false}
 {"name": "u_dizzystrength7097", "subscribers": 0, "nsfw": false}
 {"name": "u_dj_loulou", "subscribers": 0, "nsfw": false}
 {"name": "u_djaj9794", "subscribers": 0, "nsfw": false}
