@@ -2871,6 +2871,7 @@
 {"name": "abandonedvideo", "subscribers": 16317, "nsfw": false}
 {"name": "abandonedwales", "subscribers": 108, "nsfw": false}
 {"name": "abandonedwarrelics", "subscribers": 170, "nsfw": false}
+{"name": "abandonedwisconsin", "subscribers": 0, "nsfw": false}
 {"name": "abandonment", "subscribers": 3631, "nsfw": false}
 {"name": "abandonmind", "subscribers": 29, "nsfw": false}
 {"name": "abandonware", "subscribers": 44083, "nsfw": false}
@@ -121100,6 +121101,7 @@
 {"name": "mariojudah", "subscribers": 15546, "nsfw": false}
 {"name": "mariokart", "subscribers": 228172, "nsfw": false}
 {"name": "mariokart64", "subscribers": 627, "nsfw": false}
+{"name": "mariokart7", "subscribers": 0, "nsfw": false}
 {"name": "mariokart8deluxe", "subscribers": 53174, "nsfw": false}
 {"name": "mariokartds", "subscribers": 1403, "nsfw": false}
 {"name": "mariokartgrandprix", "subscribers": 56, "nsfw": false}
@@ -131237,6 +131239,7 @@
 {"name": "movementfix", "subscribers": 0, "nsfw": false}
 {"name": "movementxyz", "subscribers": 18305, "nsfw": false}
 {"name": "moveon", "subscribers": 0, "nsfw": false}
+{"name": "movesofmississauga", "subscribers": 0, "nsfw": false}
 {"name": "movetogether", "subscribers": 12, "nsfw": false}
 {"name": "movetoireland", "subscribers": 0, "nsfw": false}
 {"name": "movetomichigan", "subscribers": 34, "nsfw": false}
@@ -146107,6 +146110,7 @@
 {"name": "orthopaedics", "subscribers": 13136, "nsfw": false}
 {"name": "orthopedicdoctorspune", "subscribers": 20, "nsfw": false}
 {"name": "orthopedics", "subscribers": 5843, "nsfw": false}
+{"name": "orthopetics", "subscribers": 0, "nsfw": false}
 {"name": "orthoptics", "subscribers": 253, "nsfw": false}
 {"name": "orthotics", "subscribers": 373, "nsfw": false}
 {"name": "orthotropics", "subscribers": 75304, "nsfw": false}
@@ -149713,6 +149717,7 @@
 {"name": "pediatricdentistry", "subscribers": 373, "nsfw": false}
 {"name": "pediatrics", "subscribers": 14914, "nsfw": false}
 {"name": "pediatricsboardreview", "subscribers": 59, "nsfw": false}
+{"name": "pediatry", "subscribers": 0, "nsfw": false}
 {"name": "pedicabbing", "subscribers": 0, "nsfw": false}
 {"name": "pediet", "subscribers": 136, "nsfw": false}
 {"name": "pedlesme", "subscribers": 373, "nsfw": false}
@@ -184368,6 +184373,7 @@
 {"name": "spacs", "subscribers": 174460, "nsfw": false}
 {"name": "spacsqueeze", "subscribers": 202, "nsfw": false}
 {"name": "spacstocks", "subscribers": 0, "nsfw": false}
+{"name": "spadelhi", "subscribers": 0, "nsfw": false}
 {"name": "spades", "subscribers": 0, "nsfw": false}
 {"name": "spadescardgame", "subscribers": 51, "nsfw": false}
 {"name": "spafford", "subscribers": 1395, "nsfw": false}
@@ -191011,6 +191017,7 @@
 {"name": "supportavenue", "subscribers": 0, "nsfw": false}
 {"name": "supportbobs", "subscribers": 0, "nsfw": false}
 {"name": "supportforbetrayed", "subscribers": 21509, "nsfw": false}
+{"name": "supportfortheaccused", "subscribers": 0, "nsfw": false}
 {"name": "supportforukraine", "subscribers": 0, "nsfw": false}
 {"name": "supportingartist", "subscribers": 1504, "nsfw": false}
 {"name": "supportingindiegames", "subscribers": 14, "nsfw": false}
@@ -214751,17 +214758,21 @@
 {"name": "urbex", "subscribers": 118640, "nsfw": false}
 {"name": "urbex_nederland", "subscribers": 106, "nsfw": false}
 {"name": "urbex_nj", "subscribers": 0, "nsfw": false}
+{"name": "urbexalb", "subscribers": 0, "nsfw": false}
 {"name": "urbexaustin", "subscribers": 158, "nsfw": false}
 {"name": "urbexbr", "subscribers": 18, "nsfw": false}
+{"name": "urbexbrasil", "subscribers": 0, "nsfw": false}
 {"name": "urbexcarolinas", "subscribers": 92, "nsfw": false}
 {"name": "urbexco", "subscribers": 5261, "nsfw": false}
 {"name": "urbexcontentcreator", "subscribers": 46, "nsfw": false}
 {"name": "urbexdenmark", "subscribers": 0, "nsfw": false}
+{"name": "urbexdeutschland", "subscribers": 0, "nsfw": false}
 {"name": "urbexdfw", "subscribers": 118, "nsfw": false}
 {"name": "urbexessex", "subscribers": 59, "nsfw": false}
 {"name": "urbexgear", "subscribers": 0, "nsfw": false}
 {"name": "urbexgermany", "subscribers": 499, "nsfw": false}
 {"name": "urbexindia", "subscribers": 64, "nsfw": false}
+{"name": "urbexitalia", "subscribers": 0, "nsfw": false}
 {"name": "urbexmississauga", "subscribers": 217, "nsfw": false}
 {"name": "urbexnewengland", "subscribers": 26908, "nsfw": false}
 {"name": "urbexnl", "subscribers": 1731, "nsfw": false}
@@ -214773,6 +214784,7 @@
 {"name": "urbexsuomi", "subscribers": 150, "nsfw": false}
 {"name": "urbexus", "subscribers": 77, "nsfw": false}
 {"name": "urbexvideo", "subscribers": 38, "nsfw": false}
+{"name": "urbexyoutube", "subscribers": 0, "nsfw": false}
 {"name": "urbis", "subscribers": 109, "nsfw": false}
 {"name": "urbitdevs", "subscribers": 0, "nsfw": false}
 {"name": "urbitgroups", "subscribers": 0, "nsfw": false}
@@ -224457,6 +224469,7 @@
 {"name": "wnygirl", "subscribers": 97, "nsfw": false}
 {"name": "wnyrail", "subscribers": 0, "nsfw": false}
 {"name": "wnysocial", "subscribers": 31, "nsfw": false}
+{"name": "wo5goa", "subscribers": 0, "nsfw": false}
 {"name": "woacbofficial", "subscribers": 1821, "nsfw": false}
 {"name": "woahdude", "subscribers": 4236676, "nsfw": false}
 {"name": "woahdudegifsound", "subscribers": 0, "nsfw": false}
