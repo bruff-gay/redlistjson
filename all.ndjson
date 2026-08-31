@@ -827,6 +827,7 @@
 {"name": "2010s", "subscribers": 0, "nsfw": false}
 {"name": "2010s_hiphop", "subscribers": 0, "nsfw": false}
 {"name": "2010sanime", "subscribers": 0, "nsfw": false}
+{"name": "2010skidsnostalgia", "subscribers": 0, "nsfw": false}
 {"name": "2010smovies", "subscribers": 159, "nsfw": false}
 {"name": "2010smusic", "subscribers": 6399, "nsfw": false}
 {"name": "2010snostalgia", "subscribers": 14270, "nsfw": false}
@@ -46636,6 +46637,7 @@
 {"name": "crescentloom", "subscribers": 75, "nsfw": false}
 {"name": "crescentnetwork", "subscribers": 0, "nsfw": false}
 {"name": "cresowallet", "subscribers": 98, "nsfw": false}
+{"name": "cressidacowell", "subscribers": 0, "nsfw": false}
 {"name": "crested_duck", "subscribers": 0, "nsfw": false}
 {"name": "crestedgecko", "subscribers": 88589, "nsfw": false}
 {"name": "crestedgeckolovers", "subscribers": 0, "nsfw": false}
@@ -70596,6 +70598,7 @@
 {"name": "film", "subscribers": 193391, "nsfw": false}
 {"name": "film_ai", "subscribers": 0, "nsfw": false}
 {"name": "film_title_sequences", "subscribers": 103, "nsfw": false}
+{"name": "filmandtheater", "subscribers": 0, "nsfw": false}
 {"name": "filmandtvamerica", "subscribers": 33, "nsfw": false}
 {"name": "filmandtvsweden", "subscribers": 751, "nsfw": false}
 {"name": "filmbook", "subscribers": 0, "nsfw": false}
@@ -70678,6 +70681,7 @@
 {"name": "filmsamfunnet", "subscribers": 41, "nsfw": false}
 {"name": "filmscanners", "subscribers": 802, "nsfw": false}
 {"name": "filmscenes", "subscribers": 0, "nsfw": false}
+{"name": "filmscores", "subscribers": 0, "nsfw": false}
 {"name": "filmscoring", "subscribers": 8868, "nsfw": false}
 {"name": "filmselist", "subscribers": 66, "nsfw": false}
 {"name": "filmsexplained", "subscribers": 7581, "nsfw": false}
@@ -147997,6 +148001,7 @@
 {"name": "ozreddit", "subscribers": 5695, "nsfw": false}
 {"name": "ozrefferal", "subscribers": 56, "nsfw": false}
 {"name": "ozrictentacles", "subscribers": 168, "nsfw": false}
+{"name": "ozsc", "subscribers": 0, "nsfw": false}
 {"name": "ozshow", "subscribers": 14502, "nsfw": false}
 {"name": "ozsurveying", "subscribers": 35, "nsfw": false}
 {"name": "oztown", "subscribers": 39, "nsfw": false}
@@ -167732,6 +167737,7 @@
 {"name": "returntodarktower", "subscribers": 666, "nsfw": false}
 {"name": "returntogoodmonke", "subscribers": 11, "nsfw": false}
 {"name": "returntoindia", "subscribers": 0, "nsfw": false}
+{"name": "returntooz", "subscribers": 0, "nsfw": false}
 {"name": "returntoparadise", "subscribers": 251, "nsfw": false}
 {"name": "returnyoutubedislike", "subscribers": 34, "nsfw": false}
 {"name": "returnyoutubedislikes", "subscribers": 0, "nsfw": false}
@@ -226059,6 +226065,7 @@
 {"name": "wizardofoz", "subscribers": 9923, "nsfw": false}
 {"name": "wizardposting", "subscribers": 354004, "nsfw": false}
 {"name": "wizardry", "subscribers": 11331, "nsfw": false}
+{"name": "wizardrydaphne", "subscribers": 0, "nsfw": false}
 {"name": "wizardsanctum", "subscribers": 168, "nsfw": false}
 {"name": "wizardsandknights", "subscribers": 18, "nsfw": false}
 {"name": "wizardsandwarriors", "subscribers": 13, "nsfw": false}
