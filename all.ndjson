@@ -3955,6 +3955,7 @@
 {"name": "activism", "subscribers": 0, "nsfw": false}
 {"name": "activist", "subscribers": 0, "nsfw": false}
 {"name": "activistinvesting", "subscribers": 148, "nsfw": false}
+{"name": "activists", "subscribers": 0, "nsfw": false}
 {"name": "activityeducators", "subscribers": 48, "nsfw": false}
 {"name": "activitypub", "subscribers": 0, "nsfw": false}
 {"name": "actlikeyoubelong", "subscribers": 666906, "nsfw": false}
@@ -10703,6 +10704,7 @@
 {"name": "animaldiary", "subscribers": 40, "nsfw": false}
 {"name": "animaldopplegangers", "subscribers": 15, "nsfw": false}
 {"name": "animale_pierdute_cluj", "subscribers": 22, "nsfw": false}
+{"name": "animalemancipation", "subscribers": 0, "nsfw": false}
 {"name": "animales", "subscribers": 2763, "nsfw": false}
 {"name": "animalesdeconsejo", "subscribers": 0, "nsfw": false}
 {"name": "animalfacts", "subscribers": 10348, "nsfw": false}
@@ -43951,6 +43953,7 @@
 {"name": "conservativeteachers", "subscribers": 101, "nsfw": false}
 {"name": "conservativeterrorism", "subscribers": 94709, "nsfw": false}
 {"name": "conservativeva", "subscribers": 0, "nsfw": false}
+{"name": "conservativevegan", "subscribers": 0, "nsfw": false}
 {"name": "conservativewriting", "subscribers": 0, "nsfw": false}
 {"name": "conservativexmormon", "subscribers": 13, "nsfw": false}
 {"name": "conservativeyouth", "subscribers": 2937, "nsfw": false}
@@ -47638,6 +47641,7 @@
 {"name": "cs_office", "subscribers": 107, "nsfw": false}
 {"name": "cs_questions", "subscribers": 0, "nsfw": false}
 {"name": "cs_realcity", "subscribers": 60, "nsfw": false}
+{"name": "csa", "subscribers": 0, "nsfw": false}
 {"name": "csab_2025", "subscribers": 0, "nsfw": false}
 {"name": "csab_2026", "subscribers": 0, "nsfw": false}
 {"name": "csakblog", "subscribers": 82, "nsfw": false}
@@ -63450,6 +63454,7 @@
 {"name": "end_mii_club", "subscribers": 25, "nsfw": false}
 {"name": "endabuseofwomenonline", "subscribers": 3117, "nsfw": false}
 {"name": "endacopia", "subscribers": 725, "nsfw": false}
+{"name": "endallviolence", "subscribers": 0, "nsfw": false}
 {"name": "endangeredanimals", "subscribers": 109, "nsfw": false}
 {"name": "endangeredlanguages", "subscribers": 2104, "nsfw": false}
 {"name": "endangeredspecies", "subscribers": 12288, "nsfw": false}
@@ -68293,6 +68298,7 @@
 {"name": "farmersbranch", "subscribers": 264, "nsfw": false}
 {"name": "farmersinsurance", "subscribers": 0, "nsfw": false}
 {"name": "farmersmarket", "subscribers": 0, "nsfw": false}
+{"name": "farmersmarkets", "subscribers": 0, "nsfw": false}
 {"name": "farmersolathe", "subscribers": 66, "nsfw": false}
 {"name": "farmersonlyfi", "subscribers": 52, "nsfw": false}
 {"name": "farmersrights", "subscribers": 128, "nsfw": false}
@@ -72765,6 +72771,7 @@
 {"name": "foodnoise", "subscribers": 17, "nsfw": false}
 {"name": "foodnoisehelp", "subscribers": 0, "nsfw": false}
 {"name": "foodnotbombs", "subscribers": 0, "nsfw": false}
+{"name": "foodnotlawns", "subscribers": 0, "nsfw": false}
 {"name": "foodntravel", "subscribers": 34, "nsfw": false}
 {"name": "foodnyc", "subscribers": 10000, "nsfw": false}
 {"name": "foodobsession", "subscribers": 53, "nsfw": false}
@@ -74055,6 +74062,7 @@
 {"name": "foundmalgus", "subscribers": 146, "nsfw": false}
 {"name": "foundman", "subscribers": 248, "nsfw": false}
 {"name": "foundmanfromhamaslume", "subscribers": 17, "nsfw": false}
+{"name": "foundmangothebest11", "subscribers": 0, "nsfw": false}
 {"name": "foundmanultrimanula", "subscribers": 15, "nsfw": false}
 {"name": "foundmardilove", "subscribers": 13, "nsfw": false}
 {"name": "foundmassivefishes", "subscribers": 34, "nsfw": false}
@@ -151034,6 +151042,7 @@
 {"name": "petertakesaguess", "subscribers": 564, "nsfw": false}
 {"name": "peterthecat", "subscribers": 69, "nsfw": false}
 {"name": "peterthiel", "subscribers": 0, "nsfw": false}
+{"name": "peterwesselzapffe", "subscribers": 0, "nsfw": false}
 {"name": "petespacks", "subscribers": 16, "nsfw": false}
 {"name": "peteyes", "subscribers": 0, "nsfw": false}
 {"name": "peteyusa", "subscribers": 1136, "nsfw": false}
@@ -175334,6 +175343,7 @@
 {"name": "seedom_io", "subscribers": 24, "nsfw": false}
 {"name": "seedrequest", "subscribers": 24, "nsfw": false}
 {"name": "seedrs", "subscribers": 30, "nsfw": false}
+{"name": "seeds", "subscribers": 0, "nsfw": false}
 {"name": "seedsales", "subscribers": 56, "nsfw": false}
 {"name": "seedsaving", "subscribers": 10148, "nsfw": false}
 {"name": "seedseriesasaas", "subscribers": 1, "nsfw": false}
@@ -203928,8 +203938,10 @@
 {"name": "tofoode", "subscribers": 0, "nsfw": false}
 {"name": "tofr", "subscribers": 64, "nsfw": false}
 {"name": "tofu_games", "subscribers": 85, "nsfw": false}
+{"name": "tofucreations", "subscribers": 0, "nsfw": false}
 {"name": "tofudreg", "subscribers": 635, "nsfw": false}
 {"name": "tofuiselite", "subscribers": 44, "nsfw": false}
+{"name": "tofulovers", "subscribers": 0, "nsfw": false}
 {"name": "togacraft", "subscribers": 18, "nsfw": false}
 {"name": "togansfw", "subscribers": 15291, "nsfw": true}
 {"name": "togester", "subscribers": 46, "nsfw": false}
@@ -208048,6 +208060,7 @@
 {"name": "tuckerton", "subscribers": 51, "nsfw": false}
 {"name": "tuckerwetmore", "subscribers": 17, "nsfw": false}
 {"name": "tucson", "subscribers": 0, "nsfw": false}
+{"name": "tucson_events", "subscribers": 0, "nsfw": false}
 {"name": "tucson_fwb", "subscribers": 0, "nsfw": false}
 {"name": "tucsondating", "subscribers": 0, "nsfw": false}
 {"name": "tucsonfriends", "subscribers": 3347, "nsfw": false}
@@ -216735,8 +216748,10 @@
 {"name": "vegan_food", "subscribers": 58643, "nsfw": false}
 {"name": "vegan_india", "subscribers": 81, "nsfw": false}
 {"name": "vegan_irl", "subscribers": 5193, "nsfw": false}
+{"name": "vegan_travel", "subscribers": 0, "nsfw": false}
 {"name": "veganactivism", "subscribers": 0, "nsfw": false}
 {"name": "veganalaska", "subscribers": 60, "nsfw": false}
+{"name": "vegananarchistpoc", "subscribers": 0, "nsfw": false}
 {"name": "veganantinatalists", "subscribers": 2424, "nsfw": false}
 {"name": "veganarchism", "subscribers": 22369, "nsfw": false}
 {"name": "veganargentina", "subscribers": 0, "nsfw": false}
@@ -216749,6 +216764,7 @@
 {"name": "vegancaloriecounts", "subscribers": 70, "nsfw": false}
 {"name": "vegancheese", "subscribers": 351, "nsfw": false}
 {"name": "vegancheesemaking", "subscribers": 16727, "nsfw": false}
+{"name": "veganchill", "subscribers": 0, "nsfw": false}
 {"name": "veganchina", "subscribers": 401, "nsfw": false}
 {"name": "veganchocolate", "subscribers": 87, "nsfw": false}
 {"name": "veganchristians", "subscribers": 149, "nsfw": false}
@@ -216762,6 +216778,7 @@
 {"name": "vegande", "subscribers": 253343, "nsfw": false}
 {"name": "vegandenmark", "subscribers": 0, "nsfw": false}
 {"name": "vegandepressionmeals", "subscribers": 250, "nsfw": false}
+{"name": "vegandietbeginners", "subscribers": 0, "nsfw": false}
 {"name": "vegandinnernight", "subscribers": 32, "nsfw": false}
 {"name": "vegandoctors", "subscribers": 0, "nsfw": false}
 {"name": "vegandogadvice", "subscribers": 14, "nsfw": false}
@@ -216772,6 +216789,7 @@
 {"name": "veganextremism", "subscribers": 25, "nsfw": false}
 {"name": "veganfacepalm", "subscribers": 26, "nsfw": false}
 {"name": "veganfashion", "subscribers": 3077, "nsfw": false}
+{"name": "veganfeminist", "subscribers": 0, "nsfw": false}
 {"name": "veganfire", "subscribers": 33, "nsfw": false}
 {"name": "veganfitmeals", "subscribers": 60, "nsfw": false}
 {"name": "veganfitness", "subscribers": 0, "nsfw": false}
@@ -216807,8 +216825,10 @@
 {"name": "veganlobbyro", "subscribers": 22, "nsfw": false}
 {"name": "veganlogic", "subscribers": 38, "nsfw": false}
 {"name": "veganmartialarts", "subscribers": 35, "nsfw": false}
+{"name": "veganmastodon", "subscribers": 0, "nsfw": false}
 {"name": "veganmealprep", "subscribers": 60506, "nsfw": false}
 {"name": "veganmeetvegan", "subscribers": 87, "nsfw": false}
+{"name": "veganmusic", "subscribers": 0, "nsfw": false}
 {"name": "vegannl", "subscribers": 0, "nsfw": false}
 {"name": "veganpagan", "subscribers": 0, "nsfw": false}
 {"name": "veganparatodos", "subscribers": 595, "nsfw": false}
@@ -216841,6 +216861,7 @@
 {"name": "vegansquad", "subscribers": 0, "nsfw": false}
 {"name": "vegansslovenia", "subscribers": 58, "nsfw": false}
 {"name": "veganstarseeds", "subscribers": 246, "nsfw": false}
+{"name": "vegansubreddits", "subscribers": 0, "nsfw": false}
 {"name": "veganswitzerland", "subscribers": 43, "nsfw": false}
 {"name": "veganteachervringe", "subscribers": 51, "nsfw": false}
 {"name": "vegantinder", "subscribers": 378, "nsfw": false}
