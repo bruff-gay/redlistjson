@@ -5364,6 +5364,7 @@
 {"name": "africamemes", "subscribers": 0, "nsfw": false}
 {"name": "african_history", "subscribers": 0, "nsfw": false}
 {"name": "africanamerican", "subscribers": 5968, "nsfw": false}
+{"name": "africanamericans", "subscribers": 0, "nsfw": false}
 {"name": "africanarchitecture", "subscribers": 0, "nsfw": false}
 {"name": "africanart", "subscribers": 5062, "nsfw": false}
 {"name": "africanastudies", "subscribers": 176, "nsfw": false}
@@ -12886,6 +12887,7 @@
 {"name": "ap_all", "subscribers": 33, "nsfw": false}
 {"name": "ap_central", "subscribers": 0, "nsfw": false}
 {"name": "ap_chem", "subscribers": 187, "nsfw": false}
+{"name": "ap_physics", "subscribers": 0, "nsfw": false}
 {"name": "ap_psych", "subscribers": 0, "nsfw": false}
 {"name": "ap_startups", "subscribers": 0, "nsfw": false}
 {"name": "ap_stats", "subscribers": 253, "nsfw": false}
@@ -36611,6 +36613,7 @@
 {"name": "catsnamedpippin", "subscribers": 33, "nsfw": false}
 {"name": "catsnamedtoothless", "subscribers": 45959, "nsfw": false}
 {"name": "catsnboxes", "subscribers": 31, "nsfw": false}
+{"name": "catsnug", "subscribers": 0, "nsfw": false}
 {"name": "catsobsessedwithbread", "subscribers": 352, "nsfw": false}
 {"name": "catsofbulgaria", "subscribers": 123, "nsfw": false}
 {"name": "catsofisrael", "subscribers": 22, "nsfw": false}
@@ -40844,7 +40847,9 @@
 {"name": "churchoflaffey", "subscribers": 51, "nsfw": false}
 {"name": "churchoflana", "subscribers": 614, "nsfw": false}
 {"name": "churchoflazlo", "subscribers": 0, "nsfw": false}
+{"name": "churchofleafpokemon", "subscribers": 0, "nsfw": false}
 {"name": "churchofleo", "subscribers": 27, "nsfw": false}
+{"name": "churchoflidapokemon", "subscribers": 0, "nsfw": false}
 {"name": "churchoflovecraft", "subscribers": 124, "nsfw": false}
 {"name": "churchofloversarcana", "subscribers": 817, "nsfw": false}
 {"name": "churchoflowershoplady", "subscribers": 69, "nsfw": false}
@@ -46602,6 +46607,7 @@
 {"name": "corteiz", "subscribers": 13194, "nsfw": false}
 {"name": "cortex", "subscribers": 15783, "nsfw": false}
 {"name": "cortexin", "subscribers": 324, "nsfw": false}
+{"name": "cortguitarsandbasses", "subscribers": 0, "nsfw": false}
 {"name": "cortini", "subscribers": 57, "nsfw": false}
 {"name": "cortis", "subscribers": 0, "nsfw": false}
 {"name": "corum19", "subscribers": 11, "nsfw": false}
@@ -58597,6 +58603,7 @@
 {"name": "dnd5e", "subscribers": 93194, "nsfw": false}
 {"name": "dnd5ebuilds", "subscribers": 0, "nsfw": false}
 {"name": "dnd5th", "subscribers": 7251, "nsfw": false}
+{"name": "dnd_beginners", "subscribers": 0, "nsfw": false}
 {"name": "dnd_brasil", "subscribers": 0, "nsfw": false}
 {"name": "dnd_deep_immersion", "subscribers": 67, "nsfw": false}
 {"name": "dnd_eternal_india", "subscribers": 48, "nsfw": false}
@@ -80153,6 +80160,7 @@
 {"name": "gabbywindey", "subscribers": 199, "nsfw": false}
 {"name": "gabeandthechair", "subscribers": 18, "nsfw": false}
 {"name": "gabehelmy", "subscribers": 1477, "nsfw": false}
+{"name": "gabehorn", "subscribers": 0, "nsfw": false}
 {"name": "gabellie", "subscribers": 0, "nsfw": false}
 {"name": "gabemario", "subscribers": 29, "nsfw": false}
 {"name": "gabeortiz", "subscribers": 38, "nsfw": false}
@@ -87921,6 +87929,7 @@
 {"name": "groupanime", "subscribers": 866, "nsfw": false}
 {"name": "groupbuysharetool", "subscribers": 103, "nsfw": false}
 {"name": "groupchat_pics", "subscribers": 77, "nsfw": false}
+{"name": "groupchatbythatoneguy", "subscribers": 0, "nsfw": false}
 {"name": "groupchatchaoschaos", "subscribers": 0, "nsfw": false}
 {"name": "groupchatchaosreborn", "subscribers": 0, "nsfw": false}
 {"name": "groupdeals", "subscribers": 708, "nsfw": false}
@@ -92962,6 +92971,7 @@
 {"name": "highheelcollection", "subscribers": 23, "nsfw": false}
 {"name": "highheelgalore", "subscribers": 0, "nsfw": false}
 {"name": "highheels", "subscribers": 176608, "nsfw": true}
+{"name": "highheels_forever", "subscribers": 0, "nsfw": false}
 {"name": "highheelsandstuffed", "subscribers": 381, "nsfw": false}
 {"name": "highheelsfetish", "subscribers": 115931, "nsfw": true}
 {"name": "highheelsnsfw", "subscribers": 378173, "nsfw": true}
@@ -117349,6 +117359,7 @@
 {"name": "lesbianswhotech", "subscribers": 145, "nsfw": false}
 {"name": "lesbianswithdogs", "subscribers": 68, "nsfw": false}
 {"name": "lesbianteens", "subscribers": 10683, "nsfw": false}
+{"name": "lesbiantiktok_exposed", "subscribers": 0, "nsfw": false}
 {"name": "lesbianweddings", "subscribers": 53, "nsfw": false}
 {"name": "lesbianwriters", "subscribers": 2706, "nsfw": false}
 {"name": "lesbianyc", "subscribers": 485, "nsfw": false}
@@ -156006,11 +156017,13 @@
 {"name": "peptidepal", "subscribers": 20, "nsfw": false}
 {"name": "peptidepathways", "subscribers": 0, "nsfw": false}
 {"name": "peptiderdanmark", "subscribers": 0, "nsfw": false}
+{"name": "peptideresearchhq", "subscribers": 0, "nsfw": false}
 {"name": "peptideresource", "subscribers": 81, "nsfw": false}
 {"name": "peptides", "subscribers": 118444, "nsfw": true}
 {"name": "peptides4dummies_", "subscribers": 0, "nsfw": false}
 {"name": "peptides_for_women", "subscribers": 5091, "nsfw": false}
 {"name": "peptidescammerlist", "subscribers": 0, "nsfw": false}
+{"name": "peptidesclarified", "subscribers": 0, "nsfw": false}
 {"name": "peptidesignaling", "subscribers": 0, "nsfw": false}
 {"name": "peptidesource", "subscribers": 35314, "nsfw": false}
 {"name": "peptidesph", "subscribers": 204, "nsfw": false}
@@ -169818,6 +169831,7 @@
 {"name": "realdaytonabeach", "subscribers": 237, "nsfw": false}
 {"name": "realdaytrading", "subscribers": 106633, "nsfw": false}
 {"name": "realdebrid", "subscribers": 68123, "nsfw": false}
+{"name": "realdemonicsupport", "subscribers": 0, "nsfw": false}
 {"name": "realdesign", "subscribers": 34, "nsfw": false}
 {"name": "realdev", "subscribers": 34, "nsfw": false}
 {"name": "realdevs", "subscribers": 333, "nsfw": false}
@@ -177249,6 +177263,7 @@
 {"name": "russianempire", "subscribers": 368, "nsfw": false}
 {"name": "russianempireremade", "subscribers": 0, "nsfw": false}
 {"name": "russianewsjp", "subscribers": 0, "nsfw": false}
+{"name": "russianexplained", "subscribers": 0, "nsfw": false}
 {"name": "russianfairpolitics", "subscribers": 593, "nsfw": false}
 {"name": "russianfigureskaters", "subscribers": 21, "nsfw": false}
 {"name": "russianfood", "subscribers": 0, "nsfw": false}
@@ -216009,6 +216024,7 @@
 {"name": "turkcelebfeet", "subscribers": 69, "nsfw": false}
 {"name": "turkcelebland", "subscribers": 270, "nsfw": false}
 {"name": "turkcelebsfeet", "subscribers": 6652, "nsfw": false}
+{"name": "turkcelebsocks", "subscribers": 0, "nsfw": false}
 {"name": "turkcellsuperonline", "subscribers": 0, "nsfw": false}
 {"name": "turkcemiz", "subscribers": 899, "nsfw": false}
 {"name": "turkchessmeme", "subscribers": 13, "nsfw": false}
@@ -219341,6 +219357,7 @@
 {"name": "u_south_ad890", "subscribers": 0, "nsfw": false}
 {"name": "u_southern_entry_4995", "subscribers": 0, "nsfw": false}
 {"name": "u_southernisleslarp", "subscribers": 0, "nsfw": false}
+{"name": "u_southpaw710", "subscribers": 0, "nsfw": false}
 {"name": "u_sovietrussiabot", "subscribers": 0, "nsfw": false}
 {"name": "u_sp______", "subscribers": 0, "nsfw": false}
 {"name": "u_spago2go", "subscribers": 0, "nsfw": false}
@@ -222874,6 +222891,7 @@
 {"name": "upperbavaria", "subscribers": 340, "nsfw": false}
 {"name": "uppercaser", "subscribers": 27, "nsfw": false}
 {"name": "upperclass", "subscribers": 44, "nsfw": false}
+{"name": "upperdeck", "subscribers": 0, "nsfw": false}
 {"name": "upperdecker", "subscribers": 101, "nsfw": false}
 {"name": "uppereastside", "subscribers": 33536, "nsfw": false}
 {"name": "uppereastsidenyc", "subscribers": 0, "nsfw": false}
