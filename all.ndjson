@@ -6106,6 +6106,7 @@
 {"name": "ageofagi", "subscribers": 0, "nsfw": false}
 {"name": "ageofamazons", "subscribers": 704, "nsfw": false}
 {"name": "ageofanarchy", "subscribers": 29, "nsfw": false}
+{"name": "ageofattraction", "subscribers": 0, "nsfw": false}
 {"name": "ageofbronze", "subscribers": 0, "nsfw": false}
 {"name": "ageofcalamity", "subscribers": 22010, "nsfw": false}
 {"name": "ageofcivilizationita", "subscribers": 24, "nsfw": false}
@@ -18007,6 +18008,7 @@
 {"name": "astrology", "subscribers": 0, "nsfw": false}
 {"name": "astrology_guidance", "subscribers": 0, "nsfw": false}
 {"name": "astrology_vedic", "subscribers": 6323, "nsfw": false}
+{"name": "astrologyandkarma", "subscribers": 0, "nsfw": false}
 {"name": "astrologybasics", "subscribers": 3670, "nsfw": false}
 {"name": "astrologyblogs", "subscribers": 0, "nsfw": false}
 {"name": "astrologycharts", "subscribers": 36055, "nsfw": false}
@@ -66335,6 +66337,7 @@
 {"name": "dungeonsanddragons", "subscribers": 623155, "nsfw": false}
 {"name": "dungeonsanddragons35e", "subscribers": 6539, "nsfw": false}
 {"name": "dungeonsanddragons55e", "subscribers": 0, "nsfw": false}
+{"name": "dungeonscrawl", "subscribers": 0, "nsfw": false}
 {"name": "dungeonsdragonsdives", "subscribers": 100, "nsfw": false}
 {"name": "dungeonsettlers", "subscribers": 0, "nsfw": false}
 {"name": "dungeonsisters", "subscribers": 44, "nsfw": false}
@@ -91034,6 +91037,7 @@
 {"name": "goa_trance", "subscribers": 3730, "nsfw": false}
 {"name": "goabroad", "subscribers": 338, "nsfw": false}
 {"name": "goadating", "subscribers": 0, "nsfw": false}
+{"name": "goafoodscene", "subscribers": 0, "nsfw": false}
 {"name": "goafootball", "subscribers": 41, "nsfw": false}
 {"name": "goaheadeagles", "subscribers": 0, "nsfw": false}
 {"name": "goaliegames", "subscribers": 206, "nsfw": false}
@@ -100233,6 +100237,7 @@
 {"name": "historicememes", "subscribers": 24, "nsfw": false}
 {"name": "historicinteriors", "subscribers": 32, "nsfw": false}
 {"name": "historicist", "subscribers": 67, "nsfw": false}
+{"name": "historicletters", "subscribers": 0, "nsfw": false}
 {"name": "historicny", "subscribers": 337, "nsfw": false}
 {"name": "historicphotography", "subscribers": 0, "nsfw": false}
 {"name": "historicpreservation", "subscribers": 6498, "nsfw": false}
@@ -167519,6 +167524,7 @@
 {"name": "perthbeautyandsurgery", "subscribers": 24, "nsfw": false}
 {"name": "perthbeersnobs", "subscribers": 114, "nsfw": false}
 {"name": "perthbrewers", "subscribers": 33, "nsfw": false}
+{"name": "perthcloudblowers", "subscribers": 0, "nsfw": false}
 {"name": "perthents", "subscribers": 3219, "nsfw": false}
 {"name": "perthfc", "subscribers": 12, "nsfw": false}
 {"name": "perthfoodies", "subscribers": 457, "nsfw": false}
@@ -226427,6 +226433,7 @@
 {"name": "toeff", "subscribers": 105, "nsfw": false}
 {"name": "toefl", "subscribers": 0, "nsfw": false}
 {"name": "toefladvice", "subscribers": 26749, "nsfw": false}
+{"name": "toeflteachers", "subscribers": 0, "nsfw": false}
 {"name": "toehairexchange", "subscribers": 82, "nsfw": false}
 {"name": "toehider", "subscribers": 39, "nsfw": false}
 {"name": "toekomst_van_almere", "subscribers": 29, "nsfw": false}
@@ -228295,6 +228302,7 @@
 {"name": "traeger", "subscribers": 188309, "nsfw": false}
 {"name": "traeide", "subscribers": 1556, "nsfw": false}
 {"name": "trafalgar", "subscribers": 16, "nsfw": false}
+{"name": "trafegopago", "subscribers": 0, "nsfw": false}
 {"name": "traffic", "subscribers": 2005, "nsfw": false}
 {"name": "trafficband", "subscribers": 147, "nsfw": false}
 {"name": "trafficcontrols", "subscribers": 0, "nsfw": false}
