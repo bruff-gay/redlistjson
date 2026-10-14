@@ -10154,6 +10154,7 @@
 {"name": "amazonvideo", "subscribers": 557, "nsfw": false}
 {"name": "amazonvine", "subscribers": 33339, "nsfw": false}
 {"name": "amazonvineaustralia", "subscribers": 792, "nsfw": false}
+{"name": "amazonvinecanada", "subscribers": 0, "nsfw": false}
 {"name": "amazonvinede", "subscribers": 0, "nsfw": false}
 {"name": "amazonvinefashion", "subscribers": 0, "nsfw": false}
 {"name": "amazonvineuk", "subscribers": 1671, "nsfw": false}
@@ -28530,6 +28531,7 @@
 {"name": "blackamerican", "subscribers": 47, "nsfw": false}
 {"name": "blackamericanlove", "subscribers": 54, "nsfw": false}
 {"name": "blackamericanmen", "subscribers": 0, "nsfw": false}
+{"name": "blackamericans", "subscribers": 0, "nsfw": false}
 {"name": "blackamericatoday", "subscribers": 0, "nsfw": false}
 {"name": "blackamericauncut", "subscribers": 50, "nsfw": false}
 {"name": "blackand", "subscribers": 13, "nsfw": false}
@@ -121837,6 +121839,7 @@
 {"name": "kolkata", "subscribers": 416540, "nsfw": false}
 {"name": "kolkata_meetups", "subscribers": 0, "nsfw": false}
 {"name": "kolkata_pop_culture", "subscribers": 0, "nsfw": false}
+{"name": "kolkata_startups", "subscribers": 0, "nsfw": false}
 {"name": "kolkataaviation", "subscribers": 1, "nsfw": false}
 {"name": "kolkatacity", "subscribers": 2845, "nsfw": false}
 {"name": "kolkatacollegestudent", "subscribers": 0, "nsfw": false}
@@ -124881,6 +124884,7 @@
 {"name": "lavahotspringsidaho", "subscribers": 0, "nsfw": false}
 {"name": "laval", "subscribers": 0, "nsfw": false}
 {"name": "lavalaffaires", "subscribers": 76, "nsfw": false}
+{"name": "lavalampdrops", "subscribers": 0, "nsfw": false}
 {"name": "lavalampfluid", "subscribers": 64, "nsfw": false}
 {"name": "lavalamps", "subscribers": 50576, "nsfw": false}
 {"name": "lavaliant", "subscribers": 0, "nsfw": false}
@@ -146852,6 +146856,7 @@
 {"name": "motioncomics", "subscribers": 55, "nsfw": false}
 {"name": "motioncosplays", "subscribers": 690, "nsfw": false}
 {"name": "motiondesign", "subscribers": 0, "nsfw": false}
+{"name": "motiondesign_", "subscribers": 0, "nsfw": false}
 {"name": "motiondesignnoai", "subscribers": 0, "nsfw": false}
 {"name": "motionfreedom", "subscribers": 38, "nsfw": false}
 {"name": "motiongraphics", "subscribers": 34737, "nsfw": false}
