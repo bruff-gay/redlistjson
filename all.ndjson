@@ -10826,6 +10826,7 @@
 {"name": "amonguscomics", "subscribers": 39, "nsfw": false}
 {"name": "amonguscommunityy", "subscribers": 0, "nsfw": false}
 {"name": "amonguscompetitive", "subscribers": 0, "nsfw": false}
+{"name": "amongusfans", "subscribers": 0, "nsfw": false}
 {"name": "amongusfriendfinder", "subscribers": 24744, "nsfw": false}
 {"name": "amongusgamecodes", "subscribers": 1817, "nsfw": false}
 {"name": "amongusiseverywhere", "subscribers": 74, "nsfw": false}
@@ -22260,6 +22261,7 @@
 {"name": "baltimorecomedy", "subscribers": 64, "nsfw": false}
 {"name": "baltimorecounty", "subscribers": 9968, "nsfw": false}
 {"name": "baltimorecountyfights", "subscribers": 53, "nsfw": false}
+{"name": "baltimoredating", "subscribers": 0, "nsfw": false}
 {"name": "baltimoregaymers", "subscribers": 290, "nsfw": false}
 {"name": "baltimorejobs", "subscribers": 2643, "nsfw": false}
 {"name": "baltimorelist", "subscribers": 1487, "nsfw": false}
@@ -37437,6 +37439,7 @@
 {"name": "canon_harrypotter", "subscribers": 256, "nsfw": false}
 {"name": "canon_r5_markii", "subscribers": 314, "nsfw": false}
 {"name": "canonade", "subscribers": 0, "nsfw": false}
+{"name": "canonae1", "subscribers": 0, "nsfw": false}
 {"name": "canonc70", "subscribers": 440, "nsfw": false}
 {"name": "canoncamera", "subscribers": 12666, "nsfw": false}
 {"name": "canoncinema", "subscribers": 99, "nsfw": false}
@@ -58462,6 +58465,7 @@
 {"name": "dearmediasnark", "subscribers": 220, "nsfw": false}
 {"name": "dearmorrowindiary", "subscribers": 1326, "nsfw": false}
 {"name": "dearmycat", "subscribers": 1862, "nsfw": false}
+{"name": "dearmycompanionai", "subscribers": 0, "nsfw": false}
 {"name": "dearmylivingdead", "subscribers": 63, "nsfw": false}
 {"name": "dearnerdfighteria", "subscribers": 217, "nsfw": false}
 {"name": "dearpeople", "subscribers": 0, "nsfw": false}
@@ -69383,6 +69387,7 @@
 {"name": "egymountain", "subscribers": 229, "nsfw": false}
 {"name": "egymusicreplay", "subscribers": 0, "nsfw": false}
 {"name": "egynature", "subscribers": 86, "nsfw": false}
+{"name": "egynewera", "subscribers": 0, "nsfw": false}
 {"name": "egyoffmychest", "subscribers": 272, "nsfw": false}
 {"name": "egyopposition", "subscribers": 388, "nsfw": false}
 {"name": "egyoutfits", "subscribers": 26360, "nsfw": false}
@@ -83190,6 +83195,7 @@
 {"name": "foundhistoricalgrab", "subscribers": 0, "nsfw": false}
 {"name": "foundhotpotato150", "subscribers": 51, "nsfw": false}
 {"name": "foundicytheme", "subscribers": 0, "nsfw": false}
+{"name": "foundidrpuser", "subscribers": 0, "nsfw": false}
 {"name": "foundigotbannedfornow", "subscribers": 12, "nsfw": false}
 {"name": "foundilikesceptile11", "subscribers": 11, "nsfw": false}
 {"name": "foundilikestoves", "subscribers": 20, "nsfw": false}
@@ -101730,6 +101736,7 @@
 {"name": "hobbyhorsingday", "subscribers": 0, "nsfw": false}
 {"name": "hobbylobbycringe", "subscribers": 0, "nsfw": false}
 {"name": "hobbylospodcast", "subscribers": 18, "nsfw": false}
+{"name": "hobbymachinists", "subscribers": 0, "nsfw": false}
 {"name": "hobbymaster", "subscribers": 0, "nsfw": false}
 {"name": "hobbypublishing", "subscribers": 0, "nsfw": false}
 {"name": "hobbyrage", "subscribers": 25, "nsfw": false}
@@ -105488,6 +105495,7 @@
 {"name": "iainmcgilchrist", "subscribers": 814, "nsfw": false}
 {"name": "iainmemebanks", "subscribers": 194, "nsfw": false}
 {"name": "iaintreadingallat", "subscribers": 34, "nsfw": false}
+{"name": "iainttotnilegs", "subscribers": 0, "nsfw": false}
 {"name": "iaitalia", "subscribers": 61, "nsfw": false}
 {"name": "ialsobeatthisguyswife", "subscribers": 13, "nsfw": false}
 {"name": "ialwayswondered", "subscribers": 0, "nsfw": false}
@@ -122154,6 +122162,7 @@
 {"name": "kolkataeats", "subscribers": 22, "nsfw": false}
 {"name": "kolkatahousing", "subscribers": 0, "nsfw": false}
 {"name": "kolkataknightriders", "subscribers": 29969, "nsfw": false}
+{"name": "kolkatalgbtq", "subscribers": 0, "nsfw": false}
 {"name": "kolkatalife", "subscribers": 2937, "nsfw": false}
 {"name": "kolkatareal", "subscribers": 0, "nsfw": false}
 {"name": "kolkatarentals", "subscribers": 0, "nsfw": false}
@@ -175700,6 +175709,7 @@
 {"name": "porsche_cayman", "subscribers": 29702, "nsfw": false}
 {"name": "porsche_racing", "subscribers": 0, "nsfw": false}
 {"name": "porschecayenne", "subscribers": 13198, "nsfw": false}
+{"name": "porschemacan", "subscribers": 0, "nsfw": false}
 {"name": "porschemotorsport", "subscribers": 1443, "nsfw": false}
 {"name": "porscheracks", "subscribers": 193, "nsfw": false}
 {"name": "porsches_and_pups", "subscribers": 112, "nsfw": false}
@@ -208198,6 +208208,7 @@
 {"name": "splatoon_3", "subscribers": 31888, "nsfw": false}
 {"name": "splatoon_irl", "subscribers": 360, "nsfw": false}
 {"name": "splatoon_place", "subscribers": 128, "nsfw": false}
+{"name": "splatoon_raiders", "subscribers": 0, "nsfw": false}
 {"name": "splatoonart", "subscribers": 1693, "nsfw": false}
 {"name": "splatoonhighlights", "subscribers": 0, "nsfw": false}
 {"name": "splatoonhub", "subscribers": 0, "nsfw": false}
@@ -257236,6 +257247,7 @@
 {"name": "yoshikotsushima", "subscribers": 349, "nsfw": false}
 {"name": "yoshil", "subscribers": 163, "nsfw": false}
 {"name": "yoshimains", "subscribers": 0, "nsfw": false}
+{"name": "yoshinoya", "subscribers": 0, "nsfw": false}
 {"name": "yoshiohka", "subscribers": 202, "nsfw": false}
 {"name": "yosoybettylafea", "subscribers": 132, "nsfw": false}
 {"name": "yossyarefi", "subscribers": 34, "nsfw": false}
