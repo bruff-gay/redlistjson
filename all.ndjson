@@ -88192,6 +88192,7 @@
 {"name": "game_tester", "subscribers": 2214, "nsfw": false}
 {"name": "gameai", "subscribers": 8400, "nsfw": false}
 {"name": "gameanalytics", "subscribers": 269, "nsfw": false}
+{"name": "gameandconnect", "subscribers": 0, "nsfw": false}
 {"name": "gameandwatch", "subscribers": 3567, "nsfw": false}
 {"name": "gameandwatchmods", "subscribers": 4043, "nsfw": false}
 {"name": "gamearcane", "subscribers": 992, "nsfw": false}
@@ -88358,6 +88359,7 @@
 {"name": "gamekids", "subscribers": 0, "nsfw": false}
 {"name": "gamekit", "subscribers": 452, "nsfw": false}
 {"name": "gamelade", "subscribers": 79, "nsfw": false}
+{"name": "gamelevelvault", "subscribers": 0, "nsfw": false}
 {"name": "gamelit", "subscribers": 0, "nsfw": false}
 {"name": "gameloftdhchampions", "subscribers": 2847, "nsfw": false}
 {"name": "gameloop", "subscribers": 2351, "nsfw": false}
@@ -198125,6 +198127,7 @@
 {"name": "sdaparty", "subscribers": 66, "nsfw": false}
 {"name": "sdarot", "subscribers": 69, "nsfw": false}
 {"name": "sdauto", "subscribers": 0, "nsfw": false}
+{"name": "sdawallpaper", "subscribers": 0, "nsfw": false}
 {"name": "sdbc", "subscribers": 59, "nsfw": false}
 {"name": "sdbeer", "subscribers": 399, "nsfw": false}
 {"name": "sdbh_community", "subscribers": 0, "nsfw": false}
@@ -217962,6 +217965,7 @@
 {"name": "syarokirima", "subscribers": 79, "nsfw": false}
 {"name": "sybarites", "subscribers": 213, "nsfw": false}
 {"name": "syberia", "subscribers": 0, "nsfw": false}
+{"name": "syberjet", "subscribers": 0, "nsfw": false}
 {"name": "sybila", "subscribers": 129609, "nsfw": true}
 {"name": "sybreed", "subscribers": 131, "nsfw": false}
 {"name": "sycl", "subscribers": 0, "nsfw": false}
@@ -242625,6 +242629,7 @@
 {"name": "unexpectedog", "subscribers": 115, "nsfw": false}
 {"name": "unexpectedoldgregg", "subscribers": 240, "nsfw": false}
 {"name": "unexpectedonepiece", "subscribers": 1158, "nsfw": false}
+{"name": "unexpectedopinions", "subscribers": 0, "nsfw": false}
 {"name": "unexpectedoswalt", "subscribers": 38, "nsfw": false}
 {"name": "unexpectedouija", "subscribers": 30518, "nsfw": false}
 {"name": "unexpectedoverwatch", "subscribers": 8508, "nsfw": false}
