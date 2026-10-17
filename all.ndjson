@@ -18648,6 +18648,7 @@
 {"name": "atari7800", "subscribers": 1405, "nsfw": false}
 {"name": "atari8bit", "subscribers": 0, "nsfw": false}
 {"name": "atariemulation", "subscribers": 0, "nsfw": false}
+{"name": "atarigroup", "subscribers": 0, "nsfw": false}
 {"name": "atarijaguar", "subscribers": 3271, "nsfw": false}
 {"name": "atarilynx", "subscribers": 0, "nsfw": false}
 {"name": "atariportfolio", "subscribers": 162, "nsfw": false}
@@ -101941,6 +101942,7 @@
 {"name": "hibrewcoffee", "subscribers": 0, "nsfw": false}
 {"name": "hibsfc", "subscribers": 0, "nsfw": false}
 {"name": "hiby", "subscribers": 0, "nsfw": false}
+{"name": "hiby_sonix", "subscribers": 0, "nsfw": false}
 {"name": "hica", "subscribers": 0, "nsfw": false}
 {"name": "hiccupandastrid", "subscribers": 2091, "nsfw": false}
 {"name": "hiccupslovers", "subscribers": 103, "nsfw": false}
@@ -237064,6 +237066,7 @@
 {"name": "turfwarsapp", "subscribers": 153, "nsfw": false}
 {"name": "turgcult", "subscribers": 1315, "nsfw": false}
 {"name": "turikbudapesten", "subscribers": 204, "nsfw": false}
+{"name": "turingcomplete", "subscribers": 0, "nsfw": false}
 {"name": "turingmachines", "subscribers": 107, "nsfw": false}
 {"name": "turingphone", "subscribers": 59, "nsfw": false}
 {"name": "turingpi", "subscribers": 558, "nsfw": false}
