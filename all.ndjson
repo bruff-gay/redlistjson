@@ -7252,6 +7252,7 @@
 {"name": "ainewsandtrends", "subscribers": 3255, "nsfw": false}
 {"name": "ainewsfinetuned", "subscribers": 0, "nsfw": false}
 {"name": "ainewshelpandtips", "subscribers": 22, "nsfw": false}
+{"name": "ainewshere", "subscribers": 0, "nsfw": false}
 {"name": "ainewsminute", "subscribers": 12115, "nsfw": false}
 {"name": "aingstrom", "subscribers": 0, "nsfw": false}
 {"name": "ainhl", "subscribers": 135, "nsfw": false}
@@ -88463,6 +88464,7 @@
 {"name": "fundamentalplayground", "subscribers": 655, "nsfw": false}
 {"name": "fundd", "subscribers": 35, "nsfw": false}
 {"name": "funddit", "subscribers": 454, "nsfw": false}
+{"name": "fundeal24", "subscribers": 0, "nsfw": false}
 {"name": "fundednext", "subscribers": 0, "nsfw": false}
 {"name": "fundednexthub", "subscribers": 0, "nsfw": false}
 {"name": "fundedtraders", "subscribers": 605, "nsfw": false}
@@ -147259,6 +147261,7 @@
 {"name": "minecrafttubers", "subscribers": 314, "nsfw": false}
 {"name": "minecraftturkiye", "subscribers": 0, "nsfw": false}
 {"name": "minecrafttutoriales", "subscribers": 187, "nsfw": false}
+{"name": "minecrafttutorials", "subscribers": 0, "nsfw": false}
 {"name": "minecraftua", "subscribers": 0, "nsfw": false}
 {"name": "minecraftunabridged", "subscribers": 270, "nsfw": false}
 {"name": "minecraftunlimited", "subscribers": 6460, "nsfw": false}
@@ -188365,6 +188368,7 @@
 {"name": "ratemyvomit", "subscribers": 231, "nsfw": false}
 {"name": "ratemyweld", "subscribers": 62, "nsfw": false}
 {"name": "ratemywok", "subscribers": 176, "nsfw": false}
+{"name": "ratemyworkout", "subscribers": 0, "nsfw": false}
 {"name": "rateover30", "subscribers": 0, "nsfw": false}
 {"name": "rateover30gonewild", "subscribers": 0, "nsfw": false}
 {"name": "ratescape", "subscribers": 54, "nsfw": false}
@@ -212266,6 +212270,7 @@
 {"name": "soslimited", "subscribers": 0, "nsfw": false}
 {"name": "sosminecraft", "subscribers": 177, "nsfw": false}
 {"name": "sosmula", "subscribers": 0, "nsfw": false}
+{"name": "soso_espanha", "subscribers": 0, "nsfw": false}
 {"name": "sosofdepression", "subscribers": 90, "nsfw": false}
 {"name": "sosprowrestling", "subscribers": 18, "nsfw": false}
 {"name": "sosshouse", "subscribers": 478, "nsfw": false}
@@ -216285,6 +216290,7 @@
 {"name": "starwarswomen", "subscribers": 1177, "nsfw": false}
 {"name": "starwayateez", "subscribers": 60, "nsfw": false}
 {"name": "starwindsoftware", "subscribers": 225, "nsfw": false}
+{"name": "starwoodpettravel", "subscribers": 0, "nsfw": false}
 {"name": "starworldai", "subscribers": 22, "nsfw": false}
 {"name": "starwyrms", "subscribers": 70, "nsfw": false}
 {"name": "staryield", "subscribers": 0, "nsfw": false}
@@ -266658,6 +266664,7 @@
 {"name": "zoos", "subscribers": 7406, "nsfw": false}
 {"name": "zoosk", "subscribers": 644, "nsfw": false}
 {"name": "zootopia", "subscribers": 0, "nsfw": false}
+{"name": "zootopiafanart", "subscribers": 0, "nsfw": false}
 {"name": "zootopiaporn", "subscribers": 143817, "nsfw": true}
 {"name": "zootown", "subscribers": 936, "nsfw": false}
 {"name": "zootr", "subscribers": 0, "nsfw": false}
