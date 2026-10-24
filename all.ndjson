@@ -5655,6 +5655,7 @@
 {"name": "advicefromdad", "subscribers": 118, "nsfw": false}
 {"name": "advicehell", "subscribers": 0, "nsfw": false}
 {"name": "advicenews", "subscribers": 5213, "nsfw": false}
+{"name": "adviceonlinegambling", "subscribers": 0, "nsfw": false}
 {"name": "adviceonwriting", "subscribers": 190, "nsfw": false}
 {"name": "adviceoutfit", "subscribers": 0, "nsfw": false}
 {"name": "adviceoysters", "subscribers": 113, "nsfw": false}
@@ -42457,6 +42458,7 @@
 {"name": "celtconlangs", "subscribers": 0, "nsfw": false}
 {"name": "celtic", "subscribers": 11638, "nsfw": false}
 {"name": "celticcharm", "subscribers": 65, "nsfw": false}
+{"name": "celticfashion", "subscribers": 0, "nsfw": false}
 {"name": "celticfc", "subscribers": 43074, "nsfw": false}
 {"name": "celticfootballclub", "subscribers": 157, "nsfw": false}
 {"name": "celticguitar", "subscribers": 130, "nsfw": false}
@@ -88095,6 +88097,7 @@
 {"name": "freecricutsvgfiles", "subscribers": 6081, "nsfw": false}
 {"name": "freecrochetvideos", "subscribers": 0, "nsfw": false}
 {"name": "freecryptovip", "subscribers": 160, "nsfw": false}
+{"name": "freecssanimations", "subscribers": 0, "nsfw": false}
 {"name": "freecuba", "subscribers": 25, "nsfw": false}
 {"name": "freeculture", "subscribers": 9006, "nsfw": false}
 {"name": "freeculturemovement", "subscribers": 0, "nsfw": false}
@@ -156787,6 +156790,7 @@
 {"name": "mylovelyempress", "subscribers": 0, "nsfw": false}
 {"name": "mylovelyseries", "subscribers": 24, "nsfw": false}
 {"name": "mylovestorywithyamada", "subscribers": 0, "nsfw": false}
+{"name": "mylovetiger", "subscribers": 0, "nsfw": false}
 {"name": "myluvrye", "subscribers": 199, "nsfw": false}
 {"name": "mymana", "subscribers": 0, "nsfw": false}
 {"name": "mymarvelwallpapers", "subscribers": 0, "nsfw": false}
@@ -160839,6 +160843,7 @@
 {"name": "newsopensource", "subscribers": 0, "nsfw": false}
 {"name": "newsoundcloudrappers", "subscribers": 450, "nsfw": false}
 {"name": "newsouth", "subscribers": 0, "nsfw": false}
+{"name": "newspacerace", "subscribers": 0, "nsfw": false}
 {"name": "newspapercomics", "subscribers": 1944, "nsfw": false}
 {"name": "newspapers", "subscribers": 982, "nsfw": false}
 {"name": "newspecies", "subscribers": 167, "nsfw": false}
@@ -171971,6 +171976,7 @@
 {"name": "ottawaconnect", "subscribers": 0, "nsfw": false}
 {"name": "ottawacounty", "subscribers": 0, "nsfw": false}
 {"name": "ottawacrime", "subscribers": 269, "nsfw": false}
+{"name": "ottawadance", "subscribers": 0, "nsfw": false}
 {"name": "ottawadatingscene", "subscribers": 0, "nsfw": false}
 {"name": "ottawafishing", "subscribers": 0, "nsfw": false}
 {"name": "ottawafixedgear", "subscribers": 122, "nsfw": false}
@@ -213914,6 +213920,7 @@
 {"name": "sobanazamyt", "subscribers": 0, "nsfw": false}
 {"name": "sobasicallywemonky", "subscribers": 179, "nsfw": false}
 {"name": "sobbingquietly", "subscribers": 0, "nsfw": false}
+{"name": "sobe", "subscribers": 0, "nsfw": false}
 {"name": "sober", "subscribers": 88238, "nsfw": false}
 {"name": "sober_spring", "subscribers": 50, "nsfw": false}
 {"name": "soberandhateit", "subscribers": 2011, "nsfw": false}
@@ -224772,6 +224779,7 @@
 {"name": "suzukazeaoba", "subscribers": 0, "nsfw": false}
 {"name": "suzuki", "subscribers": 10772, "nsfw": false}
 {"name": "suzuki_fumina", "subscribers": 2674, "nsfw": false}
+{"name": "suzuki_gsx_8", "subscribers": 0, "nsfw": false}
 {"name": "suzukiautoitalia", "subscribers": 0, "nsfw": false}
 {"name": "suzukibaleno", "subscribers": 237, "nsfw": false}
 {"name": "suzukiboulevard", "subscribers": 0, "nsfw": false}
@@ -235745,6 +235753,7 @@
 {"name": "thesmilingtortoise", "subscribers": 0, "nsfw": false}
 {"name": "thesmithplays", "subscribers": 5952, "nsfw": false}
 {"name": "thesmiths", "subscribers": 56934, "nsfw": false}
+{"name": "thesmithsociety", "subscribers": 0, "nsfw": false}
 {"name": "thesmithstreetband", "subscribers": 438, "nsfw": false}
 {"name": "thesmoaksvlogs", "subscribers": 0, "nsfw": false}
 {"name": "thesmorgasboard", "subscribers": 25, "nsfw": false}
